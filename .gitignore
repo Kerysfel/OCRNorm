@@ -1,2 +1,8 @@
 # Data and temp files
 TMP/
+
+# Launch
+.vscode/
+
+# Cache
+__pycache__/
