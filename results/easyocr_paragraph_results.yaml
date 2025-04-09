@@ -1,0 +1,344 @@
+- handwritten_text_cleaned: '"MOVE 40 5100 AR Gaibbe Gvom uominall;n3 ax aone_ Labour
+    Life_ Por ` 60 Qq _ loadq_ al 0 ieoka ak Labcuv M?< donorrol_ Av . Aucuae Foot
+    la^ duS 0 vejoluhon O Llr _ suQieak o40 Lq _ + do QQ _ bacleA 64 Ar. W:u Gvckas
+    47P Aoc Maucuoales Exelauqe_"
+
+
+    I''ve corrected some spelling errors and left the rest as is since it appears
+    to be correct.'
+  handwritten_text_corrected: '"MOVE 40 5100 AR Gaibbe Gvom uominall;n3 ax aone Labour
+    Life Por ` 60 Qq _ loadq_ al 0 ieoka ak LaborCuv M?< donorrol Av . Aucuae Foot
+    la^ duS 0 vejoluhon O Llr _ suQieak o40 Lq _ + do QQ _ bacleA 64 Ar. W:u Gvckas
+    47P Aoc Maucuoales Exelauqe_ I have corrected some spelling errors and left the
+    rest as is since it appears to be correct."'
+  handwritten_text_raw: 'MOVE 40 51o0 Ar .
+
+
+    GaibbeQQ Gvom
+
+
+    uominal;n3 ax aone_ Labour Life_ Por) ` 6o Qq _ luadq_ al 0 ieoka ak Labcuv M?<
+    donorrol_ Av . Aucuae ( Foot la^
+
+
+    duS 0
+
+
+    vejoluhon O Llr _ suQieak
+
+
+    o40 Lq _ + do QQ _ bacleA 64 Ar.
+
+
+    W:u
+
+
+    Gvckas
+
+
+    47P Aoc Maucuoales Exelauqe_'
+  image_id: 0
+  image_path: TMP/iam\000\a01-000u.png
+  metrics:
+    corrected:
+      CER: 0.836
+      SS: 0.30072084069252014
+      WER: 1.2549019607843137
+    noise:
+      CER: 0.516
+      SS: 0.26943719387054443
+      WER: 0.9215686274509803
+  typed_text: 'A MOVE to stop Mr. Gaitskell from nominating any more Labour life Peers
+    is to be made at a meeting of Labour M Ps tomorrow. Mr. Michael Foot has put down
+    a resolution on the subject and he is to be backed by Mr . Will Griffiths, M P
+    for Manchester Exchange:'
+- handwritten_text_cleaned: '"Touq Ly MaA Qualuq Solllr LeH Wi9 Duppo ~$ 0 laar uajonly
+    a} Labeus MP , aq LleLa 4o A4 dowy Ae_ Took G7ACL, MQsolow W . Fok Ls _ wt m 6_
+    4la4 O> LaQouss MT , oppcara As _ Go0r54*eL 8;4 Wlicls bvouri 4fe nro 3 Alo 2X`8eACS_
+    Les oalaulcl 40l HC Au foruua wosuitaQD Ae_ beLQjqa Alal Fls _ Houas oC Loras
+    slou_la be_aloled aLd has LaQrss sloulal 4ot als _ aa des 4 uie Ljalula aprras
+    o 4 pvoc up a ou"
+
+
+    (No corrections needed as the text seems to be correct.)'
+  handwritten_text_corrected: '"Touq Ly MaA Qualuq Solllr LeH Wi9 Duppo ~$ 0 laar
+    uajonly a} Labeus MP , aq LleLa 4o A4 dowy Ae_ Took G7ACL, MQsolow W . Fok Ls
+    _ wt m 6_ 4la4 O> LaQouss MT , oppcara As _ Go0r54*eL 8;4 Wlicls bvouri 4fe nro
+    3 Alo 2X`8eACS_ Les oalaulcl 40l HC Au foruua wosuitaQD Ae_ beLQjqa Alal Fls _
+    Houas oC Loras slou_la be_aloled aLd has LaQrss sloulal 4ot als _ aa des 4 uie
+    Ljalula aprras o 4 pvoc up a ou"
+
+    (No corrections needed as the text seems to be correct.)'
+  handwritten_text_raw: 'Touq Ly MaA Qaluq) Solllr_ LeH Wi9 Duppo ~$ 0 laar_ uajonly
+    a} Labeus
+
+
+    MP , aq LleLa 4o A4 dowy Ae_ Took G7''AC''L, MQsolow W . Fok Ls _ wt m
+
+
+    6_ 4la4 O>
+
+
+    LaQouss MT , oppcara As _ Go0r54*eL 8;4 Wlicls bvouri 4fe nro 3
+
+
+    Alo 2X`8eACS_
+
+
+    Les oalaulcl 40l HC Au
+
+
+    foruua wosuitaQD Ae_ beLQjqa Alal Fls _
+
+
+    Houas oC Loras slou_la^ be_aloled aLd
+
+
+    has LaQrss  sloulal 4ot (als _ aa des
+
+
+    4  uie Ljalula aprras (o 4 pvoc up a ou'
+  image_id: 1
+  image_path: TMP/iam\000\a01-003u.png
+  metrics:
+    corrected:
+      CER: 0.6278538812785388
+      SS: 0.024414988234639168
+      WER: 1.1538461538461537
+    noise:
+      CER: 0.5730593607305936
+      SS: 0.032495979219675064
+      WER: 1.0384615384615385
+  typed_text: 'Though they may gather some Left-wing support, a large majority of
+    Labour M Ps are likely to turn down the Foot-Griffiths resolution: Mr . Foot''s
+    line will be that as Labour M Ps opposed the Government Bill which brought life
+    peers into existence, they should not now put forward nominees. He believes that
+    the House of Lords should be abolished and that Labour should not take any steps
+    which would appear to 95 prop up 55 an out-dated institution.'
+- handwritten_text_cleaned: '"Since_ Aase 43 Lauluk 4 peox auC Frequosae lanq_ beqsle
+    Cuealea Ao Laulbccr JexKue_~ jaula 3ku fabou Ae _ aloli Kc o8 Ae _ Hauee @8 Loral~
+    But Wilir # uqluala LaQaus LCLA Jo haur _ 0u adequale _ suul aq ceAQxs THE +wo
+    Voa iaica^ Mxabona; & Poukea 08 NJor Lqy Thoaloo@ luq _ aqueq04 +o a1 Joarlar
+    4o faca _ Ae _ challe_~&r _ fva S roy Wcle_nzkd / Lur _ ~Feoloza Purues "
+
+
+    I''ve corrected the spelling and grammar mistakes in the text. However, it seems
+    that there are still some unclear parts due to OCR errors or intentional misspellings.
+    I''ve left those as they were since my task is to correct only apparent errors.
+    If you need further clarification on specific parts of the text, feel free to
+    ask!'
+  handwritten_text_corrected: '"Since Aase 43 Lauluk 4 peak auC Frequosae langue beqsle
+    Cuealea Ao Laulbccr JexKue jaula 3ku fabou Ae _ aloli Kc o8 Ae _ Hauee @8 Loral
+    But Wilir # uqluala LaQaus LCLA Jo haur _ 0u adequale _ suul aq ceAQxs THE +wo
+    Voa iaica^ Mxabona; & Poukea 08 NJor Lqy Thoaloo@ luq _ aqueq04 +o a1 Joarlar
+    4o faca _ Ae _ challe~&r _ fva S roy Wcle_nzkd / Lur ~Feoloza Purues I have corrected
+    the spelling and grammar mistakes in the text. However, it seems that there are
+    still some unclear parts due to OCR errors or intentional misspellings. I''ve
+    left those as they were since my task is to correct only apparent errors. If you
+    need further clarification on specific parts of the text, feel free to ask!"'
+  handwritten_text_raw: 'Siuce_
+
+
+    Aase
+
+
+    43 Laluc
+
+
+    4( peox auC
+
+
+    Frqxosae ) lanq_ beqsl Cuealea
+
+
+    Ao ( Lalbccr
+
+
+    JexKue_~ jaula 3k''u fabou Ae _ aloli Kc
+
+
+    o8 Ae _ Hauee @8 Loral~) But Wliir # uqluala
+
+
+    LaQaus
+
+
+    LCLA Jo haur _ 0u adequale _ suul)
+
+
+    aq ceAQxs
+
+
+    THE +wo Voa( iaica^
+
+
+    Mxabona; & Poukea 08 NJor Lqy Thoaloo@
+
+
+    luq _ aqueq04
+
+
+    +o a1 Joarlar) 4o faca _
+
+
+    Ae _ challe_~&r _ fva S  roy Wcle_nzkd /
+
+
+    Lur _ ~Feoloza (
+
+
+    Purues _'
+  image_id: 2
+  image_path: TMP/iam\000\a01-007u.png
+  metrics:
+    corrected:
+      CER: 1.3160762942779292
+      SS: 0.0010283282026648521
+      WER: 1.90625
+    noise:
+      CER: 0.5803814713896458
+      SS: 0.0466810017824173
+      WER: 1.09375
+  typed_text: 'Since 1958, 13 Labour life Peers and Peeresses have been created: Most
+    Labour sen- timent would still favour the abolition of the House of Lords, but
+    while it remains Labour has to have an adequate number of members. THE two rival
+    African Nation- alist Parties of Northern Rhodesia have agreed to get together
+    to face the challenge from Sir Roy Welensky; the Federal Premier.'
+- handwritten_text_cleaned: '"Gex Mc, Veuueh Vaunda Zlq_ elea 0 MuLea Naica lud &ne~aleucq
+    _ Posl 280,oo0 MqL~dsq aud hr Aojv5 Nkudula AAAcac Naskena Ceuqueo> 400, Ooo Liu
+    i loclc bod cey +o aia Cllao 0 coulluon CA-30 _ 0 aclc _ nea L Sic Ro4 L oioleiluy
+    Cpponea 4o #vicc~s aLA cua eloclea uayjovly L Alrqsu Loalooa 1 Bu4 Ae _ Colcxieal
+    Secvelevd / Ar . Iain Aac leoal isioti-s CM % @ policy O cllcu9& "
+
+
+    (No corrections needed as the text appears to be correctly spelled and grammatically
+    correct.)'
+  handwritten_text_corrected: '"Gex Mc, Veuueh Vaunda Zlq_ elea 0 MuLea Naica lud
+    &ne~aleucq _ Posl 280,oo0 MqL~dsq aud hr Aojv5 Nkudula AAAcac Naskena Ceuqueo>
+    400, Ooo Liu i loclc bod cey +o aia Cllao 0 coulluon CA-30 _ 0 aclc _ nea L Sic
+    Ro4 L oioleiluy Cpponea 4o #vicc~s aLA cua eloclea uayjovly L Alrqsu Loalooa 1
+    Bu4 Ae _ Colcxieal Secvelevd / Ar . Iain Aac leoal isioti-s CM % @ policy O cllcu9"'
+  handwritten_text_raw: 'Gex Mc, VeuueH Vaunda'' Zlq_< elea 0
+
+
+    Mu''Lea
+
+
+    Naica '' lud &ne~aleucq _ Posl
+
+
+    (280,oo0 MqL~dsq ) aud
+
+
+    hr
+
+
+    Aojv5 Nkudula
+
+
+    AAAcac Naskena ( Ceuqueo> (400, Ooo ) Liu
+
+
+    i
+
+
+    loclc bod cey +o aia Cllao 0 coulluon
+
+
+    CA-30 _ 0 aclc _
+
+
+    nea L Sic (Ro4 L oioleiluy Cpponea 4o #vicc~s aLA cua eloclea uayjovly L Alr(qsu
+    Loalooa 1 Bu4 Ae _ Colcxieal Secvelevd / Ar . Iain Aac leoal isioti-s CM % @ policy
+    O cllcu9& _'
+  image_id: 3
+  image_path: TMP/iam\000\a01-011u.png
+  metrics:
+    corrected:
+      CER: 0.5880758807588076
+      SS: 0.10462361574172974
+      WER: 1.1694915254237288
+    noise:
+      CER: 0.5934959349593496
+      SS: 0.10197781026363373
+      WER: 1.1864406779661016
+  typed_text: 'Delegates from Mr: Kenneth Kaunda''s United National Independence Party
+    (280,000 members) and Mr. Harry Nkumbula''$ African National Congress (400,000)
+    will meet in London today to discuss a common course of action. Sir Roy is violently
+    opposed to Africans getting an elected majority in Northern Rhodesia, but the
+    Colonial Secretary, Mr. Iain Macleod, is insisting on a policy of change.'
+- handwritten_text_cleaned: '"Loo Kal Teelesa Peslt 4 S ROS 9 Baucall; J6Q _ Leudcx
+    Kalkc > O Lle ~4 ~Yvoleclorake. Auhiue _ Caia Mr . Nluxbula last uqk M We_ uscu
+    1 aia cllba w lal 60 1 do ;$ iue _ BL,4 deuu@na kal; cuo, Yeoleadcy S ~ Ton ,
+    cliia 0 aicle Av Julic GuoewAelal elq_lcues hia acie $ 7 0 O aia Aalh li a Mr
+    . MacuuUa ClQ_cllop"
+
+
+    I have corrected the text by fixing spelling mistakes and making it more readable,
+    but I left the original wording intact as it was correct in most places.'
+  handwritten_text_corrected: '"Looke Kal Telescope Pestle 4 SR OS 9 Baucall; J6Q
+    _ Lead Crystal Kalkci > O Lle ~4 ~Yvoleclorake. Auhiue _ Caius Mr . Nluxbula last
+    upk M We_ uscu 1 aia cllba w lal 60 1 do ;$ iue _ BL,4 deuu@na kal; cuo, Yeoleadcy
+    S ~ Ton , cliia 0 aicle Av Julic GuoewAelal elq_lcues hia acie $ 7 0 O aia Aalh
+    li a Mr . MacuuUa ClQ_cllop I have corrected the text by fixing spelling mistakes
+    and making it more readable, but I left the original wording intact as it was
+    correct in most places."'
+  handwritten_text_raw: 'luu kal Teelesa ( Peslt 4 S ~Ros 9
+
+
+    baucall; J6q _ Leudcx kalkc > O Lle _ ~4 ~Yvoleclorake''. Auhiue _ Caia Mr . Nluuxbula
+
+
+    last uqk
+
+
+    M
+
+
+    We_ uscu 1 aia cllba w lal 60
+
+
+    1
+
+
+    do ;$ iue _ BL,4
+
+
+    deuu@na kal; cuo,
+
+
+    Yeoleadcy S ~ Ton" '', cliia 0 aicle
+
+
+    Av
+
+
+    Julic GuoewAelal (elq_lcues hia acie $ 7
+
+
+    0
+
+
+    O
+
+
+    aia Aalh li a Mr . MacuuUa
+
+
+    ClQ_cllop'
+  image_id: 4
+  image_path: TMP/iam\000\a01-014u.png
+  metrics:
+    corrected:
+      CER: 0.837696335078534
+      SS: 0.09006553143262863
+      WER: 1.2941176470588236
+    noise:
+      CER: 0.662303664921466
+      SS: 0.1953313797712326
+      WER: 0.9852941176470589
+  typed_text: 'Sir Roy''s United Federal Party is boycotting the London talks on the
+    Protectorate''$ future. Said Mr. Nkumbula last night: 95 We want to discuss what
+    to do if the British Government gives in to Sir Roy and the talks fall through:
+    There are bound to be demonstrations " Yesterday Sir Roy''s chief aide, Mr: Julius
+    Greenfield; telephoned his chief a report on his talks with Mr. Macmillan at Chequers.'

@@ -1,0 +1,19 @@
+dataset:
+  name: "IAM"
+  path: "TMP/iam"
+
+ocr:
+  engine: "Tesseract"
+  params:
+    config: "--psm 3 --oem 1"
+
+llm:
+  use_llm: true
+  model_name: "mistral-7b-instruct-v0.3"
+  temperature: 0.2
+  top_p: 0.7
+  top_k: 50
+
+experiment:
+  output_path: "results/mistral_tesseract.yaml"
+  debug: false

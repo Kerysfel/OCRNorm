@@ -1,0 +1,520 @@
+- handwritten_text_cleaned: '"K MOVE to store Mr. Garibaldi from KO HOI way Out West
+    Lower Lofowr Ufle_ “Poors want to be advised aka mediated af Le Doar MPs toucourage,
+    My, Michael Foot Kay prepares a resolution on the subject Onr Want BackR Mer.
+    With Mr. Whit GafhUs , WP Ror Moncrodes Cerorrange "'
+  handwritten_text_corrected: '"K MOVE to store Mr. Garibaldi from Ko Hoi way Out
+    West Lower Lofewr Ufle_ “Poors want to be advised aka mediated by Le Doar MPs
+    toucourage, My, Michael Foot Kay prepares a resolution on the subject Onr Want
+    BackR Mer. With Mr. Whit Gahus , WP Ror Moncrodes Cerorrange"'
+  handwritten_text_raw: 'k MOVE to stoe Mr. Gariblkedl from
+
+
+    KO HOI wae Oud WOWR Lofowr Ufle_ “Poors
+
+
+    wo to B2 wade aka medhua af Le Doar
+
+    MPs toucrreoro, My, Michael Fook Kay
+
+    pre Aown a vesolition on the sudiody
+
+    Onr Wo do Va. backeR by Mer. Wit
+
+
+    GafhUs , WP Ror Moncrodes Cerorrange _'
+  image_id: 0
+  image_path: TMP/iam\000\a01-000u.png
+  metrics:
+    corrected:
+      CER: 0.48
+      SS: 0.3276973068714142
+      WER: 0.7843137254901961
+    noise:
+      CER: 0.408
+      SS: 0.30528968572616577
+      WER: 0.8431372549019608
+  typed_text: 'A MOVE to stop Mr. Gaitskell from nominating any more Labour life Peers
+    is to
+
+    be made at a meeting of Labour M Ps tomorrow. Mr. Michael Foot has put down
+
+    a resolution on the subject and he is to be backed by Mr. Will Griffiths, M P
+    for
+
+    Manchester Exchange.'
+- handwritten_text_cleaned: '"THOU Hay Warily qualified some Le Year ~ wore an apparatus,
+    a lorac waistonty all Laurel WP > cried Lately itnm. "Hale Gat. weoltwon. bt.
+    Fook Lua will Q@ Work Lators MPS combat Ma Governors crewtk "Bil DW brought Ufe.
+    ears who ask for attention basockoulch not now pe Coreums, He pleads Mack ba Howes.
+    of Lovats shouto’ be addressed ard prak Latics should uch balance. auy shepo up
+    WK Wald aPpeasr to . pYmF up an ow -"'
+  handwritten_text_corrected: '"You carefully qualified some year, wore an apparatus
+    called a lace waistcoat all laurel WP. Hale Gate. well-toned. but Fook Lua will
+    work later MPS combat Ma Governors crewcut Bill DW brought Ufe. ears who ask for
+    attention basquetball court not now please Coreums, He pleads Mack ba Howes. of
+    Lovats shout out to be addressed earnestly and precisely. The PymF up an owl -"'
+  handwritten_text_raw: 'THOU Hay Wary Qalised some Le Yr ~ wore
+
+    aapport, a lorac wajonty al La®auer
+
+    WP > cr® Lat to bry downy itnm. “hale ~
+
+    Gat. weoltwon. bt. Fook Lua will
+
+    Q@ Wokoar Lators MPs cppomach Ma
+
+    Goves kuewtk “Bil DW bvongh Ufe. ears
+
+    who axigencn bas ockoulch nok nou pe
+
+    Cored uoMminads, He pelevds Mak ba
+
+    Howes. of Lovats shouto’ be adslstad ard
+
+    prak Latics should uch bala. auy shepo
+
+
+    u
+
+
+    WK Wald aPpeeasr to . pYmF uP an ow ~'
+  image_id: 1
+  image_path: TMP/iam\000\a01-003u.png
+  metrics:
+    corrected:
+      CER: 0.6689814814814815
+      SS: 0.20740002393722534
+      WER: 0.8947368421052632
+    noise:
+      CER: 0.48148148148148145
+      SS: 0.2716410160064697
+      WER: 0.9078947368421053
+  typed_text: 'Though they may gather some Left-wing support, a large majority of
+    Labour M Ps
+
+    are likely to turn down the Foot-Griffiths resolution. Mr. Foot’s line will be
+    that as
+
+    Labour M Ps opposed the Government Bill which brought life peers into existence,
+
+    they should not now put forward nominees. He believes that the House of Lords
+
+    should be abolished and that Labour should not take any steps which would appear
+
+    to ’prop up” an out-dated institution.'
+- handwritten_text_cleaned: '"Giacomo ASE, 1B Lawler Avenue Pease Park Place is located
+    Feoester Street USA between Cook Street and Douglas Road. Most Lattour Mouliswalk
+    Walks akin Douglas Drive Moore Avenue about House of Me House af Loveads, Back
+    WU if was laborers has done have® on activeable uuuhe ol waters. THE two vivacious
+    Nicholmalli & “Poukes of Narbour Rhoadan leave about2co% to each tooel 2. to face
+    Ma charge. from Sir "Roy Wolrusky too Federal "Puguwies,"'
+  handwritten_text_corrected: '"Giacomo ASE, 1B Lawler Avenue Pease Park Place is
+    located on Featherston Street USA between Cook Street and Douglas Road. Most Lots
+    Malls walkways around Douglas Drive Moore Avenue about House of Me House a Love''s,
+    Back WU if laborers have done have® on accessible water. THE two vivacious Nicholmalli
+    & “Poukes of Narbour Rhoadan leave about 2% to each tooel 2. to face Ma charge.
+    from Sir Roy Wolrusky too Federal Pugwash,"'
+  handwritten_text_raw: 'Giucn ASE, 1B Lawaur ULfe Pees ark
+
+    Feoese2so Uae bean cucabed. Most Latour
+
+    mouliwasnk Walk akih Droeur Me abo hou
+
+    of Me Houee af Lovads, Bak WU ib wus
+
+    labours has do have® on actequabe  uuuhe)
+
+    ol waters. THE too vival bhiccn
+
+    Nottomali & “Poukes of Nar bou Rhoadoaan
+
+    lave agur2co% to aek tooel 2. to fae
+
+    Ma charge. from Sir “Roy Wolrusky
+
+
+    tue Feoteral “Puguwies,'
+  image_id: 2
+  image_path: TMP/iam\000\a01-007u.png
+  metrics:
+    corrected:
+      CER: 0.6648501362397821
+      SS: 0.053268276154994965
+      WER: 0.953125
+    noise:
+      CER: 0.40054495912806537
+      SS: 0.05317654460668564
+      WER: 0.859375
+  typed_text: 'Since 1958, 13 Labour life Peers and Peeresses have been created. Most
+    Labour sen-
+
+    timent would still favour the abolition of the House of Lords, but while it remains
+
+    Labour has to have an adequate number of members. THE two rival African Nation-
+
+    alist Parties of Northern Rhodesia have agreed to get together to face the challenge
+
+    from Sir Roy Welensky, the Federal Premier.'
+- handwritten_text_cleaned: '"Mr. Iain Macleod is insisting on a policy of change.
+    \ K CALWUAA » Deis_qokee Cor Me, Kenney Uatteck Noarlomal tWderprercttuca “Parby
+    280, COO works adm Mr. Horva Ni uBula > Miracan NodLomart Courgures 400, COO with
+    mead we discussed today the crisis A Communication about advertising.. Se “tog
+    & violently Apeared to kfriccus egbrra crow’ QhachkQok wrcuonn bn va | Nerbrou
+    RrootQeia, Sub Ha Colcriok Seavekova, Mr. Iain Macleod, Ls LnstoKus MA poo, a
+    change -"'
+  handwritten_text_corrected: '"Mr. Iain Macleod is insisting on a policy of change.
+    \ K CALWUAA » Deis_qokee Cor Me, Kenney Uatteck Noarlomal tWderprercttuca “Parby
+    280, COO works adm Mr. Horva Ni uBula > Miracan NodLomart Courgures 400, COO with
+    mead we discussed today the crisis A Communication about advertising.. Se “tog
+    & violently Apeared to kfriccus egbrra crow’ QhachkQok wrcuonn bn va | Nerbrou
+    RrootQeia, Sub Ha Colcriok Seavekova, Mr. Iain Macleod, Ls LnstoKus MA poo, a
+    change -"
+
+    (No corrections needed as the text appears to be mostly correct.)'
+  handwritten_text_raw: 'Mr. Iain Macleod, is insisting on a policy of change.
+
+
+    \
+
+    K CALWUAA »
+
+
+    Deis_qokee Cor Me, Kenney
+
+    Uatteck Noarlomal tWderprercttuca “Parby
+
+    (280, COO wornrtes ) adm Mr. Horva Ni uBula >
+
+    Miracan NodLomart Courgures (400, COO ) wih
+
+    mead ww  Lonckor today te craCresn A Commun
+
+    cok ob adin.. Se “tog & violently
+
+    Aepere@eH to kfriccus egbrra crow’ QhachkQok
+
+    wrcuonn bn va | Nerbrou RrootQeia, Sub Ha
+
+    Colcriok Seavekova, Mr. lain Mac leoct,
+
+
+    Ls LnstoKus MA poo, a change -'
+  image_id: 3
+  image_path: TMP/iam\000\a01-011u.png
+  metrics:
+    corrected:
+      CER: 1.025078369905956
+      SS: 0.19572986662387848
+      WER: 1.5918367346938775
+    noise:
+      CER: 0.8307210031347962
+      SS: 0.27380114793777466
+      WER: 1.4081632653061225
+  typed_text: 'Delegates from Mr. Kenneth Kaunda’s United National Independence Party
+    (280,000
+
+    members) and Mr. Harry Nkumbula’s African National Congress (400,000) will meet
+
+    in London today to discuss a common course of action. Sir Roy is violently opposed
+    to
+
+    Africans getting an elected majority in Northern Rhodesia, but the Colonial Secretary,'
+- handwritten_text_cleaned: '"Cl Pons Unitot Tectosat “Postby + bookcase na, dual
+    Letter datkhs on bre Flectorates fulluea_. Lack Mr. Miawbuloar loo works for diacures
+    who walk to ae oh in TBelkch Aconsholian § Weolerdaay Sir “Rays call aaa, HR,
+    Jatin Gurenbiglr, terplours it anual of CKuQ@ mop -"'
+  handwritten_text_corrected: '"Cl Pons Unitot Tectosat “Post by + bookcase na, dual
+    Letter datkhs on bre Flectorates fulluea_. Lack Mr. Miabuloar loo works for diacures
+    who walk to ae oh in Telkch Aconsholian § Weolerdaay Sir “Rays call aaa, HR, Jatin
+    Guerenbiglr, terplours it anual of CKuQ@ mop -"
+
+
+    Corrected text:
+
+    "Cl Pons Unitot Tectosat “Post by + bookcase na, dual Letter datkhs on bre Flectorates
+    fulluea_. Lack Mr. Miabuloar loo works for diacures who walk to ae oh in Telkch
+    Aconsholian § Weolerdaay Sir “Rays call aaa, HR, Jatin Guerenbigler, terplours
+    it anual of CKuQ@ mop -"'
+  handwritten_text_raw: 'Cl Pons Unitot Tectosat “Posby +
+
+    bowcadln na, dual Lerten datkhs on bre
+
+    Folectorates fulruea_. Laick Mr. Miawbuloar
+
+    loo wreaks 4 We werk fo diacures whalk to
+
+    ae oh en TBelkch) Aconsholian §
+
+    Weolerdaay Sir “Ray''s cual aaa, Hr,
+
+    Jatin Gurenbiglr, terplourdt kis anual
+
+
+    ov CKuQ@ mop -'
+  image_id: 4
+  image_path: TMP/iam\000\a01-014u.png
+  metrics:
+    corrected:
+      CER: 0.9394736842105263
+      SS: 0.1472688764333725
+      WER: 1.2835820895522387
+    noise:
+      CER: 0.6447368421052632
+      SS: 0.11537860333919525
+      WER: 0.9402985074626866
+  typed_text: 'Sir Roy’s United Federal Party is boycotting the London talks on the
+    Protectorate’s
+
+    future. Said Mr. Nkumbula last night: ”We want to discuss what to do if the British
+
+    Government gives in to Sir Roy and the talks fall through. There are bound to
+    be
+
+    demonstrations.” Yesterday Sir Roy’s chief aide, Mr. Julius Greenfield, telephoned
+
+    his chief a report on his talks with Mr. Macmillan at Chequers.'
+- handwritten_text_cleaned: '"He Macleod would like Mwa_ counselorce or Llouquart2s
+    Mark do the work we analyzed WL hack Slows up. U2 has voted RvV2AWA Lis FX Plara
+    bo oe Micrson anh ULboak OR more ~ Vikease plows clo ucdk qot Ma Marcas be over
+    may our searching., Mrcaun aaigaakea cue abr d yuna lnc toctay, The Conferencegen
+    works our work to Xincuss Ha_ fPreckicu of ao provided hanes. @& Cucak."'
+  handwritten_text_corrected: '"He Macleod would like a counselor or Louis Mark to
+    do the work we analyzed WL hack Slows up. U2 has voted RvV2AWA Lis FX Plara be
+    our Micron and ULboak OR more ~ Vikease plows clo ud kot Ma Marcas be over may
+    our searching., Marcun aaigaakea cue abr d yuna link toctay, The Conferencegen
+    works our work to Xincuss Ha_ fPreckicu of ao provided hanes. @& Cucak."'
+  handwritten_text_raw: 'he. Macleok wou a wih MWa_ coufesorce
+
+    oe Lloaucart2s Marck ddoehe we anaes
+
+    WL hack Slows up. U2 has voto RvV2AWA
+
+    Lis FX Plara bo oe Miccrs anh ULboak
+
+    OR mdrre ~ Vikease plows clo ucdk qot Ma
+
+    Marcas bie ovo maormby May our
+
+    serking., Mrcaun aaigaakea cue abr d yuna
+
+    lnc toctay, The Confeeaunegn wrk ureok
+
+    to Xincuss Ha_ fPreckicu of ao pvoeaeed
+
+
+    hanes. @& Cucak.'
+  image_id: 5
+  image_path: TMP/iam\000\a01-020u.png
+  metrics:
+    corrected:
+      CER: 0.5835616438356165
+      SS: 0.3793090283870697
+      WER: 0.9523809523809523
+    noise:
+      CER: 0.5342465753424658
+      SS: 0.15629760921001434
+      WER: 0.9682539682539683
+  typed_text: 'Mr. Macleod went on with the conference at Lancaster House despite
+    the crisis
+
+    which had blown up. He has now revealed his full plans to the Africans and Liberals
+
+    attending. These plans do not give the Africans the overall majority they are
+    seeking.
+
+    African delegates are studying them today. The conference will meet to discuss
+    the
+
+    function of a proposed House of Chiefs.'
+- handwritten_text_cleaned: '"Wr, JMU MacLeod, Maole Columiet Secrbowy, O22 me Wea
+    Communicus lacks with Uolk Line cavoe kegun accwork ourqohakenn om Mores Rodowvals
+    frrives. The Nowbay Riooteoiam ceukesenca Ww Lencler hoo RsQam voy cottad wy Ma
+    two ithe wmibhom eatin blue Wither Feaoat “Fifty auth Ha Douwuon Posty. “Buk uparserkorive,
+    of Le ‘Row Wes by , Pome Minides of ba Gubah Mica, Teererotte. , were to Clhaquos
+    ob brea weak -enh we talks wt ay My. Mac wi Wor "'
+  handwritten_text_corrected: '"Wr, JMU MacLeod, Mail Columiet Secretary, O22 me Wea
+    Communications lacks with Uolk Line cable equipment ourqohakenn on More Road Valves
+    drives. The New Bay Route takes us through Ww Lencler hoos RSQam voy cottyad wy
+    Ma two ithe wmibhom eatin blue Withers Feature “Fifty auth Ha Douglas Posty. “Buk
+    uparserkorive, of Le ‘Row Wes by , Pome Minides of ba Gubah Mica, Teererotte.
+    , were to Clhaquos ob brea weak -enh we talks wt ay My. Mac wi Wor"'
+  handwritten_text_raw: 'Wr, JMU MACLEOD, Mao Colemiat Secwrbowy ,
+
+    O22 me Wea Comuucis lack wighh Uolk
+
+    Line kavoe kegun accwrk uwrqohakenn om
+
+    Mores Rhodowvalts fribve. Te Nowbhay
+
+    Riooteoiam ceukesenca Ww Lencler hoo RsQam
+
+    voy cottad wy Ma two ithe wmibhom eatin
+
+    bue Wither Feaoat “Fivty auth Ha Douwuon
+
+    Posty. “Buk uparserkorive, of Le ‘Row
+
+    Wes by , Pome Minides of ba Gubah
+
+    Mica, Teererotte. , wer to Clhaquos ob
+
+
+    brea weak -enh [we talks wt ay My. Mac wi Wor ’'
+  image_id: 6
+  image_path: TMP/iam\000\a01-026u.png
+  metrics:
+    corrected:
+      CER: 0.5750577367205543
+      SS: 0.14616060256958008
+      WER: 1.0144927536231885
+    noise:
+      CER: 0.5242494226327945
+      SS: 0.19667872786521912
+      WER: 1.0
+  typed_text: 'MR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last
+    night that
+
+    there have been secret negotiations on Northern Rhodesia’s future. The Northern
+
+    Rhodesia conference in London has been boycotted by the two main settlers’ parties
+
+    - the United Federal Party and the Dominion Party. But representatives of Sir
+    Roy
+
+    Welensky, Prime Minister of the Central African Federation, went to Chequers at
+    the
+
+    week-end for talks with Mr. Macmillan.'
+- handwritten_text_cleaned: '"More amu RootWecr wo a knewbes af He Bdaoameu, but,
+    Waclro & Won nak all Mal weak ——enkK waka. “Bub ta bolA MPS yodercrtay: I have
+    you owned of secure usaqohabena, * ie oi eke, ek or. ObLUgoken 40 ccusuth inn.
+    “This Gutiawane, Bek tha, Funk AQcrricn vw@urcariueh wh Mia “Brutish Gooduwenk
+    Mic. ones Caraqun, LaQeays Colcurat DpelBeman, said Lic “Roy has a unclear to
+    ALLOW PIO Bre «a ‘a Mua talka buy Rhian a lo me vournd Hae ceufmercga 4rd,"'
+  handwritten_text_corrected: '"More amu RootWecr was a known base at He Bdaoameu,
+    but, Walcro & Won all Mal weak ——enkK waka. “Bub ta bolA MPS yodercrtay: I have
+    you owned of secure usaqohabena, * ie oi eke, ek or. ObLUgoken 40 ccusuth inn.
+    “This Gutiawane, Bek tha, Funk AQcrricn vw@urcariueh wh Mia “Brutish Gooduwenk
+    Mic. ones Caraqun, LaQeays Colcurat DpelBeman, said Lic “Roy has an unclear to
+    ALLOW PIO Bre ‘a ‘a Mua talka buy Rhian a lo me vournd Hae ceufmercga 4rd,"'
+  handwritten_text_raw: 'Mor amu RuotWecr wo a wueubes af He Bdaoameu ,
+
+    bur, Waclro& Won nak al Mal weak —-enkK
+
+
+    waka. “Bub ta bolA MPS yodercrtay: , I
+
+
+    hove uo bnowledae of secuak usaqohabena, *
+
+
+    ie oi eke, ek or. oBlUgoken 40 ccusuth
+
+    inn. “Tins Gutiawane, Bek tha, Funk
+
+    AQcrricn vw@urcariueh wh Mia “Brutish Gooduwenk
+
+    Mic. \ounes Caraqun , LaQeay''s Colcurat
+
+    DpelBeman, said Lic “Roy hah ua nghk to
+
+    ALLOW PIO Bre «a ‘a Mua talka buy Rhian a
+
+
+    lo me vournd Hae ceufmercga 4rd,'
+  image_id: 7
+  image_path: TMP/iam\000\a01-030u.png
+  metrics:
+    corrected:
+      CER: 0.5688073394495413
+      SS: 0.29048484563827515
+      WER: 0.96
+    noise:
+      CER: 0.5298165137614679
+      SS: 0.22956055402755737
+      WER: 0.9733333333333334
+  typed_text: 'Northern Rhodesia is a member of the Federation. Mr. Macleod was not
+    at the
+
+    week-end meeting. But he told M Ps yesterday: ”I have no knowledge of secret
+
+    negotiations.” He said Britain had an obligation to consult the Federal Government.
+
+    But the final decision remained with the British Government. Mr. James Callaghan,
+
+    Labour’s Colonial spokesman, said Sir Roy had no right to delay progress in the
+    talks
+
+    by refusing to sit round the conference table.'
+- handwritten_text_cleaned: '"formal titles that read as Lancaster House for Wonngton
+    Court. PRESENT KENNEDY body was correctly dressed A Queen as iron Horse Mides.
+    He has aroused singing Opposition Powers Ma could -Archive seaboard of ba Deep
+    Sav. Thea. weqo vw Mr. “Rat * Weows of New York. Gus. of Wo talent who was 2 be
+    ace Hee Ww voice vocal choir-uicuikas,"'
+  handwritten_text_corrected: '"formal titles that read as Lancaster House for Wongton
+    Court. PRESENT Kennedy body was correctly dressed A Queen as iron Horse Midas.
+    He has aroused singing Opposition Powers Mae could -Archive seaboard of ba Deep
+    Sav. Thea. weqo vw Mr. “Rat * Weows of New York. Gus. of Wo talent who was 2 be
+    ace Hee Ww voice vocal choir-uikuikas,"
+
+
+    Corrected:
+
+    formal titles that read as Lancaster House for Wongton Court. PRESENT Kennedy
+    body was correctly dressed A Queen as iron Horse Midas. He has aroused singing
+    Opposition Powers Mae could -Archive seaboard of ba Deep Sav. Thea. weqo vw Mr.
+    “Rat * Weows of New York. Gus. of Wo talent who was 2 be ace Hee Ww voice vocal
+    choir-uikukas,
+
+
+    Changes made:
+
+    1) Corrected "Wonngton" to "Wongton".
+
+    2) Corrected "Ma could -Archive" to "Mae could -Archive".
+
+    3) Corrected "ba Deep Sav" to "bay Deep Sea".
+
+    4) Corrected "weqo vw" to "we know".
+
+    5) Corrected "Hee Ww" to "He''s We".
+
+    6) Corrected "vocal choir-uikuikas" to "vocal choir-uikukas".'
+  handwritten_text_raw: 'nfommdl tats ak Llancacles Horse vor
+
+    Wonng tocray. PRESENT KENNEDY boda
+
+    dofercteod Maa. aprermbuent of a Nequa as
+
+    iro Hower Muides. Ie has arouerd sheng
+
+    Opeestion Pow Ma cud -Arqve seuabhevg of ba
+
+
+    Deap Sav. Thea. vweqo vw Mr. “Raat *
+
+
+    Weows of Nuo York. Gus. of Wo talho wu
+
+    2 bo ace Hee Ww vo vacaal ciooruuiucaksa,'
+  image_id: 8
+  image_path: TMP/iam\000\a01-043u.png
+  metrics:
+    corrected:
+      CER: 1.837465564738292
+      SS: 0.3170926868915558
+      WER: 2.370967741935484
+    noise:
+      CER: 0.5041322314049587
+      SS: 0.18221436440944672
+      WER: 0.8548387096774194
+  typed_text: 'Informal talks at Lancaster House will resume today. PRESIDENT KENNEDY
+    today
+
+    defended the appointment of a Negro as his Housing Minister. It has aroused strong
+
+    opposition from the anti-Negro senators of the Deep South. The negro is Mr. Robert
+
+    Weaver of New York. One of his tasks will be to see there is no racial discrimination
+
+    in Government and State housing projects.'
