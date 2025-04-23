@@ -3,10 +3,6 @@ import requests
 
 
 def call_local_llm(model_name: str, user_text: str, temperature: float = 0.7) -> str:
-    """
-    Вызывает локальный эндпоинт для чата, возвращает сгенерированный ответ.
-    Аналог `curl http://localhost:1234/v1/chat/completions ...`.
-    """
     url = "http://localhost:1234/v1/chat/completions"
     payload = {
         "model": model_name,

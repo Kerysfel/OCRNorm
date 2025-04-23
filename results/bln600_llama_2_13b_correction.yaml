@@ -1,0 +1,2470 @@
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "ROBBERY AT A BARONET''S. EDWARD PRING, twenty-seven, cabinet-maker, was brought
+    up on remand at the Greenwich Police Court, charged with stealing jewellery to
+    the value of £100, the property of Sir Robert Cunliffe, Bart., 2, LIP., of 37
+    Lansdowne Street, Belgravia. Chief Inspector Phillips said there were several
+    charges against the prisoner, all the robberies alleged being under similar circumstances.
+    The prisoner was taken into custody, it appeared, on a charge of stealing a watch
+    and other articles, value £12, from the residence of Miss Kene, 8 Belgrave Terrace,
+    Lee. The prisoner called at the house and represented that he had been sent by
+    the landlord to see to the blinds. He was given access to the bedrooms, and after
+    he had gone, a watch, two rings, and two lockets were stolen. His statement of
+    having been sent to the house was found to be false. The prisoner was ultimately
+    arrested on this charge, and he was subsequently charged with the robbery from
+    Sir R. Cunliffe upon information given by a young woman charged before the magistrate
+    with the unlawful possession of a diamond ring. Robert Yellam, footman to Sir
+    Robert, deposed that on March 28 the prisoner came to the house and said he had
+    come to measure the blinds. Witness said new blinds were not required, whereupon
+    prisoner said he had been sent to put some new springs. He was permitted to go
+    upstairs, and witness afterwards let him out at the front door. The house was
+    being painted. Sir Robert Cunliffe was sworn, and said a quantity of jewellery
+    was missed on the evening of March 23 by Lady Cunliffe, with whom he had been
+    out during the day. It was taken from the drawers in her dressing-table. He had
+    since identified a pair of paste buckles, gold locket, emerald ring, two diamond
+    rings, pair of crystal studs, Normanby cross, single taste buckle, earbuncle locket,
+    pair of earrings, and two other rings. Other articles of jewellery and a purse
+    containing £4 in gold and a £5 note were stolen. Jane Pring, mother of the prisoner,
+    proved pledging several of the articles at her son''s request."'
+  handwritten_text_raw: __RO BBERY AT A BARONET'S. v EDWARn PRING, twenty-seven, caipentbr,
+    was bro1ught up on remand at the Greenwich Police-court, charged with stealing
+    jewellery to the Value of �100, the pro- pertyofSirRobert Cunliffe, Bart.,2,L1P.,
+    of37 Lot ndes- street, Beigravia. Chief Inspector Phillips said there were a number
+    of cbarges against the prisoner, all the robberies alleged being tinder similar
+    circumstances. The prisoner was taken into custody, it appeared, on a charge of
+    stealing a wxatch, and other articles, value �12, from the residence of Miss ,1Kene,
+    8 Belgrave- terrace, Lee. ThP prisoner called at the house and represented that
+    lie had been sent by the landlord to see to the blinds. He *was given access to
+    the bedrooms, and after he had gone a watch, two rings, - and two lockets were
+    eiliseed. His statement of having been sent to the house was found to be false.
+    The prisoner was ultimately arrested on this charge, and he was sub- sequently
+    charged withltherobbery fromiSir R, Cunliffe's upon information given by a young
+    woman charged before the magistrate with the unlawvful possession of a diamond
+    ring. Robert Yfoellam, footman to Sir Robert, deposed thbt on March 28 the prisoner
+    came to thle house and said ha had rome to measure the blinds. Witn6ss said new
+    blinds were not rdqoiifed, ,whereupon prkoner said he had been sent to put soime
+    new springs. He was permitted to go upstairs, and witness afterwards let him out
+    at the Front door. The house was being painted. Sir Robert Cunliffe was sworn,
+    and said a quiantity ofjewellery *vhs missed on theevening of March 23 by Lady
+    Cunliffe, with whom he had been out during the day. It was taken from the drawets
+    in her &assin-table. He had since identified a pair of paste buckles, gold locket,
+    emerald ring, two diamold rings pair of crystal studs, Nor- mandy cross, single
+    taste bucklel, earbuncle locket, pair of earrings, and two eter rings. Other articles
+    of jwllery and a purse containing �4 in gold and a �5 note were stoleh. Jane Pring,
+    mother of the pri- sonller proved pledging several of the articles at hWr son's
+    request. The prisoner was further remanded for a week.
+  image_id: '3200797029'
+  metrics:
+    corrected:
+      CER: 0.05742092457420925
+      SS: 0.9475948810577393
+      WER: 0.08469945355191257
+    noise:
+      CER: 0.03795620437956204
+      SS: 0.815804660320282
+      WER: 0.16666666666666666
+  typed_text: 'ROBBERY AT A BARONETS.
+
+
+    EDWARD PRING, twenty-seven, carpenter, was brought up on remand at the
+
+    Greenwich Police-court, charged with stealing jewellery to the value of
+
+    £100, the property of Sir Robert Cunliffe, Bart., M.P., of 37 Lowndes
+
+    street, Belgravia. Chief Inspector Phillips said there were a number of
+
+    charges against the prisoner, all the robberies alleged being under
+
+    similar circumstances. The prisoner was taken into custody, it appeared,
+
+    on a charge of stealing a watch, and other articles, value £12, from the
+
+    residence of Miss Keene, 8 Belgrave terrace, Lee. The prisoner called at
+
+    the house and represented that he had been sent by the landlord to see
+
+    to the blinds. He was given access to the bedrooms, and after he had
+
+    gone a watch, two rings, and two lockets were missed. His statement of
+
+    having been sent to the house was found to be false. The prisoner was
+
+    ultimately arrested on this charge, and he was subsequently charged with
+
+    the robbery from Sir R. Cunliffe’s upon information given by a young
+
+    woman charged before the magistrate with the unlawful possession of a
+
+    diamond ring. Robert Wollam, footman to Sir Robert, deposed that on
+
+    March 23 the prisoner came to the house and said he had come to measure
+
+    the blinds. Witness said new blinds were not required, whereupon
+
+    prisoner said he had been sent to put some new springs. He was permitted
+
+    to go upstairs, and witness afterwards let him out at the front door.
+
+    The house was being painted. Sir Robert Cunliffe was sworn, and said a
+
+    quantity of jewellery was missed on the evening of March 23 by Lady
+
+    Cunliffe, with whom he had been out during the day. It was taken from
+
+    the drawers in her dressing-table. He had since identified a pair of
+
+    paste buckles, gold locket, emerald ring, two diamond rings, pair of
+
+    crystal studs, Normandy cross, single paste buckle, carbuncle locket,
+
+    pair of earrings, and two other rings. Other articles of jewellery and a
+
+    purse containing £4 in gold and a £5 note were stolen. Jane Pring,
+
+    mother of the prisoner, proved pledging several of the articles at her
+
+    son’s request. The prisoner was further remanded for a week.'
+- handwritten_text_corrected: '"CHARGE OF SETTING FIRE TO A HOUSE.
+
+
+    At the Thames Police-court, Charles Mawzi was charged with wilfully and maliciously
+    setting fire to the house, 2 Caroline-street, Commercial-road East.
+
+
+    At a quarter to four o''clock that morning, Constable Lilly, No. 332 E, was on
+    duty in Commercial-street when he met the prisoner and he said, "I have just come
+    from a fire, and there is another one up the street, close to the brewery."
+
+
+    Lilly caught hold of him and found that his coat and hands were covered with whitewash.
+    On being asked for an explanation, the prisoner said, "I have just come from a
+    fire; I will show you where it is."
+
+
+    On reaching No. 2, which is an unoccupied house, the prisoner pulled open the
+    shutters and said, "Can''t you hear the fire now?" Lilly then heard the crackling
+    of wood. He rang his rattle, and William Gadd, Sergeant, 23 H, and Alfred Ford,
+    358 K, came up.
+
+
+    Ford got in the window, and on opening the back parlour door, he found the staircase
+    in flames; also, the ground and basement floors partly burnt. Lilly ran for the
+    turncock, and in the meantime, Sergeant Gadd and Ford, assisted by a man with
+    a hose in the Commercial Factory next door to the house, commenced fighting the
+    fire. In ten minutes, a fire engine arrived, and the flames were extinguished.
+
+
+    Sergeant Gadd gave the prisoner into custody. The prisoner said he intended to
+    put out the fire. He was remanded on one surety of £20 for his appearance."'
+  handwritten_text_raw: CHARGE OF SETTING FIRE TO A HOUSE. AT the Thames police-eourt,
+    Charles Mawzi was charged with wilfully and maliciously setting fire to the house,
+    2 Caroline-9treet, Commercial-road East. At a quarter to four o'clock that 'c�morniink
+    Lilly, a constable, No. 332 E, wias'oh datyin Carblind-stc'eet, . when he met
+    the prisoeer, and he said, "I hive just come from ,afire," alluclingtoaiconflagration
+    in.Philpot- street, Commercial-rbad, " and therb is anotlher one up the street,
+    close to the brewery." *Lilly caught hold of him, 'ai found that his coat snd
+    hands were dovered with vwhiteivash, and on being dsl'ed to -acoiant for it he
+    said, " I have~jdst tome fronm a ire; I'll show you where it is." On reaclhing
+    No. 2, whiG1e is an unoc6njid 'aouse, prisoner pulled open tLie shitters and said,
+    "Can't you hear the fire now 1" and Lilly then heard the craulding of wood. He
+    iqrihng his rattle, and William Gadd, sorgeant, 23 H, and Alfred Ford, .358 K,
+    caine up. Ford got in the windoxw, and on opening the back parlour door he found
+    the stair- ease ia flsmes; also the ground and basement floor partly bnrgt. Lilly
+    ran for the turnuock, and in the meantime Srgeant Ghdd end Ford, eassisted by
+    a ran with a hose in the Commercial f3 ewery, next door to the house, commened
+    ;liyihg on the fire. In ten minutes' time a fire engine arrived, and the flanes
+    were extinguished Sac~geant Gadd gave tle prisoner into cestoif . The prisoner
+    said he 'ent to put out the fire, He was remanded, one surety in �20 being accepted
+    for his appearance.
+  image_id: '3200797032'
+  metrics:
+    corrected:
+      CER: 0.11703601108033242
+      SS: 0.972790539264679
+      WER: 0.13011152416356878
+    noise:
+      CER: 0.06786703601108034
+      SS: 0.7435697317123413
+      WER: 0.24907063197026022
+  typed_text: 'CHARGE OF SETTING FIRE TO A HOUSE.
+
+
+    AT the Thames police-court, Charles Mawzi was charged with willfully and
+
+    maliciously setting fire to the house, 2 Caroline-street,
+
+    Commercial-road East. At a quarter to four o’clock that morning Lilly, a
+
+    constable, No. 332 K, was on duty in Caroline-street, when he met the
+
+    prisoner, and he said, “I have just come from a fire,” alluding to a
+
+    conflagration in Philpot-street, Commercial-road, “and there is another
+
+    one up the street, close to the brewery.” Lilly caught hold of him, and
+
+    found that his coat and hands were covered with whitewash, and on being
+
+    asked to account for it he said, “I have just come from a fire; I’ll
+
+    show you where it is.” On reaching No. 2, which is an unoccupied house,
+
+    prisoner pulled open the shutters and said, “Can’t you hear the fire
+
+    now?” and Lilly then heard the crackling of wood. He sprang his rattle,
+
+    and William Gadd, sergeant, 23 H, and Alfred Ford, 358 K, came up. Ford
+
+    got in the window, and on opening the back parlour door he found the
+
+    staircase in flames; also the ground and basement floor partly burnt.
+
+    Lilly ran for the turncock, and in the meantime Sergeant Gadd and Ford,
+
+    assisted by a man with a house in the Commercial Brewery, next door to
+
+    the house, commenced playing on the fire. In ten minutes’ time a fire
+
+    engine arrived, and the flames were extinguished Sergeant Gadd gave the
+
+    prisoner into custody. The prisoner said he went to put out the fire. He
+
+    was remanded, one surety in £20 being accepted for his appearance.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    SERVANTS AND THEIR SWEETHEARTS. A I I . 1 _ I I _ - -__s _ -__ OT Saturday, at
+    the Croydon petty sessions, Percy Davis, alias Gordon, a clerk, and Robert Everett,
+    alias Davenport, two fashionably-attired young men, of 47 Aickenlad-road, Vauxhall,
+    and Elizabeth Williams, described as a general servant, were charged on remand
+    with being concerned together in stealing from the dwelling-house, 3 Prior-terrace,
+    St. James''s-road, Croydon, since October, 1881, various items including gold
+    chains, diamond rings, cameo brooches, gold seals, silver forks and spoons, and
+    about £20 in silver money, the property of Mary Ann Cosens, valued altogether
+    at about £50. Robert Everett, father of the prisoner of that name, was charged
+    with receiving the property well knowing it to have been stolen, and he was further
+    charged with unlawfully pledging the same. The last-named prisoner was for some
+    years a superintendent in the Dorsetshire constabulary. Mr. Young, who appeared
+    for the prosecution, said that his client, Mrs. Cosens, was an invalid lady eighty-two
+    years of age, and quite unable to attend the court owing to her infirmity. In
+    September last she engaged the female prisoner as a confidential servant and attendant,
+    and she was the only person who had access to the jewellery. Shortly after entering
+    Mrs. Cosens'' service, the prisoner Davis gained admission to the house under
+    the pretence of paying his addresses to the girl, and he had evidently slept on
+    the premises and enticed the girl to steal her mistress''s jewellery, which he
+    took away and pledged, spending the proceeds about the town. Everett shortly afterwards
+    came upon the scene and carried out the same kind of proceeding. Emily Barlow,
+    cook to the prosecutrix, stated that the prisoners first came to the house in
+    soldier''s clothes, which they afterwards exchanged for civilian dresses. They
+    used to eat up to breakfast about half-past eleven o''clock in the morning, and
+    helped themselves to dinner, the witness cooking the food out of her mistress''s
+    money. Davis was apparently courting Williams, and a servant named Smith, aged
+    twenty-three, used to visit the house on the evenings in the week and keep company
+    with Everett. During the courtship she also slept in the house. Witness was not
+    aware of the jewellery having been stolen. Detective Forster was then called to
+    prove the arrest of the elder Everett. The accused said: "My son gave me the things
+    to pledge, as I was better known and could get more money." He told me that the
+    articles had been given to him by a relative. There were several other witnesses
+    who testified to the prisoners'' conduct, and the case was adjourned for further
+    evidence.'
+  handwritten_text_raw: 'SERVANTS AND THEIR SWEETHEARTS. . A I I . 1 _ I I _ - -__s
+    _ -__ OT Saturday, at the Croydofi petty sessions, Percy Davis, alias Gordon,
+    a clerk, and Robert Everett, alias Davenport (two fashionably-attired young mneo,
+    ''of 47 Auicknlad-roid, Vauxhall), and Elizabeth Wil- liams, described t a ageniral
+    servant, wiei charged on ''remand with being concerned togetlhir in stealing from
+    the diwellifi-hoilse, .3 Pcior-terrace''St. Janiel''s- road, Croydon, since October,
+    1S81, toiv. gold chains, two diamond rings, two cameo brooches, two gold seals,
+    three gold pins, some silver forks and spoons, and about �20 in silver money,
+    the property of Mary Ann Cosens, valued altogether at about �50 and Robert Everett,
+    father of the prisoner of that name, was ctlarged with receiving the property
+    well knoiving it to have been'' stolen, and he wvas further charged with uinlawefully
+    pledging tile same. The last-ntintd prisoner was for some years a superih- tendent
+    in the Dorsctsliire constabulary. Mr. Young, wvho appeared for the prosecution,
+    said that his client, Mrs. Cosens, was an nvalid lady eighty-two years. of ''age,
+    and quite unable to attend the court owing to her infirmity.. In September last
+    she engaged the female ''prisoner as a confidential servant and attendant, ''and
+    ''sheb was the oi ly persob who hdd atcess tb'' the jewellery. Shortly after entering
+    Mrs. COsess"s''ervice she formed the acquttintance of the prisoner Davis, and
+    at the time, under the pretence of paying, his addresses to the girl, he gained
+    admission to the house, rind there was no doubt that he had made the place hlis
+    home. le had.evidently slept on the premises, and enticed the girl to steal her
+    mistress''s jewellery, hvlich he took away and pledged, and spent the proceeds
+    about the towin; Everett shortly afterwards came upon the scene, and carried out
+    the sarne- kind of proceeding. Emily Barlow, cook to the prosecutrix, stated that
+    the prisoners first canje to the house in solditeis'' clothes, which they afterw''ards
+    exchaieged for civilian dresses. Theoy used to et uIp to bliaklfst about half-past
+    eleven o''clock iin the morIiieg, and helped theniselves to ''dinner, the witness
+    cookeng the siat pnirhised~out of her mistress''s money. Davis was apparently
+    courting Williams, and a servant named Smith, aged: twenty- three, used to visit
+    the house on tlo evenings in the iveek, and keep company with Everett. During
+    the cotertship she ''also slept in the honse. Witnessawas not aware bf the jevellery
+    having been stolten. Detec- tive Forster vas thien called to prove the arrest
+    of the elder Everett. The acc sed said:-" My son gave,1no, the things to pledge,
+    as I was better kon, ettcould got mnore nemolicy He told me that theo''articl''ds
+    ad beecn given to him by, a relative." The''iae uvad, I journed, aned thp prisolnel
+    V rP e wepovocl to toe Touse pf Doteeltionce,'
+  image_id: '3200797034'
+  metrics:
+    corrected:
+      CER: 0.136432350718065
+      SS: 0.9426901340484619
+      WER: 0.18201754385964913
+    noise:
+      CER: 0.07331821617535904
+      SS: 0.8338585495948792
+      WER: 0.25219298245614036
+  typed_text: 'SERVANTS AND THEIR SWEETHEARTS.
+
+
+    ON Saturday, at the Croydon petty sessions, Percy Davis, alias Gordon, a
+
+    clerk, and Robert Everett, alias Davenport (two fashionably-attired
+
+    young men, of 47 Auckland-road, Vauxhall), and Elizabeth Williams
+
+    described as a general servant, were charged on remand with being
+
+    concerned together in stealing from the dwelling-house, 3 Prior-terrace,
+
+    St. James’s road, Croydon, since October 1881, two gold chains, two
+
+    diamond rings, two cameo brooches, two gold seals, three gold pins, some
+
+    silver forks and spoons, and about £20 in silver money, the property of
+
+    Mary Ann Cosens, valued altogether at about £50; and Robert Everett,
+
+    father of the prisoner of that name, was charged with receiving the
+
+    property well knowing it to have been stolen, and he was further charged
+
+    with unlawfully pledging the same. The last-named prisoner was for some
+
+    years a superintendent in the Dorsetshire constabulary. Mr. Young, who
+
+    appeared for the prosecution, said that his client, Mrs. Cosens, was an
+
+    invalid lady eighty-two years of age, and quite unable to attend the
+
+    court owing to her infirmity. In September last she engaged the female
+
+    prisoner as a confidential servant and attendant, and she was the only
+
+    person who had access to the jewellery. Short after entering Mrs.
+
+    Cosens’ service she formed the acquaintance of the prisoner Davis, and
+
+    at the time under the pretence of paying his addresses to the girl, he
+
+    gained admission to the house, and there was no doubt that he had made
+
+    the place his home. He had evidently slept on the premises, and enticed
+
+    the girl to steal her mistress’s jewellery, which he took away and
+
+    pledged, and spent the proceeds about the town; Everett shortly
+
+    afterwards came upon the scene, and carried out the same kind of
+
+    proceeding, Emily Barlow, cook to the prosecutrix, stated that the
+
+    prisoners first came to the house in soldiers’ clothes, which they
+
+    afterwards exchanged for civilian dresses. They used to get up to
+
+    breakfast about half-past eleven o’clock in the morning, and helped
+
+    themselves to dinner, the witness cooking the meat purchased out of her
+
+    mistress’s money. Davis was apparently courting Williams, and a servant
+
+    named Smith, aged twenty-three used to visit the house on two evenings
+
+    in the week, and keep company with Everett. During the courtship she
+
+    also slept in the house. Witness was not aware of the jewellery having
+
+    been stolen. Detective Forster was then called to prove the arrest of
+
+    the elder Everett. The accused said: - “My son gave me the things to
+
+    pledge, as I was better known, and could get more money. He told me that
+
+    the articles had been given to him by a relative.” The case was
+
+    adjourned, and the prisoners were removed to the House of Detention.'
+- handwritten_text_corrected: '"DOUBLE MURDER BY A MOTHER AT RUSHOLME. i SUBJECT OF
+    ILLUSTRATION. t, ABOUT noon on Friday information was received at en the Rusholme
+    Police-station that a woman had mur. 2, dered her two children, aged three and
+    five respectively, | th and then attempted to commit suicide by drowning. th Upon
+    the information being received Inspector Smithj an went at once with the person
+    who gave the information g- to No. 54, Moss-side. On making a detailed examina-
+    o- tion of the premises he found the two children lying rt on a bed in one of
+    the bedrooms naked and quite dead, p. apparently from drowning. Upon the body
+    of one of rt the children there was a piece of paper containing in some almost
+    illegible writing. What portions of it al that could be made out ran as follows
+    :- Dear Papa, in -I could not stand it any longer . . . . to you. e. I do not
+    think they are dead, for they a . We se shall never meet in heaven, I could not
+    help it. I as had a good husband. The inspector took Mrs. Ifib. as bert to the
+    Rusholme Police-station, where she now lies, The full circumstances of the case
+    appear to be as follows :-The unfortunate woman is the wife a, of jThomras Hibbert,
+    joiner and builder. About at twelve months ago Mrs. Hibbert gave birth to w a
+    child, She fell ill, and finally became insane, She n was removed to the Parkfield
+    Asyloam, near Maccles- r, field, of which institution she was an inmate up till
+    y the 3rd of this month. On that day her husband took l her home, although warned
+    that she was not perfectly o sane, and that a strict watch would have to be kept
+    le over her actions. He proposed to hire a nurse, but l0 Mrs. Hibbert appeared
+    to be very much upset at such a notion being entertained that the idea was abandoned.
+    is On Friday morning he left for work as usual, leaving f 3. instructions for
+    the servant to look after his wife. 2 .s Shortly after his departure Airs. Hibbert
+    called the d s children upstairs to her, and was upstairs for about t is half
+    an hour. She came down looking very ill, The s a servant became alarmed, and called
+    in a neighbour. n They went upstairs and heard a splashing in the bath. c o They
+    went into the room and found Mrs. Hibbert in i the bath. She then told them the
+    two children were a eInptairs, but. sshe did not thihsni they were dead, She -
+    J also told them she had been trying to drown herself. kThey at once went and
+    gave information to the police. t e .LATER DETAILS, d Upon farther inquiries being
+    made, the following C details were ascertained. About a year ago Mrs. t Hibbert
+    was confined of a child, The week following tI she fell ill, ultimately becoming
+    insane, necessitating t her removal to the Parkfield Asylum, Macelesfield. t She
+    was detained in that institution until Wednesday, when she was taken out by her
+    husband. He was told she was not perfectly convalescent. He. stated his intention
+    of providing a nurse for her, but that seemedn to excite Mrs. Hibbert to such
+    an extent that the idea e was reluctantly abandoned. Mrs. Hibbert rose about Si
+    half past seven on Friday morning and had breakfast b with her husband. She then
+    appeared to be in her usual health, bodily and mentally. M1r. Hibbert left a the
+    house about eight oclock in order to proceed to his uN work, but prior to his
+    doing so he gave strict orders to his servant to keep an eye upon her mistresss
+    move- ments. About nine oclock Mrs. Hibbert told the servant to call the children
+    in from playing in the front vi garden. Mrs. Hibbert took hold of the children
+    and C took them upstairs with her. She came down shortly 6* afterwards and sent
+    the servant for a bottle of soda, a saying that she felt very unwell. On the servants
+    a! return with the soda water, she asked her mistress what P had become of the
+    children. Mrs. Hibbert replied that they had gone to the corner shop. The servant
+    went of to inquire if they were there, but was told they had never been there.
+    Becoming alarmed,/she procured a I neighbour named Mrs. Deedle to go back to the
+    house t with her, as she suspected something was the matter. d On reaching the
+    house they heard a splashing in the d bathroom. They proceeded thither, and found
+    Mrs. 1Hibbert in the bath. They asked her where the chil i dren were, and Mrs.
+    Hibbert replied, I have dro wned | l them, I dont think they are dead, as they
+    are quite warns. She took theum into a bedroom where the two al children were
+    found lying quite naked on the bed, and h although the bodies were warm they were
+    perfectly h dead. Airs. Hibbert also told thetm she had been t trying to drown
+    herself in the bath for the last half |S hour. On receipt of this information
+    Inspector Smith went down to the house and made an examination of h- the premises.
+    He found the two children lying dead St on the bed. A piece of paper containing
+    a few almost o illegible sentences was laid on the body of the eldest child,"'
+  handwritten_text_raw: DOUBLE MURDER BY A MOTHER AT | I P9,USHOLMIE. i [SUBJECT OF
+    ILLUSTRATION.] 't, ABOUT noon on Friday information was received at en the Rusholme
+    Police-station that a woman had mur. 2, dered her two children, aged three and
+    five respectively, | th and then attempted to commit suicide by drowning. th Upon
+    the information being received Inspector Smithj an went at once with the person
+    who gave the information g- to No. 54, Moss-side. On making a detailed examina-
+    o- tion of the premises he found the two children lying rt on a bed in one of
+    the bedrooms naked and quite dead, p. apparently from drowning. Upon the body
+    of one of rt the children there was a piece of paper containing in some almost
+    illegible writing. What portions of it al that could be made out ran as follows
+    :-" Dear Papa, in -I could not stand it any longer . . . . to you. e. I do not
+    think they are dead, for they a . We se shall never meet in heaven, I could not
+    help it. I as had a good husband. ' The inspector took Mrs. Ifib. as bert to the
+    Rusholme Police-station, where she now md lies, The full circumstances of the
+    case appear to ig be as follows :-The unfortunate woman is the wife a, of jThomras
+    Hibbert, joiner and builder. About at twelve months ago Mrs. Hlibbert gave birth
+    to w a child, She fell ill, and finally became insane, She n was removed to the
+    Parkfield Asyloam, near Maccles- r, field, of which institution she was an inmate
+    up till y the 3rd of this month. On that day her husband took l her home, although
+    warned that she was not perfectly :o sane, and that a strict watch would have
+    to be kept le over her actions. He proposed to hire a nurse, but l0 Mrs. Hibbert
+    appeared to be very much upset at such a a notion being entertained that the idea
+    was abandoned. is On Friday morning he left for work as usual, leaving f 3. instructions
+    for the servant to look after his wife. 2 .s Shortly after his departure Airs.
+    Hibbert called the d s children upstairs to her, and was upstairs for about t
+    is half an hour. She came down looking very ill, The s a servant became alarmed,
+    and called in a neighbour. n They went upstairs and heard a splashing in the bath.
+    c o They went into the room andi found Mrs. Hibbert in i the bath. She then told
+    them the two children were a eInptairs, but. sshe did not thihsni they were dead,
+    She - J also told them she had been trying to drown herself. kThey at once went
+    and gave information to the police. t e .LATER DETAILS, d Upon farther inquiries
+    being made, the following C details were ascertained. About a year ago Mrs. t
+    Hibbert was confined of a child, The week following tI she fell ill, ultimately
+    becoming insane, necessitating t her removal to the Parkfield Asylum, Macelesfield.
+    t She was detained in that institution until Wednesday, when she was taken out
+    by her husband. He was told she was not perfectly convalescent. He. stated his
+    intention of providing a nurse for her, but that seemedn to excite Mrs. Hibbert
+    to such an extent that the idea e was reluctantly abandoned. Mrs. Hibbert rose
+    about Si half past seven on Friday morning and had breakfast b with her husband.
+    She then appeared to be in her usual health, bodily and mentally. M1r. Hibbert
+    l'eft a the house about eight o'clock in order to proceed to his uN work, but
+    prior to his doing so he gave strict orders to his servant to keep an eye upon
+    her mistress's move- ments. About nine o'clock Mrs. Hibbert told the servant to
+    call the children in from playing in the front vi garden. Mrs. Hibbert took hold
+    of the children and C took them upstairs with her. She came down shortly 6* afterwards
+    and sent the servant for a bottle of soda, a saying that she felt very unwell.
+    On the servant's a! return with the soda water, she asked her mistress what P
+    had become of the children. Mrs. Hibbert replied that they had gone to the corner
+    shop. The servant went of to inquire if they were there, but was told they had
+    never been there. Becoming alarmed,/she procured a I neighbour named Mrs. Deedle
+    to go back to the house t with her, as she suspected something was the matter.
+    d On reaching the house they heard a splashing in the d bathroom. They proceeded
+    thither, and found Mrs. 1Hibbert in the bath. They asked her where the chil i
+    'dren were, and Mrs. Hibbert replied, " I have dro wned | l them, I don't think
+    they are dead, as they are quite warns." She took theum into a bedroom where the
+    two al children were found lying quite naked on the bed, and h although the bodies
+    were warm they were perfectly h dead. Airs. Hibbert also told thetm she had been
+    t trying to drown herself in the bath for the last half |S hour. On receipt of
+    this information Inspector Smith went down to the house and made an examination
+    of h- the premises. He found the two children lying dead St on the bed. A piece
+    of paper containing a few almost o illegible sentences was laid on the body of
+    the eldest child,
+  image_id: '3200801612'
+  metrics:
+    corrected:
+      CER: 0.049933422103861515
+      SS: 0.9102052450180054
+      WER: 0.14199029126213591
+    noise:
+      CER: 0.05326231691078562
+      SS: 0.8640686273574829
+      WER: 0.15048543689320387
+  typed_text: 'DOUBLE MURDER BY A MOTHER AT RUSHOLME.
+
+
+    [SUBJECT OF ILLUSTRATION.]
+
+
+    ABOUT noon on Friday information was received at the Rusholme
+
+    Police-station that a woman had murdered her two children, aged three
+
+    and five respectively, and then attempted to commit suicide by drowning.
+
+    Upon the information being received Inspector Smith went at once with
+
+    the person who gave the information to No. 54, Moss-side. On making a
+
+    detailed examination of the premises he found the two children lying on
+
+    a bed in one of the bedrooms naked and quite dead, apparently from
+
+    drowning. Upon the body of one of the children there was a piece of
+
+    paper containing some almost illegible writing. What portions of it that
+
+    could be made out rang as follows :-- “Dear Papa, -- I could not stand
+
+    it any longer . . . . to you. I do not think they are dead, for they . .
+
+    . We shall never meet in heaven. I could not help it. I had a good
+
+    husband.” The inspector took Mrs. Hibbert to the Rusholme
+
+    Police-station, where she now lies. The full circumstances of the case
+
+    appear to be as follows: -- The unfortunate woman is the wife of Thomas
+
+    Hibbert, joiner and builder. About twelve months ago Mrs. Hibbert gave
+
+    birth to a child. She fell ill, and finally became insane. She was
+
+    removed to the Parkfield Asylum, near Macclesfield, of which institution
+
+    she was an inmate up till the 3rd of this month. On that day her husband
+
+    took her home, although warned that she was not perfectly sane, and that
+
+    a strict watch would have to be kept over her actions. He proposed to
+
+    hire a nurse, but Mrs. Hibbert appeared to be very much upset at such a
+
+    notion being entertained that the idea was abandoned. On Friday morning
+
+    he left for work as usual, leaving instructions for the servant to look
+
+    after his wife. Shortly after his departure Mrs. Hibbert called the
+
+    children upstairs to her, and was upstairs for about half an hour. She
+
+    came down looking very ill. The servant became alarmed, and called in a
+
+    neighbour. They went upstairs and heard a splashing in the bath. They
+
+    went into the room and found Mrs. Hibbert in the bath. She then told
+
+    them the two children were upstairs, but she did not think they were
+
+    dead. She also told them she had been trying to drown herself. They at
+
+    once went and gave information to the police.
+
+
+    LATER DETAILS.
+
+
+    Upon further inquiries being made, the following details were
+
+    ascertained. About a year ago Mrs. Hibbert was confined of a child. The
+
+    week following she fell ill, ultimately becoming insane, necessitating
+
+    her removal to the Parkfield Asylum, Macclesfield. She was detained in
+
+    that institution until Wednesday, when she was taken out by her husband.
+
+    He was told she was not perfectly convalescent. He stated his intention
+
+    of providing a nurse for her, but that seemed to excite Mrs. Hibbert to
+
+    such an extent that the idea was reluctantly abandoned. Mrs. Hibbert
+
+    rose about half-past seven on Friday morning and had breakfast with her
+
+    husband. She then appeared to be in her usual health, bodily and
+
+    mentally. Mr. Hibbert left the house about eight o’clock in order to
+
+    proceed to his work, but prior to his doing so he gave strict orders to
+
+    his servant to keep an eye upon her mistress’s movements. About nine
+
+    o’clock Mrs. Hibbert told the servant to call the children in from
+
+    playing in the front garden. Mrs. Hibbert took hold of the children and
+
+    took them upstairs with her. She came down shortly afterwards and sent
+
+    the servant for a bottle of soda, saying that she felt very unwell. On
+
+    the servant’s return with the soda water, she asked her mistress what
+
+    had become of the children. Mrs. Hibbert replied that they had gone to
+
+    the corner shop. The servant went to inquire if they were there, but was
+
+    told they had never been there. Becoming alarmed, she procured a
+
+    neighbour named Mrs. Deedle to go back to the house with her, as she
+
+    suspected something was the matter. On reaching the house they heard a
+
+    splashing in the bathroom. They proceeded thither, and found Mrs.
+
+    Hibbert in the bath. They asked her where the children were, and Mrs.
+
+    Hibbert replied, “I have drowned them. I don’t think they are dead, as
+
+    they are quite warm.” She took them into a bedroom where the two
+
+    children were found lying quite naked on the bed, and although the
+
+    bodies were warm they were perfectly dead. Mrs. Hibbert also told them
+
+    she had been trying to drown herself in the bath for the last half hour.
+
+    On receipt of this information Inspector smith went down to the house
+
+    and made an examination of the premises. He found the two children lying
+
+    dead on the bed. A piece of paper containing a few almost illegible
+
+    sentences was laid on the body of the eldest child.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "* ATTACK ON CONSTABLES AT WIDNES. er Da EfSUDMJnOT OF ILLUSTRATION, ve AT the
+    Widnes Police-court Peter OLoughlin, son of Ig a publican in Railway-street, Widnes,
+    was charged with being drunk and disorderly in Anne-street last Saturday night;
+    also with assaulting Police-constable John Gamble, and with damaging his uniform
+    to the extent of 2s. 6d. Ann OLoughlin, a girl about twenty years of age, was
+    charged with assaulting and resisting the same constable at the same time and
+    place. Mr. Knowles, solicitor, Widnes, defended both prisoners. It appeared from
+    the evidence of Police-constables Gamble and Middleton that on Saturday night
+    the male prisoner was drunk and disorderly in Anns street, and the constables
+    went to him and told him to go away. He refused, and was then told that if he
+    did not go he would be locked up. He replied that no bobby in Widnes could take
+    him. He was taken into custody, and while Gamble was endeavouring to put the handcuffs
+    on him, prisoner beat and kicked him, and tore his trousers. At this juncture
+    the female prisoner came forward and said to her brother, "No, Peter, don''t go
+    with them; don''t go with them." After they had proceeded a short distance, Gamble
+    received a severe blow on the head, cutting it open and causing him to lose a
+    great quantity of blood. While the constables were struggling with the male prisoner,
+    Police-constable Middleton said he saw the female prisoner throw the stone which
+    struck Gamble. She threw several stones besides that one. Mary Dearden gave corroborative
+    evidence. For the defence James Mathews, a boy; Miles Sweeney; Thomas Bain; Ann
+    Connolly; and Catherine Riley were called, each of whom swore that all the stones
+    were thrown from the far side of the crowd and not by the female prisoner at all.
+    Mr. Knowles made a pathetic appeal to the bench on behalf of the girl, who was
+    going to America in the course of a few days, and she was discharged. Her brother
+    was fined 10s. and 2 costs, or fourteen days imprisonment for being drunk; 20s.
+    and costs, or one month''s hard labour, for the assault upon the constable; and
+    10s. and costs, or fourteen days imprisonment, for injuring the constable''s trousers,
+    making a total of two months in all. Mr. Knowles asked the bench to give the prisoner
+    a short time to pay the total amount, but this was peremptorily refused."'
+  handwritten_text_raw: '* ATTACK ON CONSTABLES AT WIDNES. er Da EfSUDMJnOT OF ILLJUSTRATION,]
+    ve AT the Widnes Police-court Peter O''Loughlin, son of Ig a publican in Railway-street,
+    Widuns, was charged with as being drunk and disorderly in Anne-street Li ast on
+    a, Saturday night; also with assaulting Police-constable idJohn Gamble, and with
+    damaging his uniform to the extent of 2s. 6l, Ann O''Loughlin, a girl about twenty
+    seyears of age, was charged with assaulting and resisting e Police-constable Gamble
+    at the same time and place. sr Mr. Knowles, solicitor, Widnes, defended both pri-
+    e- soners. It appeared from the evidence of Police-con- In stables Gamble and
+    Middleton, the former of whom Ir had his head enveloped in a surgical bandage,
+    that on d Saturday night the male prisoner was drunk and dis- Le orderly in Anusestreet,
+    and the constables went to him at and told him to go away. Hie refused, and was
+    then a told that if he did not go he would be locked up. He 1. replied that no
+    " bobby" in Widnes could take him. Is He was taken into custody, and while Gamble
+    d was endeavouring to put the handcuffs on him, prisoner beat and kicked himl,
+    andl tore his trousers. At this juncture the female prisoner came forward, and
+    said to her brother, " No, Peter, don''t go with them ; don''t go with them."
+    After they had proceeded a short distance Gamble received a severe blow on the
+    bade of the head, cutting it open, and causing him to loss a greet quantity of
+    blood. While the constables ware strugtgoling with the male prisoner Police-cos3table
+    Middleton said he saw the female prisoner throw the stone which struck tGamble.
+    She threw several stones besides that one. . Mary Dearden gave corroborative evidence.
+    For the defence James Mathews, a boy ; Mtiles Sweeney, e Thomas Bain, -Ann Connolly,
+    and Catlherine Riley were e called, each of whom swore that all the stones were
+    tthrown from the far side oF the crowd, and not by the Ifemale prisoner at all.
+    Mar. Knowles made a pathetic e appeal to the bench on behalf of the girl, who,
+    he said, was going to America in the course of a few days, and 1 she was discharged.
+    Her brother was fined lOs. and 2 costs (Ge. 61), or fourteen days'' imprisonment,
+    for s being drunk ; 20s. and costs (9is 6d.), or one month''s y hard labour lor
+    the assaultupon the constable; andlOs. - and costs (4''. Gd.) and the damage 2s.
+    Gd, for injuring the constable''s troasers, or fourteen days'' imprisonmnact -makging
+    two mouths in all. Mr. iKnewles asked the bench to give the prisoner a short time
+    to pay the total amount in, but this was peremptorily refused,'
+  image_id: '3200801613'
+  metrics:
+    corrected:
+      CER: 0.09670608108108109
+      SS: 0.9408552050590515
+      WER: 0.12735849056603774
+    noise:
+      CER: 0.052787162162162164
+      SS: 0.9162047505378723
+      WER: 0.1721698113207547
+  typed_text: 'ATTACK ON CONSTABLES AT WIDNES.
+
+
+    [SUBJECT OF ILLUSTRATION.]
+
+
+    AT the Widnes Police-court Peter O’Loughlin, son of a publican in
+
+    Railway-street, Widnes, was charged with being drunk and disorderly in
+
+    Anne-street East on Saturday night; also with assaulting
+
+    Police-constable John Gamble, and with damaging his uniform to the
+
+    extent of 2s. 6d. Ann O’Loughin, a girl about twenty years of age, was
+
+    charged with assaulting and resisting Police-constable Gamble at the
+
+    same time and place. Mr. Knowles, solicitor, Widnes, defended both
+
+    prisoners. It appeared from the evidence of Police-constables Gamble and
+
+    Middleton, the former of whom had his head enveloped in a surgical
+
+    bandage, that on Saturday night the male prisoner was drunk and
+
+    disorderly in Ann-street, and the constables went to him and told him to
+
+    go away. He refused, and was then told that if he did not go he would be
+
+    locked up. He replied that no “bobby” in Widnes could take him. He was
+
+    taken into custody, and while Gamble was endeavouring to put the
+
+    handcuffs on him, prisoner beat and kicked him, and tore his trousers.
+
+    At this juncture the female prisoner came forward, and said to her
+
+    brother, “No, Peter, don’t go with them; don’t go with them.” After they
+
+    had proceeded a short distance Gamble received a severe blow on the back
+
+    of the head, cutting it open, and causing him to lose a great quantity
+
+    of blood. While the constables were struggling with the male prisoner
+
+    Police-constable Middleton said he saw the female prisoner throw the
+
+    stone which struck Gamble. She threw several stones besides that one.
+
+    Mary Dearden gave corroborative evidence. For the defence James Mathews,
+
+    a boy; Miles Sweeney, Thomas Bain, Ann Connolly, and Catherine Riley
+
+    were called, each of whom swore that all the stones were thrown from the
+
+    far side of the crowd, and not by the female prisoner at all. Mr.
+
+    Knowles made a pathetic appeal to the bench on behalf of the girl, who,
+
+    he said, was going to America in the course of a few days, and she was
+
+    discharged. Her brother was fined 10s. and costs (6s, 6d.), or fourteen
+
+    days’ imprisonment, for being drunk; 20s. and costs (9s. 6d.), or one
+
+    month’s hard labour, for the assault upon the constable; and 10s. and
+
+    costs (4s. 6d.) and the damage, 2s. 6d., for injuring the constable’s
+
+    trousers, or fourteen days’ imprisonment – making two months in all. Mr.
+
+    Knowles asked the bench to give the prisoner a short time to pay the
+
+    total amount in, but this was peremptorily refused.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "ST-TOT FIRING IN MINES.
+
+
+    At the Gateshead County Police Court on Saturday, proceedings were taken by the
+    Home Office against the manager of the Ireson Uiworth Colliery for illegal shooting.
+    On March 2nd, for the day on which the disastrous explosion occurred at that colliery,
+    in which forty-two lives were lost. The summons was issued against Mr. A. S. Palmer,
+    who was present as agent of the colliery. Mr. Arnold Agar, M.P., appeared on behalf
+    of the Crown, and Mr. R. F. Cooper, Newcastle, appeared for the owners.
+
+
+    Mr. Morley said the prosecution was taken under 35 & 1W and 36 Vic., chap. 76,
+    of the Mines Regulation Act. With regard to the use of gunpowder, it was provided
+    that it should only be used in cartridges, and not within three months after any
+    inflammable gas had been found in the mine. The prosecution relied on the fact
+    that inflammable gas had been found in the mine within three months of the firing
+    of the shot, and the question was whether the regulation had been complied with.
+    It was also provided that persons ordinarily employed in the mine were to be excluded
+    from that part of it where the explosive was to be used.
+
+
+    Mr. Cooper said it was not disputed that gas had been found, but it was not found
+    within the conditions of the Act. He was prepared to prove that it was due to
+    a temporary stoppage in the ordinary ventilation appliances, and was removed when
+    the ventilation was put right. After evidence had been given on both sides, it
+    was agreed between Mr. Morley and Mr. Cooper that the question at issue was really
+    a legal one as to the meaning of the Act with regard to the conditions under which
+    shot-firing should not take place. The court was therefore asked not to give its
+    decision, but to adjourn the case until the legal question had been referred to
+    a superior court. The case was adjourned accordingly."'
+  handwritten_text_raw: ST-TOT FIRING IN MINES. M. AN, important ease came on at the
+    Gateshead County Ae Police-court on Saturday, proceedings having been n, taken
+    by the IHome Office against the mbnapier of the Iis Uiwortb Colliery, for illeual
+    shot.firinol0 AoMarch 2n1d, ior the dav on which the disasrous explosion, by which
+    o, forty-two lives were lost, ocirred at that crilliery. . The sceninmons was
+    issuedi apainqt b Mr. A, S. Palmer, le who was present, asagent of the, collierv.
+    Mr. Arnold ag Morley, M.P,, perogeouted on behalf the Crown, and Of Mr. R. F.
+    Cooper, Newcastle appeared for theiowners. be Mr. Mlorley said the prosecattion
+    was taken under 35 1W and 36 Vie,, chap. 76, of thle Mines Boeglation Act. ak
+    With regard to thel use of gunpowdler, it was provided e that it slsoslld only
+    be ned(l in cartridges, and not 'l0 within threnp months after any icflaminable
+    gpo had Y. been foond in the mine. The proseoution reliod iN this ro cage oui
+    the faet that inllenmLblc gas had been foiund re in the miae within three inoatlis
+    of the firing of the Ie shot, and the ((nostion wr9s Vhethler tbe regulatioi ic
+    had been complied. with, it being requisite under the d, Act for some competent
+    person duly appointed for id that purpipso to examine tlhe place where the shot
+    was id to be fired immediately before the firing, and not to ar allow it to be
+    discharged except it was safe to do eo. 'B It was also provided that persons ordinarily
+    employed s. in the mine were to be ont of it or that part of it g where the explosive
+    wae to be used. Mle, Ceoper said it be did not dismicte that gas lead been found,
+    but it le was not fornd Within the conditions of the Act. Ha r Le was prepared
+    to prove that it was due to a temporarv stoppage in thee ordinary ventilatioi
+    appliances, aInd was reMoved when the ventilation We1s put riglte After evidence
+    lad been given on bothe sides, it w-I 6S agreed between Mr. AMorley acd Mr. Cooper
+    that thie g queestion at issue was really a legal one as to the mean L ing of
+    the Act with regard to the cindlitions under wahich shot-firing should not talke
+    place. The Court. was, therefore, asked not to givo its decision, hit to adjourn
+    the case until the legal question had bsen referredl to a superior court. The
+    case was adjourned accordingly.
+  image_id: '3200801615'
+  metrics:
+    corrected:
+      CER: 0.19893255701115964
+      SS: 0.902741014957428
+      WER: 0.2283464566929134
+    noise:
+      CER: 0.10819990295972828
+      SS: 0.698364794254303
+      WER: 0.30446194225721784
+  typed_text: 'SHOT FIRING IN MINES.
+
+
+    AN important case came on at the Gateshead County Police-court on
+
+    Saturday, proceedings having been taken by the Home Office against the
+
+    manager of the Usworth Colliery, for illegal shot-firing on March 2nd,
+
+    the day on which the disastrous explosion, by which forty-two lives were
+
+    lost, occurred at that colliery. The summons was issued against Mr. A.
+
+    S. Palmer, who was present, as agent of the colliery. Mr. Arnold Morley,
+
+    M.P., presented on behalf the Crown, and Mr. R. F. Cooper, Newcastle,
+
+    appeared for the owners. Mr. Morley said the prosecution was taken under
+
+    35 and 36 Vic., chap. 76, of the Mines Regulation Act. With regard to
+
+    the use of gunpowder, it was provided that it should only be used in
+
+    cartridges, and not within three months after any inflammable gas had
+
+    been found in the mine. The prosecution relied in this case of the fact
+
+    that inflammable gas had been found in the mine within three months of
+
+    the firing of the shot, and the question was whether the regulation had
+
+    been complied with, it being requisite under the Act for some competent
+
+    person duly appointed for that purpose to examine the place where the
+
+    shot was to be fired immediately before the firing, and not to allow it
+
+    to be discharged except it was safe to do so. It was also provided that
+
+    persons ordinarily employed in the mine were to be out of it or that
+
+    part of it where the explosive was to be used. Mr. Cooper said he did
+
+    not dispute that gas had been found, but it was not found within the
+
+    conditions of the Act. He was prepared to prove that it was due to a
+
+    temporary stoppage in the ordinary ventilation appliances, and was
+
+    removed when the ventilation was put right. After evidence had been
+
+    given on both sides, it was agreed between Mr. Morley and Mr. Cooper
+
+    that the question at issue was really a legal one as to the meaning of
+
+    the Act with regard to the conditions under which shot-firing should not
+
+    take place. The Court was, therefore, asked not to give its decision,
+
+    but to adjourn the case until the legal question had been referred to a
+
+    superior court. The case was adjourned accordingly.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "THE POISONING CASE IN FRANCE. The trial of Petit for poisoning his first wife—his
+    second is still living—and a servant who was also his mistress, has resulted in
+    a verdict of guilty against the prisoner on the second count, although the jury
+    were unable to make up their minds as to convict him on the first count, despite
+    the declared presence of arsenic in the exhumed remains of his wife. Although
+    these were the only two charges preferred against Petit, he is also suspected
+    of having poisoned his mother as long ago as 1872, and of attempting to poison
+    the lives of an old woman named Marie Mahoin and a girl named Eugénie Meyer, both
+    of whom were at different times in his service. The girl Meyer, who frequently
+    suffered from severe vomiting while she was in Petit''s service, has never been
+    seen since, and it was asserted by the Public Prosecutor during the trial that
+    Petit had poisoned her and disposed of her body, as he is believed to have disposed
+    of that of Elise Blohliner, his servant and mistress, whose case is almost parallel
+    with that of Eugénie Meyer. It must be said that the explanation as to what had
+    become of the missing women and the cause of death of his mother and first wife
+    were somewhat lame, and although the evidence against him was almost entirely
+    circumstantial, it is scarcely surprising that a verdict of guilty was entered.
+    There has, however, already been much comment on the fact that the prisoner was
+    practically acquitted of the charge against his wife, whose remains were found
+    to contain poison, and convicted of a charge of which absolutely no trace exists,
+    as there are only some cinders from the stove in which the victim''s body is supposed
+    to have been burnt, and which are assumed to be all that remains of her mutilated
+    corpse. M. Henri Rochefort, in the Journal des Debats, says that the verdict against
+    Petit is the first instance of a man being found guilty of murder for poison when
+    neither the body nor the victim''s body has been found. La France calls attention
+    to the fact that the jury gave a negative answer in the case of Petit''s first
+    wife, in whose remains distinct traces of arsenic were discovered, and an affirmative
+    answer in the indictment against the prisoner for the murder of Elise Boehiner,
+    although in the latter case the accusation was only supported by medical conjecture.
+    La France also calls attention to the lamentable defense that was made on the
+    prisoner''s behalf. The Figaro thanks the jury for having resolutely saved society
+    from the possible repetition of similar crimes by bringing in a verdict of guilty.
+    Petit had been removed to the condemned cell at La Roquette prison, and his conviction
+    has displayed more emotion, and continues to declare his innocence."'
+  handwritten_text_raw: THE POISONING CASE IN FRASNCE. Tll. trial oi Peton tle doblu
+    chlarge of poisoning his first wife--his second is still living-and a servant
+    who was also his mistress, has resulted in a verdict of ty guilty agaiust the
+    prisoner on the second count, or althougbh the jury were unable to makeup their
+    minds at to convict him on the first, notwithstanding the de- of clared presence
+    of arsenic in the exhumed remains of ts his wife. Altbough these weae the only
+    two charges ig preferred against Pcl, he is ;lso suspected of having n poisoned
+    his mother as long ago as 1872, and of saving )n attempted the lives, in a similar
+    muaneor, of an old in woman named Miria Mahoin ann' a girl named Eg Xug6nio Meiyer,
+    both of whom wore at different g times in 'el's service. The girl aMeyer, indeed,
+    as who freqauotly suffered from severe vomliting while aso she was in Pel's service,
+    has never been seen since In Pet annoanced that she had left himi, and it was
+    in asserted by the Public Prosecutor during the trial that re Pcl had poisened
+    her and disposed of the body, as he ise is believed to havo disposed of that of
+    Elise Blohliner, s- his servaut and umistrcss, whose case, therefore, is n- almost
+    parallel witlh that of Eugp~uie Meyer. It must Io be said that l',l'e eqplonation
+    as to what had becomlie of the missing womvlen, and the cause of death of his
+    7, mother and first wife, were somewhat lame, and in although the evidence against
+    him was almost entirely s, circumstantial, it is scarcely surprising that a verdict
+    ry of guilty was entered. There has, however, already mn been much comment on
+    the fact that the prisoner was *st practically acquitted of tile charge agaiust
+    his wife, th whose remains were found to contain poison, and con- ut victed of
+    a charge of which absolutely no trace exists, as savo some cinders from the stove
+    in which the victim's body is supposed to have becn burnt, and which are assumed
+    to be all that remains of her icineratod corpso. M M. Henri Rlochefort, in the
+    lJsrualsiyeuflnt, says that ~al tevriP a tho verdict against Pe1 is the first
+    instance of a man a being found guilty of murder for poison when neither e the
+    Ipisoe nor the victim's body hRs been found. La g Fr asnce calls attention to
+    the lact that the jury gave a negative answer in the case of Pel's first wife,
+    in whose remains distinct traces of arsenic woro discovered, and a an aflirmative
+    answer in the indictment against the Y, prisoner for the murder of Eliso Boehiner,
+    althoughl in n, the latter case the a cusaltion was only supported by rs medical
+    conjedture. Lro Franca also calls attention to nt the lamentable defenco that
+    wasv made on the prisoner's ce beihalf. The Figaro thanks the jury for having
+    reso- Id lutely saved society fromill le possible repetition of re similar crimes
+    by bringing in a verdict of guilty. Pes m had been removed to the condemned cell
+    at La Iloquette 3d prison Shine his coviction Put has displayed more ot enmotion,
+    and continues to earnestly declare his Joo- re cence. Pcll has been sentenced
+    to death.
+  image_id: '3200801619'
+  metrics:
+    corrected:
+      CER: 0.10046312789454934
+      SS: 0.8249467015266418
+      WER: 0.13279678068410464
+    noise:
+      CER: 0.09369433558959743
+      SS: 0.717284083366394
+      WER: 0.28169014084507044
+  typed_text: 'THE POISONING CASE IN FRANCE.
+
+
+    THE trial of Pel on the double charge of poisoning his first wife – his
+
+    second is still living – and a servant who was also his mistress, has
+
+    resulted in a verdict of guilty against the prisoner on the second
+
+    count, although the jury were unable to make up their minds to convict
+
+    him on the first, notwithstanding the declared presence of arsenic in
+
+    the exhumed remains of his wife. Although these were the only two
+
+    charges preferred against Pel, he is also suspected of having poisoned
+
+    his mother as long ago as 1872, and of having attempted the lives, in a
+
+    similar manner, of an old woman named Marie Mahoin and a girl named
+
+    Eugénie Meyer, both of whom were at different times in Pel’s service.
+
+    The girl Meyer, indeed, who frequently suffered from severe vomiting
+
+    while she was in Pel’s service, has never been seen since Pel announced
+
+    that she had left him, and it was asserted by the Public Prosecutor
+
+    during the trial that Pel had poisoned her and disposed of the body, as
+
+    he is believed to have disposed of that of Elise Boehmer, his servant
+
+    and mistress, whose case, therefore, is almost parallel with that of
+
+    Eugénie Meyer. It must be said that Pel’s explanation as to what had
+
+    become of the missing women, and the cause of death of his mother and
+
+    first wife, were somewhat lame, and although the evidence against him
+
+    was almost entirely circumstantial, it is scarcely surprising that a
+
+    verdict of guilty was entered. There has, however, already been much
+
+    comment on the fact that the prisoner was practically acquitted of the
+
+    charge against his wife, whose remains were found to contain poison, and
+
+    convicted of a charge of which absolutely no trace exists, save some
+
+    cinders from the stove in which the victim’s body is supposed to have
+
+    been burnt, and which are assumed to be all that remains of her
+
+    incinerated corpse. M. Henri Rochefort, in the Intransigent, says that
+
+    the verdict against Pel is the first instance of a man being found
+
+    guilty of murder for poison when neither the poison nor the victim’s
+
+    body has been found. La France calls attention to the fact that the jury
+
+    gave a negative answer in the case of Pel’s first wife, in whose remains
+
+    distinct traces of arsenic were discovered, and an affirmative answer in
+
+    the indictment against the prisoner for the murder of Elise Boehmer,
+
+    although in the latter case the accusation was only supported by medical
+
+    conjecture. La France also calls attention to the lamentable defence
+
+    that was made on the prisoner’s behalf. The Figaro thanks the jury for
+
+    having resolutely saved society from the possible repetition of similar
+
+    crimes by bringing in a verdict of guilty. Pel had been removed to be
+
+    condemned cell at La Roquette prison. Since his conviction Pel has
+
+    displayed more emotion and continues to earnestly declare his innocence.
+
+    Pell has been sentenced to death.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "COMPENSATION TO A PUBLICAN.
+
+
+    At the Mansion House Police-court, the Metropolitan and Metropolitan District
+    Railway Companies appeared before the Lord Mayor, M.P., by their representatives,
+    in order that the amount of compensation claimed under Section 121 of the Lands
+    Clauses Consolidation Act by Mr. Dow, the proprietor of the Monument Tavern, Fish
+    Street Hill, might be fixed.
+
+
+    Mr. Grantham said he appeared for Mr. Dew to ask his lordship to assess the amount
+    of compensation to which he was entitled under the 121st section of the Lands
+    Clauses Consolidation Act, in consequence of the railway company taking possession
+    of his premises for purposes connected with the railway. As the interest of a
+    tenant was only from year to year, the compensation had to be assessed by a magistrate.
+
+
+    The case was a simple one, but had been productive of a great deal of litigation.
+    The details of the case having been gone into, the Lord Mayor fixed the total
+    amount of the compensation due to Mr. Dew at £269 49s. 4d.
+
+
+    Mr. Grantham then applied for costs, and the Lord Mayor granted twenty guineas
+    costs.
+
+
+    At the Cardiff Police-court, on Saturday, Thomas Evans was remanded on a charge
+    of having caused the death of John Collins, on May 27th. The parties, it was alleged,
+    quarrelled and fought, and Collins fell and Evans knelt on him and then kicked
+    him until he was taken up insensible. He was taken home, but lingered till Friday,
+    when he died. Prisoner was remanded for a week. He is said to be a very violent
+    man, and has been previously charged with killing a man in a fight."'
+  handwritten_text_raw: COMPENSATION TO A PUBLICAN. AT the Man sion Honso Police-court
+    the Metropolitan and the ,Metropolitan District Railway Companies appeared before
+    the Lord Mayor, M.P., by their repre- sentatives, in order that the amount of
+    compensation claimed under 121st section of the Lands Clauses Con- solidation
+    Act by Mr. Dow, the proprietor of the MIonument Tavern, Fish-stroet-hill, might
+    be fixed. Mr. Grantham said he appeared for Mr. Dew to ask his lordship to assess
+    the amonnkt of compensation to whichl he was entitled under the 121st section
+    of the Lands Clauses Consolidation Act, in consequence of the railway comnpani5m
+    taking possession of his premises for purposes connected with the railway. When
+    the in- terest of a, tenant was only from year to year the com- pensation had
+    to be assessed by a magistrate. The case was a simple ono, but bad been productive
+    of a great deal of litigation. The details of the case having been goni into,
+    the Lord Mayor fixed the total amount of the compensation due to Mr. Dew at269S
+    49. Id. Mr. Grantham then applied for costs, and the Lord Mayor granted twenty
+    guineas costs. Ar the Cardiff Policeocourt, ol Saturday, Thomas Evaus was remanuded
+    on a charge of having caused the death of John Collins, ol May 27th. The parties,
+    it was alleged, quarrelled and fought, and Collins fell and Ev.>ans knelt ol him
+    and then kicked hiil until he was taleii up insensiblc. H1 was taelen home, but
+    lingered till Friday, when lie died. Prisoner was rernslald for a week. He is
+    said to be a very violent man, and has been previously charged with killing a
+    sman in a light
+  image_id: '3200801622'
+  metrics:
+    corrected:
+      CER: 0.06365372374283895
+      SS: 0.937743067741394
+      WER: 0.07326007326007326
+    noise:
+      CER: 0.056015276893698285
+      SS: 0.8797128200531006
+      WER: 0.15384615384615385
+  typed_text: 'COMPENSATION TO A PUBLICAN.
+
+
+    AT the Mansion House Police-court the Metropolitan and the Metropolitan
+
+    District Railway Companies appeared before the Lord Mayor, M.P., by
+
+    their representatives, in order that the amount of compensation claimed
+
+    under 121st section of the Lands Clauses Consolidation Act by Mr. Dew,
+
+    the proprietor of the Monument Tavern, Fish-street-hill, might be fixed.
+
+    Mr. Grantham said he appeared for Mr. Dew to ask his lordship to assess
+
+    the amount of compensation to which he was entitled under the 121st
+
+    section of the Lands Clauses Consolidation Act, in consequence of the
+
+    railway companies taking possession of his premises for purposes
+
+    connected with the railway. When the interest of a tenant was only from
+
+    year to year the compensation had to be assessed by a magistrate. The
+
+    case was a simple one, but had been productive of a great deal of
+
+    litigation. The details of the case having been gone into, the Lord
+
+    Mayor fixed the total amount of the compensation due to Mr. Drew at £698
+
+    4s. 1d. Mr. Grantham then applied for costs, and the Lord Mayor granted
+
+    twenty guineas costs.
+
+
+    _____________________________________
+
+
+    AT the Cardiff Police-court, on Saturday, Thomas Evans was remanded on a
+
+    charge of having caused the death of John Collins, on May 27th. The
+
+    parties, it was alleged, quarrelled and fought, and Collins fell and
+
+    Evans knelt on him and then kicked him until he was taken up insensible.
+
+    He was taken home, but lingered till Friday, when he died. Prisoner was
+
+    remanded for a week. He is said to be a very violent man, and has been
+
+    previously charged with killing a man in a fight.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "ATTEMPTED MURDER OF A MERCHANT. AT the Bow-street Police-court, five men named
+    James Palmer, Samuel Scandland, Leon Weiner, Adolphe Weiner, and Daniel Jacoby,
+    have been charged with being concerned with a man already convicted named Dasant,
+    with attempting to murder Jules Tabak, a diamond merchant, and stealing £2000
+    worth of diamonds. Inspector Langrish deposed that from information received he
+    went with other officers and arrested the accused on the present charge. Mr. Taliak,
+    a diamond merchant, of 5 Belgrave-street, Euston-road, deposed that on March 2nd,
+    two men came to his house and asked him to show them some diamonds. Two parcels
+    were shown them, while the men were looking at the diamonds, the prisoner Palmer
+    struck witness two heavy blows on the head. He was stunned, the two men ran away,
+    and stole one hundred and eighty carats of diamonds, value £1410. One of the men,
+    Doeant, was arrested, and has since been convicted and sentenced to penal servitude.
+    He positively identified Palmer as the other man. Mr. Taliak was called, and identified
+    Palmer as one of the men concerned in the robbery. She did not identify him at
+    first, Eleanor Denunzio, the daughter of the man Dasant, deposed that on March
+    25th, the day of the robbery, the prisoner Palmer called on her and beckoned her
+    to the corner of the street. He asked for her father. He said, "I struck the old
+    man. He screamed, and his wife came upstairs, and we were obliged to run away."
+    She packed up her luggage and took it to Waterloo Station, and afterwards went
+    to Adolphe Weiner''s house. She packed the luggage and sent it to Waiterloo Station
+    the same day. She then went to C. Dyers Buildings, and saw Adolphe Weiner. Directly
+    he saw her, he said, "For God''s sake go away; I will meet you in Castle-street."
+    She went there, where he shortly joined her, and took her to a jeweler''s shop
+    in Chancery-lane. Witness said, "You have got my father into this trouble, and
+    I shall expect you to get him out of it." He denied at first that he knew anything
+    about it. She told him that her father had told her about the affair from the
+    beginning. He said that all he did was to get her father a situation. She said
+    she knew that was false, and that he sent her father to Mr. Tabak. First he said
+    he would not assist her at all, and then he gave her 5s. 3d., and said he would
+    give her that every week until she got employment. He said whatever she did, she
+    must not come near Dyers-Buildings, because he was watched. Then she went to Jacoby''s
+    house, but he was not at home. She saw him the following Friday at his place in
+    the Edgware-road. He said he did not know they were going to strike him. Witness
+    told him he must take the money for her father''s maintenance in the House of
+    Detention. He promised to do so, and met her on the following Monday in Avonmore-street,
+    Clerkenwell. She gave him 3s. for her father. On the following Wednesday she was
+    to meet Weiner, who promised to give her £2 12s. for the rent then due by her
+    father. Weiner did not turn up, but subsequently she saw Jacoby, who gave her
+    £2 12s. to pay the rent. He told her not to go to Mr. Tabak''s place at all. The
+    accused, who protested their innocence, were remanded."'
+  handwritten_text_raw: 'ATTEMPTED MURDER OF A MERCHANT. AT the Bow-street Police-court,
+    five men named James Palmer, Samuel Scandland, Leon Weiner, Adolphe Weiner, and
+    Daniel Jacoby, have been charged with being concerned with a man (already convleted)
+    named Dasant, with attempting to'' murder Jules Tabak, a diamond merchant, and
+    steal- in''g �2000 worth of diamonds, Inspector Langrish deposed that from information
+    received he went with other oflieers and arrested the accused on the present charge.
+    ir. Taliak, a diamioed merchont, of 5. Belgrave-street, Eusten-road, deponed that
+    on Me\arch 2,i,;h, two men camze to his house, a~nd esked him to show them some
+    diamnonds. Two parcels wero shown them, While the men were lookingf at the diamonds
+    the prisoner Palmer struck witnees two heavy blows on the head. He was stunned,
+    the two men ran away, and stole one hundred and eighty carats of diarnonds, value
+    �14100. One of the meii'' (Doeant) was arrested, and has since been convicted
+    and sentenced to penal servitude. He positively identified Palmer as the other
+    man. Mmr. TaNbalc was called, and identified Palmer as one of the men con- corned
+    in the robbery. She did not identify him at, first, Eleanor Denunzio, the daugister
+    of the man Dusant, deposed that on March 25th, the day of the robbery, the prisoner
+    Palmer called on her and beckoned her to the corner of the street. He asked for
+    her lather. Be said, "1 I struck the old man. Ho screamed, and his wife came upstairs
+    and we were obliged to run away. I daresay your father *will blame me for all
+    this, but my brother was outside end did all he could to stop the servant," Witness
+    asked if the servant waS stopped. Prisoner replied in the negative, She asked
+    if her father had got away. Prisoner replied, " No," and told her she had better
+    pack up her luggage andl get away from the house at once, and leaye her luggage
+    in the cloaki- roanI. le said," You know where Weiner lives, You nmut go down
+    to him and tell him to assist you. \WitneFs packed up her luggage and took it
+    to Wettrino Station, and afterwards wont to AdoOlphe WAeiner''s house, She packed
+    the luggage and scont ''t to Waiterloo Station the saime day. She then wer t to
+    C, Dyer''s Buildings, and saw Adolphe Weiner. Directly he saw her ho said, "For
+    God''s sake go awa: ;<y I I will meet you iri CLstle-etreet," She went ther!,
+    wlhore he shortly joined her, and took her to a r.ina shop hi Chaneery-laus. Witness
+    raid, " You have got my father into this trouble, and I sh^all ex- pect you to
+    get him out of it." He denied at first that he knew anything aboat it. She told
+    him that her father had told her about the aifair fromn the beginning, Hee said
+    that all he did was to get her father a situation, She said she henew that was
+    false, and that he sent her father to MIr. Tabak. First he said he would not assist
+    her at all, and Sthen he gave hfr 5s3., and said he would give h)er that every
+    xv.ek until she got employment. I-Ie -aid whatever she did sho rnust 1!0t come
+    near Dyers- Bnildigi, because le, wa, watched. Then zlihe went to Jacoby''s house,
+    but he was not at hozae. She Sdw Hisll, hoeveoer, on the following Fri''av at
+    hmis place in the Edgware road. He baid he (ii not know they were going to strike
+    him. Witness toid h1mr lie mnst takre t''he money for her fathber''s m sin- teusence
+    in the House of Detention. HEo promn.isedl to do -o, and met bwitn ss the urox'';
+    night in Av.e: i- bnvsty:r eeet, C e l; euweli. She gave h;.r l0 3s. fer he; fa-her.
+    On the following Monday she waS to mnet. hse elcer Wesiner, who promaised to give
+    her f2 12;. for th. rent then due by her fether. Weiner did not turn up, bat subs-.cquently
+    -he saw Jacisby, who ,,ave hez �X2'' to pay the rent. Ho told her no0 to go to
+    i NATehier''s place at all. He promiged to ml;eet h..r at the ll urlle Arch the
+    following Woedesd ay, but by the II[ls''ice of PAeher and his wife she did not
+    gc On Marclh ui5th, after 8ecmiJPalrner, she weat to the hounon of his mother-in-law.
+    He came in and scnt for bis wife. They took witness to their house, aod. sent
+    for her luggage from Waterloo. She remained in the house for nine weeks. Witness
+    kolemw the whole of the prisoners, who were in the hohit of coming to the house
+    of witness''s fathor. Three weesle aftr Christ- inas Jacoby oalleu at their Is11us
+    Vith a bsottle of chlorotorme, Toney tried it on the hitten, On o. sub- se(luent
+    c asiva time -lder Waeiner took a), rabbit to the houQse aud wiitness was orderod
+    out of the room. When she returned the windows were open, ernd there vyae a strong
+    smell of chloroform il thu XrDom. She bLeIeved they had tried it on ths ralsdt.
+    T!ie accused, v; ho proctstea t-heir innocence. were reminded. I I'
+  image_id: '3200803382'
+  metrics:
+    corrected:
+      CER: 0.3196796338672769
+      SS: 0.9120532870292664
+      WER: 0.3517406962785114
+    noise:
+      CER: 0.07505720823798627
+      SS: 0.8664233684539795
+      WER: 0.25210084033613445
+  typed_text: 'ATTEMPTED MURDER OF A MERCHANT.
+
+
+    AT the Bow-street Police-court, five men named James Palmer, Samuel
+
+    Scandland, Leon Weiner, Adolphe Weiner, and Daniel Jacoby, have been
+
+    charged with being concerned with a man (already convicted) named
+
+    Dusant, with attempting to murder Jules Tabak, a diamond merchant, and
+
+    stealing £2,000 worth of diamonds. Inspector Languish deposed that from
+
+    information received he went with other officers and arrested the
+
+    accused on the present charge. Mr. Tabak, a diamond merchant of 5
+
+    Belgrave-street, Euston-road, deposed that on March 25th, two men came
+
+    to his house, and asked him to show them some diamonds. Two parcels were
+
+    shown them. While the men were looking at the diamonds the prisoner
+
+    Palmer struck witness to heavy blows on the head. He was stunned, the
+
+    two men ran away, and stole one hundred and eighty carats of diamonds,
+
+    value £1,400. One of the men (Dusant) was arrested, and has since been
+
+    convicted and sentenced to penal servitude. He positively identified
+
+    Palmer as the other man. Mrs. Tabak was called, and identified Palmer as
+
+    one of the men concerned in the robbery. She did not identify him at
+
+    first. Eleanor Denunzio, the daughter of the man Dusant, deposed that on
+
+    March 25th, the day of the robbery, the prisoner Palmer called on her
+
+    and beckoned her to the corner of the street. He asked for her father.
+
+    He said, “I struck the old man. He screamed, and his wife came upstairs
+
+    and we were obliged to run away. I daresay your father will blame me for
+
+    all this, but my brother was outside and did all he could to stop the
+
+    servant.” Witness asked if the servant was stopped. Prisoner replied in
+
+    the negative. She asked if her father had got away. Prisoner replied,
+
+    “No,” and told her she had better pack up her luggage and get away from
+
+    the house at once, and leave her luggage in the cloakroom. He said, “You
+
+    know where Weiner lives. You must go down to him and tell him to assist
+
+    you Witness packed up her luggage and took it to Waterloo Station, and
+
+    afterwards went to Adolphs Weiner’s house. She packed the luggage and
+
+    sent it to Waterloo Station the same day. She then went to 6, Dyer’s
+
+    Buildings and saw Adolphe Weinger. Directly he saw her he said “For
+
+    God’s sake go away! I will meet you in Castle-street.” She went there,
+
+    where he shortly joined her, and took her to a wine shop in Chancery
+
+    lane. Witness said, “You have got my father into this trouble, and I
+
+    shall expect you to get him out of it.” He denied at first that he knew
+
+    anything about it. She told him that her father had told her about the
+
+    affair from the beginning. He said that all he did was to get her father
+
+    a situation. She said she know that was false, and that he spent her
+
+    father to Mr. Tabak, first he had said he would not assist her at all,
+
+    and then he gave her 5s., and said he would give her that every week
+
+    until she got employment. He said whatever she did she must not come
+
+    near Dyer’s Buildings, because he was watched. The she went to Jacoby’s
+
+    house, but he was not at home. She saw him, however, on the following
+
+    Friday at his place in the Edgware-road. He said he did not know they
+
+    were going to strike him. Witness told him he must take the money for
+
+    her father’s maintenance in the House of Detention. He promised to do
+
+    so, and met witness the next night in Aylesbury-street, Clerkenwell. She
+
+    gave him 10s, for her father. On the following Monday she was to meet
+
+    the elder Weiner, who promised to give her £2 12s. for the rent then due
+
+    by her father. Weiner did not turn up, but subsequently she saw Jacoby,
+
+    who gave her £3 to pay the rent. He told her no’s to go to Weiner’s
+
+    place at all. He promised to meet her at the Marble Arch the following
+
+    Wednesday, but by the advice of Palmer and his wife she did not go. On
+
+    March 25th, after seeing Palmer, she went to the house of his
+
+    mother-in-law. He came in and sent for his wife. They took witness to
+
+    their house, and sent for her luggage from Waterloo. She remained in the
+
+    house for nine weeks. Witness knew the whole of the prisoners, who were
+
+    in the habit of coming to the house of witness’s father. Three weeks
+
+    after Christmas Jacoby called at their house with a bottle of
+
+    chloroform. They tried it on the kitten. On a subsequent occasion the
+
+    elder Weiner took a rabbit to the house and witness was ordered out of
+
+    the room. When she returned the windows were open, and there was a
+
+    strong smell of chloroform im the room. She believed they had tried it
+
+    on the rabbit. The accused, who protested their innocence, were
+
+    remanded.'
+- handwritten_text_corrected: '"THE HIRE SYSTEM. AT the Sliereditch County Court,
+    the case of Dver and Son r, Irs. Neal and Mr. S. Carler has been tried by Judge
+    Prentiee, The plaintiffs are piano-forte makers, of 14 Stoke Newington-road, and
+    they claimed of Mrs. Neal, who is a laundress, and Mr. Carter, an oilman, the
+    sum of £2:3 2s., the value of the piano detained, and £2 2s., damages for the
+    defendants claiming that they had hired the instrument to their own use. Mr. Pillmore
+    appeared for the plaintiffs, and Mr. Davis was counsel for the defendants. The
+    plaintiffs claimed that in December, 1873, Mrs. Neal had taken the piano on hire
+    from them, and the hire money was £283 2s., and £2 2s. was paid at once, and the
+    remainder was to be paid at the rate of £1 a month, the piano to become her property
+    if she kept it for three months. After paying £30, Mrs. Neal discovered that the
+    piano was not in good condition, and she refused to pay any more. She then found
+    out that Mr. Carter had sold the piano to another person for £50, and she claimed
+    £283 2s., the value of the piano, and £2 2s., damages. The defendants claimed
+    that they had never agreed to hire the piano, and that Mrs. Neal had taken it
+    without their knowledge or consent. The court found for the plaintiffs, and awarded
+    them £283 2s., and £2 2s. costs."'
+  handwritten_text_raw: 'THE HIRE SYSTEM. AT the Sliereditch County Court the case
+    of Dver and Son r, Irs. Neal and Mr. S. Carler has been tried by Judge Prentiee,
+    The plaintiff''s are piano- forte rnan etufotarers, of 14 Stoke Newington-road,
+    n:nd they el.lied of Mrs. Neal, who is e. laundress, acun Mr. Casrter. an oilman,
+    the scor of �2:3 2s., the value of rp piano detained, and �2 2J, dammages for
+    the edfendants ccying onroerted the instrument to their own use. Mlr. P1l0meor
+    appeIa.red for the plairtiff,| mcd Mr. Davi.s was eonuntd for the dienedttns.
+    The plaintifra'' CIL- wvas that3 in Deember, ]SSI, Mrs. NeaLt hadv ie oih''O of
+    thorn Tpovi The hire ryStein. The cost of t(ho neitilmm ina wis �283 2s., acod
+    � 2 2.i was paid at onice, and the ro tier w.s to he paid at the r;.te of :1l
+    to. a nmonth, the piano to become her proper1;y if st'' ra,,id oil the inst''u!mints,
+    After pi4y- inr, three instoultittel ste cfot into arrears, hut in Ai e''e .aset
+    1wheu �t(i O v ''a.s doce, she pa-id ;�S lOl., riv;,h.. El, 15i>, 1 o ii i or,
+    Soon Uster thba she '':;Vcc o ,x-,t;arr ayone it a-,e abo:ut two months I tore
+    SEhe Sacts fit''wd. .'' -,w tto thenr discovered that +! t ,rxef ''n c C rnevc
+    ..ho iwaS her lacidlord, hart I" Lu r tl-l i'' ''''.t-i" paLn for rent, The corn
+    of 4`:1 ls, ; it. . for scot, and M1rs. Neal under.- tcohL; to l: :i iv Xooothe
+    or forfeit the -,iJalo | C .03 ". ! '':'''' a":r''ClflCnt wasLF reavd ever t-)
+    Ms. , -i f.wr, 1hu si ''nod i His Hoourc hriv LiJEd:. ,''''.'' t''s 0� vthaa oy
+    LE 66i. wos du ? [[to :I'', e:dU.,; '':''.. is Was of her cxiil ire* xii IIis
+    1. fii do, t'' r'' nv l:,ty mon the-a iE (.:>.Ii :rf i t'' rth r tsuesotont it
+    vas w e''- | 1;Ualr, 1 fe . i''. LVi''Th. t th s;verv t(!ld lirxsy Could !;-th3I
+    Ozo 1'' f 0 5 " if the as1ou"i of tr.e Of & ird. Ye:il to Mr. Carter, utthey a
+    V+ ''; dn tha''.. "''Ihcy ve''rc also offkrrit the 1 ttoco [:.it'' ux the a'',,eenitntt
+    f.r rthe li�t bath 1t'';ev rf~~ iCC^.i it. His Flouour, in iho Ic~.11)t r''u irv
+    toeld that the ogreeoent sis !. Ii h ''i * 1 aek th bdlefendaants as, mtoh aj
+    Ic c oCtt, Cinl imile atccle very taiptoperly i0 lnot a .it ti-eo halau''" due
+    nuder tile. agreemaent 1I"t '' i''ae -O e(.rec. He was very terry that he ilVr;p~.''-)
+    ;11 rheir Sravour, ltut he swetial on ly Ilow 1l . �9 73i. tooe blianee ''of the
+    ;:''2:, 2s.. anJ1 ;2 14, 10: 1 . the iosts of the court. faod ih-. LEO ,. bt:10
+    t -pJ.3 inT o court lie -would have given j..ig,, .0"~ fo ''t). efeud.etti,'
+  image_id: '3200803389'
+  metrics:
+    corrected:
+      CER: 0.5497049477984567
+      SS: 0.9081396460533142
+      WER: 0.682648401826484
+    noise:
+      CER: 0.34498411257376305
+      SS: 0.722075879573822
+      WER: 0.7031963470319634
+  typed_text: 'THE HIRE SYSTEM.
+
+
+    AT the Shoreditch County Court the case of Dyer and Son v. Mrs. Neal and
+
+    Mr. S. Carter has been tried by Judge Prentice. The plaintiffs are
+
+    pianoforte manufacturers, of 14 Stoke Newington-road, and they claimed
+
+    of Mrs. Neal, who is a laundress, and Mr. Carter, an oilman, the sum of
+
+    £23 2s., the value of a piano detained, and £22s, damages for the
+
+    defendants having converted the instrument to their own use. Mr. Palmor
+
+    appeared for the plaintiff, and Mr. Davis was counsel for the
+
+    defendants. The plaintiffs'' case was that in December, 1884, Mrs. Neal
+
+    had a piano of them upon the hire system. The cost of the instrument was
+
+    £23 2s., and £22s, was paid at once, and the remainder was to be paid at
+
+    the rate of £1 1s. a month, the piano to become her property if she paid
+
+    all the instalments. After paying three instalments she got into
+
+    arrears, but in August last, when £6 6s was due, she paid £8 10s.,
+
+    making £13 15s, paid altogether. Soon after that she moved away, and it
+
+    was about two months before she was found. It was then discovered that
+
+    the defendant Carter, who was her landlord, had taken the piano in pawn
+
+    for rent. The sum of £4 10s, was due for rent, and Mrs. Neal under took
+
+    to per £46 in six months or forfeit the piano, Cross-examined: The
+
+    agreement was read over to Mrs. Neal -fore she signed it. His Honour:
+
+    Why did she pay £8 10s, when only £6 6s, was due? The # said it was of
+
+    her own free will, His Honour: People do not usually pay more than is
+
+    due. In answer to further questions, it was admitted for plaintiffs that
+
+    they were told they could hare the piano if they paid £6, the amount of
+
+    the indebtedness of Mrs. Neal to Mr. Carter, but they refused to do
+
+    that. They were also offered the balance due on the agreement for the
+
+    piano, but they refused to accept it. His Honour, in the result, said he
+
+    must hold that the agreement was good, but be would assist the
+
+    defendants as much as he could. The plaintiffs acted very improperly in
+
+    not accepting the balance due under the agreement when it was rendered.
+
+    He was very sorry that he must give a verdict in their favour, but he
+
+    should only allow 1s damages, £9 7s. the balance of the £23 2s. and £2
+
+    9s, 10d. the costs of the court. Had the £9 7s. held paid into court he
+
+    would have given judgment for the defendants.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "THE ALLEGED LOAN OFFICE FRAUDS.
+
+
+    At the Marlborough-street Police Court on Saturday, JOHN DAVIES, an ironmonger
+    of Lansdown-place, Brunswick-square; GEORGE DENNY RUCK, alias FOSTER, a clerk
+    of Paradise-street, Lambeth; and JOHN JACKSON, a traveller of Braden-street, Maida
+    Vale, were charged on remand with conspiring to obtain various sums of money.
+    Three cases have already been investigated against the accused.
+
+
+    Mr. EUGENE PRATT, a merchant, stated that in consequence of an advertisement which
+    appeared in a daily paper in January last, he went to the office of FOSTER and
+    CO., Argyll-street. He there saw RUCK, and told him that he wanted to borrow £4
+    0s. stating that he had goods which were worth about £600. He left the office
+    but returned again the same day when he saw DAVIES. He was informed that expenses
+    would be incurred in making inquiries and was asked for a guinea, which he paid.
+    Subsequently, he gave RUCK 10s. on being informed that the surveyor had been unable
+    to see the goods at the wharf where they were lying, and that he would have to
+    call there again to inspect them, which would entail additional expense. No money
+    was ever advanced to him by the prisoners.
+
+
+    Mrs. MARY McCLINTOCK stated that owing to an advertisement that appeared in one
+    of the papers she went to the prisoners'' offices in Argyll-street, where she
+    saw RUCK and told him she wanted to borrow £25. She was asked for a fee of 10s.
+    6d. for inquiries, which she paid, and she also deposited the lease of her house
+    and gave two references. She called again at the offices on July 3rd when DAVIES
+    tried to kiss her, having previously sent RUCK out of the room on the pretence
+    that he was going to cash a cheque, and that she would then be paid the money
+    she wanted. When RUCK returned he said he had been unable to cash the cheque as
+    DAVIES had forgotten to sign it. She then demanded her 10s. 6d. back and told
+    them that the whole thing was a conspiracy, and that they would hear more of it.
+
+
+    Edward BLAIR, a grocer of Croydon, stated that he applied for a loan at the office
+    in Argyll-street and paid 10s. 6d. as an inquiry fee. Eventually, he was induced
+    to deposit the lease of his premises with one of the prisoners on the understanding
+    that he was to get a loan of £30. He paid RUCK a guinea for the expense of preparing
+    the agreement. He never received any money from the prisoners.
+
+
+    At this stage, the accused were again remanded for a week, bail being refused."'
+  handwritten_text_raw: THE ALLEGED LOAN OFFICE FRAUDS. r~~~ _ _ s r T JOHN DAVIES,
+    of Lansdown-place, Brunswick-square, an ironmonger, George Denny Ruck, alias Foster,
+    a clerk, of Paradise-street, Lambeth, and John Jack- son, a traveller, of Braden-street,
+    Maida Vale, were charged on remand at the Marlborough-street Police- court, on
+    Saturday, with conspiring to obtain various sums of money. Three cases have already
+    been in- vestigated against the accused, Mr. Eugene Pratt, a merchant, now deposed
+    that in consequence of an advertisement which appeared in a daily paper in Jane
+    last, he went to the office of " Foster and Co.," Argyll-etreet. He there saw
+    Ruck, and told him that he wanted to borrow �4-00, stating that he had goods which
+    were worth about �600. He left the office, but returned again the same day, when
+    he saw Davies. He was informed that expenses would be incurred in making inquiries,
+    and was asked for a guinea, which he paid. Subsequently he gave Ruck l0 ., on
+    being informed that "the surveyor" had been unable to see the goods at the wharf,
+    where they were lying, and that he would have to call there again to inspect them,
+    which would entail additional expense. No money was ever advanced to him by the
+    prisoners, Mrs. Mary M'Clintock said that owing to an advertisement that ap- peared
+    in one of the papers she went to the prisoners' offices in Argyllistreet, where
+    she saw Ruck, and told him she wanted to borrow �25. She was asked for a fee of
+    103. 63. "afor inquiries," which she paid, and she also deposited the lease of
+    her house and gave two references. She called again at the offices on July 3rd,
+    when Davies tried to kiss her, having previously sent Ruck out of the room on
+    the pretence that he was going to cash a cheque, and that she would then be paid
+    the money she wanted. When Ruck returned he said he had been unable to cash the
+    cheque, as Davies had forgotten to sign it. She then demanded her 103, 6d. back,
+    and told them that the whole thing was a conspiracy, and that they would hear
+    more of it. Edward Blair, a grocer, of Croydon, stated that he applied for a loan
+    at the office in Argyll-street, and paid 10. 63. as an "inquiry fee." Eventually
+    he was Induced to deposit the lease of his premises with one of the pri- soners
+    on the understanding that he was to get a loan of �30. He paid Ruck a guinea for
+    the expense of preparing the agreement. He never received any money from the prisoners.
+    At this stage the accused were again remanded for a week, bail being refused,
+  image_id: '3200803401'
+  metrics:
+    corrected:
+      CER: 0.0782169890664424
+      SS: 0.9244710206985474
+      WER: 0.08390022675736962
+    noise:
+      CER: 0.013036164844407064
+      SS: 0.9589728713035583
+      WER: 0.061224489795918366
+  typed_text: 'THE ALLEGED LOAN OFFICE FRAUDS.
+
+
+    JOHN DAVIES, of Lansdown-place, Brunswick-square, an Ironmonger, George
+
+    Denny Ruck, alias Foster, a clerk, of Paradise-street, Lambeth, and John
+
+    Jackson, a traveller, of Braden-street, Maida Vale, were charged on
+
+    remand at the Marlborough-street Police-court, on Saturday, with
+
+    conspiring to obtain various sums of money. Three cases have already
+
+    been in vestigated against the accused. Mr. Eugene Pratt, a merchant,
+
+    now deposed that in consequence of an advertisement which appeared in a
+
+    daily paper in June last, he went to the office of “Foster and Co.,"
+
+    Argyll-street. He there saw Rack, and told him that he wanted to borrow
+
+    £400, stating that he had goods which were worth about £600. He left the
+
+    office, but returned again the same day, when he saw Davies. He was
+
+    informed that expenses would be incurred in making inquiries, and was
+
+    asked for a guines, which he paid. Subsequently he gave Ruck 10s., on
+
+    being informed that "the surveyor" had been unable to see the goods at
+
+    the wharf, where they were lying, and that he would have to call there
+
+    again to inspect them, which would entail additional expense. No money
+
+    was ever advanced to him by the prisoners. Mrs. Mary M''Clintock said
+
+    that owing to an advertisement that appeared in one of the papers she
+
+    went to the prisoners'' offices in Argyll-street, where she saw Ruck, and
+
+    told him she wanted to borrow £25. She was asked for a fee of 10s. 6d.
+
+    "for inquiries," which she paid, and she also deposited the lease of her
+
+    house and gave two references. She called again at the offices on July
+
+    3rd, when Davies tried to kiss her, having previously sent Ruck out of
+
+    the room on the pretence that he was going to cash a cheque, and that
+
+    she would then be paid the money she wanted. When Ruck returned he said
+
+    he had been unable to cash the cheque, as Davies had forgotten to sign
+
+    it. She then demanded her 100s 6d. back, and told them that the whole
+
+    thing was a conspiracy, and that they would hear more of it. Edward
+
+    Blair, a grocer, of Croydon, stated that he applied for a loan at the
+
+    office in Argyll-street, and paid 10s. 6. as an "inquiry fee."
+
+    Eventually he was induced to deposit the lease of his premises with one
+
+    of the prisoners on the understanding that he was to get a loan of £30.
+
+    He paid Ruck a guinea for the expense of preparing the agreement. He
+
+    never received any money from the prisoners. At this stage the accused
+
+    were again remanded for a week, ball being refused.'
+- handwritten_text_corrected: 'Here is the fully corrected text, with all spelling
+    and grammar mistakes corrected, and no new sentences added:
+
+
+    "I ATTEMPTED MURDER AT STAMFORD HILL. ON Saturday night an extraordinary and apparently
+    deliberate attempt to murder a woman, the wife of a house and estate agent named
+    Tomlinson, of 7, Champion-terrace, Stamford Hill, took place in the public thoroughfare,
+    about one hundred yards distance from her residence. She left home at twenty minutes
+    past nine for the purpose of making a few purchases, and was almost immediately
+    accosted by a man from behind. She turned round at once, and found that it was
+    her sister''s husband, William Esworthy. He walked by her side for a second or
+    two, and then suddenly fired a pistol at the back of her head. She screamed, ''Murder!''
+    and fell to the ground insensible. A girl living on the spot ran across the road
+    and recognized Mrs. Tomlinson as she lay bleeding on the pavement. Being Saturday
+    night, there were many people about. A crowd soon assembled, and the injured woman
+    was carried into her own house. Dr. Duncan of Amherst Park was sent for, and he
+    found her suffering from a bullet wound behind the right ear, but the bullet had
+    not penetrated the skull, having bounded off after striking the bone. Search was
+    subsequently made for the bullet, but it could not be found. After the woman fell,
+    Esworthy hurried to the opposite side of the street and threw something over a
+    fence. He had been seen to fire the pistol by some passersby, and was seized by
+    several men who took him towards the Stoke Newington Police Station. They were
+    met by Sergeant Collins of the N Division, to whom they reported the circumstances
+    of the case and gave the man into his custody. Collins, accompanied by a great
+    many persons, conveyed Esworthy to the Tottenham Police Station. There he was
+    charged with shooting and wounding with intent to murder one Harriet Tomlinson
+    at the High Road, Stamford Hill in the parish of Tottenham. On the charge being
+    read over to him, he remarked, ''She did it herself, and I took the revolver away
+    from her and threw it over a fence on the opposite side of the road.'' On being
+    searched, a few coins and a cleaning rod of a pistol were found upon him, but
+    no ammunition. The prisoner having been locked up, Inspector Ashwell and Sergeant
+    Collins proceeded to the spot indicated by him to search for the revolver, but
+    after a close inspection for an hour or so, they had not succeeded in finding
+    it. The search was then discontinued. It was resumed on Sunday morning at daylight
+    by Sergeant Collins, and at a quarter past five o''clock he discovered the revolver
+    in a builder''s yard almost opposite where the crime was committed. It is a weapon
+    with seven chambers, six of which were loaded when it was picked up. It was therefore
+    fully charged when the attack was made upon Mrs. Tomlinson. In investigating the
+    matter on Sunday, the police ascertained that the prisoner spent nearly the whole
+    of Saturday afternoon and evening watching the playing of cricket on some vacant
+    land at the rear of Champion Terrace. After the match was over, he was seen to
+    pass Tomlinson''s place of business and go to a public house where he had some
+    whisky. He then re-passed the shop and waited about in the expectation that Mrs.
+    Tomlinson would come out, as she eventually did, to make Saturday night purchases.
+    As to the motive for the outrage, it is stated that there had been serious disagreements
+    between the prisoner and his wife, and that Mrs. Tomlinson had supported her sister''s
+    cause and invited her to come to Stamford Hill and stay there on several occasions,
+    which she had done. Mrs. Tomlinson is the mother of two children and is much respected
+    by her neighbors, who express great sympathy towards her in her suffering and
+    make anxious inquiries as to her condition. It is clear that she had a miraculous
+    escape from death. As it is, she is badly wounded and her system has received
+    a very severe shock, but there is scarcely any fear of her ultimate recovery.
+    On Sunday evening the symptoms were highly favorable to that view. The affair,
+    happening in a crowded thoroughfare at a busy time on Saturday night, created
+    intense excitement."'
+  handwritten_text_raw: I ATTEMPTED MURDER AT STAMFORD HILL. ON Saturday night an
+    extraordinary and apparently deliberate attempt to murder a woman, the wife of
+    a house and estate agent named Tomlinson, of 7, Champion-terrace, Stamford Hill,
+    took place in the public thoroughfare, about one hundred yards dis- tance from
+    her residence. She left home at twenty minutes past nine for the purpose of making
+    a few purchases, and was almost immediated accosted by a man from behind. She
+    turned round at once, and found that it was her sister's husband, William Eiworthy.
+    He walked by her side for a second or two, and then suddenly fired a pistol at
+    the back of her head. She secreamed. "Murder; I am shot i and fell to the ground
+    insensible. A'girl living on the spot ran across the road and recognised Mrs.
+    Tomlinson as she lay bleeding on the pavement. Being Saturday night there were
+    many people about. A crowdsoon assembled, and the. injured woman having been car-
+    ried into her own house, Dr. Duncan, of Amherst Park, was sent for. He soon arrived,
+    and found her suffering from a bullet wound behind the right ear, but the bullet
+    had not penetrated the skull, having bounded off after striking the bone. Search
+    was subsequently made for the bullet, but it could not be found. After the woman
+    fell Esworthy hurried to the opposite side of the street, and threw something
+    over a fence. He had been seen to fire the pistol by some passers by, and was
+    seized by several men, who took him towards the Stoke Newington Police-station.
+    They were met, however, by Sergeant Collins, of the N Division, to whom they reported
+    the circumstances of the case, and gave the man into his custody. Collins, accompanied
+    by a great many persons, conveyed Esworthy to the Tottenham Police-station. There
+    he was charged with "shooting and wounding with intent to murder one Harriet Tomlinson,
+    at the High-road, Stamford Hill. In the parieh of Tottenham." He gave the name
+    of William Esworthy, ngedtwenty-eight, address 29, South-street, Manchester-square;
+    business, commis- sion agent. On the charge being read over to him he remarked,
+    "She did it herself, and I took the revolver away from her, and threw it over
+    a fence on the opposite side of the road." On being searched a few coins and a
+    cleaning-rod of a pistol was found upon him, but no ammunition. The prisoner having
+    been locked up, Inspector Ashwell and Sergeant Collins proceeded to the spot Indicated
+    by him to search for the revolver; but, after a close inspec- tion for an hour
+    or so, they had not succeeded in finding it, The search then discontinued; it
+    was re- sumed on Sunday morning at daylight by Sergeant Collins, and at a quarter-past
+    five o'clock he dis- covered the revolver in a builder's yard, almost opposite
+    where the crime was committed. It is a weapon with seven chambers, six of which
+    were loaded when It was picked up. It was, therefore, fully charged when the attack
+    was made upon Mrs. Tomlinson. In investigating the matter on Sunday the police
+    ascertained that the prisoner spent nearly the whole of Saturday afternoon and
+    evening watching the playing of cricket on some vacant land at the rear of Champion-terrace.
+    After the match was over he was seen to pass Tomlinson's place of business and
+    go to a public-house, where he had some whisky. He then repassed the shop, and
+    evidently waited about in the expectation that Mrs. Tomlinson would come out,
+    as she eventually did, to make Saturday night's purchases. As to the motive for
+    the outrage, it Is stated that there had been serious disagreements between the
+    prisoner and his wife, and that Mrs. Tomlinson had supported her sister's cause,
+    and invited herto come to Stamford Hill and stay there on several occasions, which
+    she had done. Mrs. Tom- linson, is the mother of two children, and is much respected
+    by her neighbours, who express great sym- pathy towards her in her suffering,
+    and make anxious inquiries as to her condition, It is clear that she had a miraculous
+    escape from death. As it is she is badly wounded, and her system has received
+    a very severe shock, but there is scarcely any fear of her ultimate recovery.
+    On Sunday evening the symp- toms were highly favourable to that view. As may be
+    imagined, the affair, happening in a crowded thoroughfare at a busy time on Saturday
+    night, created intense excitement. Prisoner will be taken before the magistrates
+    at Edmonton in a day or two.
+  image_id: '3200803403'
+  metrics:
+    corrected:
+      CER: 0.09375736160188457
+      SS: 0.9404714703559875
+      WER: 0.11273209549071618
+    noise:
+      CER: 0.005418138987043581
+      SS: 0.972321629524231
+      WER: 0.04509283819628647
+  typed_text: 'ATTEMPTED MURDER AT STAMFORD HILL.
+
+
+    ON Saturday night an extraordinary and apparently deliberate attempt to
+
+    murder a woman, the wife of a house and estate agent named Tomlinson, of
+
+    7, Champion-terrace, Stamford Hill, took place in the public
+
+    thoroughfare, about one hundred yards’ distance from her residence. She
+
+    left home at twenty minutes past nine for the purpose of making a few
+
+    purchases, and was almost immediated accosted by a man from behind. She
+
+    turned round at once, and found that it was her sister''s husband,
+
+    William Esworthy. He walked by her side for a second or two, and then
+
+    suddenly fired a pistol at the back of her head. She screamed, "Murder;
+
+    I am shot!" and fell to the ground insensible. A girl living on the spot
+
+    ran across the road and recognised Mrs. Tomlinson as she lay bleeding on
+
+    the pavement. Being Saturday night there were many people about. A crowd
+
+    soon assembled, and the injured woman having been carried into her own
+
+    house, Dr. Duncan, of Amherst Park, was sent for. He soon arrived, and
+
+    found her suffering from a bullet wound behind the right ear, but the
+
+    bullet had not penetrated the skull, having bounded off after striking
+
+    the bone. Search was subsequently made for the bullet, but it could not
+
+    be found. After the woman fell Esworthy hurried to the opposite side of
+
+    the street, and threw something over a fence. He had been seen to fire
+
+    the pistol by some passers by, and was seized by several men, who took
+
+    him towards the Stoke Newington Police-station. They were met, however,
+
+    by Sergeant Collins, of the N Division, to whom they reported the
+
+    circumstances of the case, and gave the man into his custody. Collins,
+
+    accompanied by a great many persons, conveyed Esworthy to the Tottenham
+
+    Police-station. There he was charged with "shooting and wounding with
+
+    intent to murder one Harriet Tomlinson, at the High-road, Stamford Hill,
+
+    in the parish of Tottenham." He gave the name of William Esworthy, aged
+
+    twenty-eight, address 29, South-street, Manchester-square; business,
+
+    commission agent. On the charge being read over to him he remarked, "She
+
+    did it herself, and I took the revolver away from her, and threw it over
+
+    a fence on the opposite side of the road." On being searched a few coins
+
+    and a cleaning-rod of a pistol was found upon him, but no ammunition.
+
+    The prisoner having been locked up, Inspector Ashwell and Sergeant
+
+    Collins proceeded to the spot indicated by him to search for the
+
+    revolver; but, after a close inspection for an hour or so, they had not
+
+    succeeded in finding it. The search then discontinued; it was resumed on
+
+    Sunday morning at daylight by Sergeant Collins, and at a quarter past
+
+    five o''clock he discovered the revolver in a builder''s yard, almost
+
+    opposite where the crime was committed. It is a weapon with seven
+
+    chambers, six of which were loaded when it was picked up. It was,
+
+    therefore, fully charged when the attack was made upon Mrs. Tomlinson.
+
+
+    In investigating the matter on Sunday the police ascertained that the
+
+    prisoner spent nearly the whole of Saturday afternoon and evening
+
+    watching the playing of cricket on some vacant land at the rear of
+
+    Champion-terrace. After the match was over he was seen to pass
+
+    Tomlinson''s place of business and go to a public-house, where he had
+
+    some whisky. He then repassed the shop, and evidently waited about in
+
+    the expectation that Mrs. Tomlinson would come out, as she eventually
+
+    did, to make Saturday night''s purchases. As to the motive for the
+
+    outrage, it is stated that there had been serious disagreements between
+
+    the prisoner and his wife, and that Mrs. Tomlinson had supported her
+
+    sister''s cause, and invited her to come to Stamford Hill and stay there
+
+    on several occasions, which she had done. Mrs. Tomlinson, is the mother
+
+    of two children, and is much respected by her neighbours, who express
+
+    great sympathy towards her in her suffering, and make anxious inquiries
+
+    as to her condition. It is clear that she had a miraculous escape from
+
+    death. As it is she is badly wounded, and her system has received a very
+
+    severe shock, but there is scarcely any fear of her ultimate recovery.
+
+    On Sunday evening the symptoms were highly favourable to that view. Ae
+
+    may be imagined, the affair, happening in a crowded thoroughfare at a
+
+    busy time on Saturday night, created intense excitement. Prisoner will
+
+    be taken before the magistrates at Edmonton in a day or two.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "TIE ILLUSTRATED POLICE REPORT SATURDAY, JUNE 29, 1889. WHAT amounts practically
+    to a verdict of manslaughter has been returned by the coroner''s jury against
+    the six officials charged in connection with the railway disaster at Armagh. These
+    persons having been committed for trial, there is, of course, nothing to be said
+    as to the propriety of the verdict or the probable result of the proceedings in
+    the higher court. It may, however, be safely anticipated that whatever the decision
+    of the judge of assize may be, it will provide no security against the repetition
+    of a like catastrophe under similar conditions. The only guarantee is to be found
+    in the adoption of the recommendation appended by way of rider to the verdict.
+    It is the unanimous opinion of the jury that the general use of an automatic brake
+    in all passenger trains is essential for the safety of the passengers, and that
+    therefore the Government ought as soon as possible to introduce a bill compelling
+    all railway companies to adopt this form of brake. This conclusion was based upon
+    the evidence given at the inquest, and there can hardly be a doubt that it will
+    be confirmed by the report of the Government inspector, whose finding, as Sir
+    Michael Hicks Beach announced in reply to Mr. Channing, will determine the legislative
+    action of the Government. The witnesses examined at the inquest, including some
+    of the officials now awaiting their trial, were agreed that if the ill-fated train
+    had been fitted with the improved mechanism the tragedy might, or rather would,
+    have been prevented. There could not well be a clearer or a more imperative case
+    for the sovereign intervention of the Government. A bill of one clause simply
+    extending the powers of the Board of Trade in the manner suggested would ensure
+    the requisite safeguard to the railway public, and if the business of the House
+    of Commons continues to make progress at the present rate such a measure might
+    be brought in and passed without even disjointing the programme of the Session."'
+  handwritten_text_raw: TIE ILLUSTRATED POLICE iWs SATURDAY, JUNE 29, 18S9. WHAT amounts
+    practically to a verdict of m manslaughter has been returned by the coro- hi ner's
+    jury against the six officials charged in l connexion with the railway disaster
+    at Armagh, These persons having been committed for trial, ti there is, of course,
+    nothing to be said as to the N propriety of the verdict or the probable result
+    " of the proceedings in the higher court. It p may, however, be safely anticipated
+    that what- It ever the decision of the judge of assize may au be, it will provide
+    no security against the re- le petition of a like catastrophe under similar s,
+    conditions. . The only guarantee is to be found ti in the adoption of the recommendation
+    ap-m pended by way of " rider " to the verdict. It is the unaninmous opinion of
+    the jury that the *general use of an automatic brake in all pas- hE senger trains
+    is essential for the safety of the pc passengers, and that therefore the Government
+    w ought as soon as possible to introduce a bill p compelling all railway companies
+    to adopt this w form of brake. This conclusion was basedc upon the evidence giren
+    at the inquest, and rc there can hardly be a doubt that it will be u confirnmed
+    by the report of the Government sl inspector, whose finding, as Sir Michael Hicks-
+    b, Beach announced in reply to Mr. Channing, ai will determine the legislative
+    action of the m Goverrnment. T'he witnesses examined at the St fe inquest, including
+    some of the officials now a, awaiting their trial, were agreed that if the v ill-fated
+    train had been fitted with the improved re mechanism the tragedy might, or rather
+    would, a] have been prevented. There could not well r be a clearer or a more imperative
+    case for the so intervention of the Government. A bill of n] one clause simply
+    extending the powers of the w Board of Trade in the manner suggested would ec
+    ensure the requisite safeguard to the railway f public, and if the business of
+    the House of bi Commons continues to make progress at the B present rate such
+    a measure might be brought it -in and passed without even disjointing the programme
+    of the Session.
+  image_id: '3200807879'
+  metrics:
+    corrected:
+      CER: 0.025822784810126582
+      SS: 0.9563087821006775
+      WER: 0.03225806451612903
+    noise:
+      CER: 0.05468354430379747
+      SS: 0.8102850317955017
+      WER: 0.16715542521994134
+  typed_text: 'THE ILLUSTRATED POLICE NEWS
+
+
+    SATURDAY, JUNE 29, 1889.
+
+
+    WHAT amounts practically to a verdict of manslaughter has been returned
+
+    by the coroner''s jury against the six officials charged in connexion
+
+    with the railway disaster at Armagh. These persons having been committed
+
+    for trial, there is, of course, nothing to be said as to the propriety
+
+    of the verdict or the probable result of the proceedings in the higher
+
+    court. It may, however, be safely anticipated that whatever the decision
+
+    of the judge of assize may be, it will provide no security against the
+
+    repetition of a like catastrophe under similar conditions. The only
+
+    guarantee is to be found in the adoption of the recommendation appended
+
+    by way of "rider" to the verdict. It is the unanimous opinion of the
+
+    jury that the general use of an automatic brake in all passenger trains
+
+    is essential for the safety of the passengers, and that therefore the
+
+    Government ought as soon as possible to introduce a bill compelling all
+
+    railway companies to adopt this form of brake. This conclusion was based
+
+    upon the evidence given at the inquest, and there can hardly be a doubt
+
+    that it will be confirmed by the report of the Government inspector,
+
+    whose finding, as Sir Michael Hicks-Beach announced in reply to Mr.
+
+    Channing, will determine the legislative action of the Government. The
+
+    witnesses examined at the inquest, including some of the officials now
+
+    awaiting their trial, were agreed that if the ill-fated train had been
+
+    fitted with the improved mechanism the tragedy might, or rather would,
+
+    have been prevented. There could not well be a clearer or a more
+
+    imperative case for the intervention of the Government. A bill of one
+
+    clause simply extending the powers of the Board of Trade in the manner
+
+    suggested would ensure the requisite safeguard to the railway public,
+
+    and if the business of the House of Commons continues to make progress
+
+    at the present rate such a measure might be brought in and passed
+
+    without even disjointing the programme of the Session.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "THE DUKE OF CAMBRIDGE AND THE REPORTER.
+
+
+    In the Queen''s Bench Division, on Friday, before the Lord Chief Justice and Mr.
+    Justice Hawkins, Mr. Abinger moved for an order, calling upon Mr. Bridge, the
+    Bow-street magistrate, to show cause why he should not hear and determine an application
+    for a summons applied for by Mr. Simms, described as a reporter, against the Duke
+    of Cambridge, for an assault committed on May 25th, on the occasion of the Prince
+    and Princess of Wales inspecting the Metropolitan Fire Brigade.
+
+
+    On the 28th, Mr. Bridge suggested that the case was one for the County Court,
+    but the complainant did not accept the suggestion, and went on to make his complaint.
+    The information was read, but not sworn, the learned magistrate refusing to allow
+    it to be sworn, and he declined to grant a summons.
+
+
+    In the information, the applicant stated the details of the alleged assault, which
+    took place at the Horse Guards, Whitehall. An affidavit to a similar effect was
+    also read by the learned counsel, who contended that all the elements of an assault
+    which it was possible to bring were present.
+
+
+    After arguments, Lord Chief Justice Coleridge said that it was of the greatest
+    importance that the public should be satisfied that before the law all subjects
+    of the Queen are equal. He had not a shadow of opinion as to what might be the
+    issue of the case, but it was clear to his mind that Mr. Bridge had not exercised
+    his discretion, which he was bound to exercise judicially, and therefore the rule
+    must be granted. Mr. Justice Hawkins concurred.
+
+
+    Mr. Abinger asked whether the rule would be nisi or absolute. Their lordships
+    pointed out that at present they had only heard Mr. Abinger, and the magistrate
+    might have an explanation. Rule nisi granted.
+
+
+    At the West Bromwich Police Court, on Friday, a man named Thomas Francis Sinclair
+    was remanded on a charge of attempting to murder George Williams. The men slept
+    together, and on Wednesday the accused is alleged to have jumped out of bed and
+    to have fetched a knife and stabbed Williams. It has been stated that both men
+    were in love with the same girl, and that the deed arose out of jealousy, but
+    the girl denies the story.
+
+
+    A lunatic patient, named Harris, in the Royal Naval Hospital at Great Yarmouth,
+    made a violent attack on Friday morning upon two other patients, named Miller
+    and Parkes, with a red-hot poker. Both lie in a very dangerous state. Dr. Browne,
+    one of the hospital doctors, had his head and arm injured while trying to disarm
+    Harris, and Mr. Cummins, who eventually wrestled the poker from the man, had his
+    hands burned. An official named Kelly also received a terrible blow on the head."'
+  handwritten_text_raw: THE DUKE OF CAMBRIDGE AND THE REPORTER. IN the Queen's Bench
+    Division, on Friday, before the Lord Chief Justice and Mr. Justice Hawkins, Mr.
+    Abinger moved for an order, calling upon Mr. Bridge, the Bow-street magistrate,
+    to show cause why he should not hear and determine an application for a summons
+    applied for by Mr. Simms, described as a reporter, agaihst the Duke of Cambridge,
+    for an assault committed on Alay 25th, on the occasion of the Prince and Princess
+    of Wales inspecting the Metropolitan Fire Brigade. On the 28th Mr. Bridge suggested
+    that the case was one for the County Court, but the complainant did not accept
+    the suggestion, and went on to make his complaint. The information was read, but
+    not sworn, the learned magistrate refusing to allow it to be sworn, and he declined
+    to grant a summons. In the information the applicant stated the details' of the
+    alleged assault, which took Place at the Horso Guards, Whitehall. An affidavit
+    to a similar effect was also read by the learned counsel, who contended that all
+    the elements of an assault which it was pos- sible to bring were present. After
+    argunents, Lord Chief Justice Coleridge said that it was of the greatest importance
+    that the public should be satisfied that before the law all subjects of the Queen
+    are equal. He had not a shadow of opinion as to what might be the issue of the
+    case, but it was clear to his mind that Mr. Bridge had not exercised his discretion,
+    which he was bound to exercise judicially, and therefore the role must be granted.
+    Mr. Justice Hawkins con- curred. Mr. Abinger asked whether the rule would be nisi
+    or absolute. Their lordships pointed oat that at present they had only heard Mr.
+    Abinger, and the magistrate might have an explanation. Rule nisi grantedl. AT
+    the West Bromwich Poflceecourt, on Friday, a man named Thomas Francis Sinclair
+    was remanded en a charge of attempting to murder George Wil- hams. The men slept
+    together, and on Wednesday the accused is alleged to have jumped out of bed, and
+    to have fetched a knife and stabbed Williams. It has been stated that both men
+    were in love with the same girl, and that the deed arose out of jealousy, but
+    the girl indicated denies the story. A LONATIc patient, named Harris, in the Royal
+    Naval Hospital at Great Yarmouth,- made a violent attack on Friday morning upon
+    two other patients, anmed Miller and Parkes, with a red-hot poker. Both lie in
+    a very dangerous state. Dr. Browne, one of the hospital doctors, had his head
+    and arm injured to trying to disasmHRarris, and Mr. Cummins, who eventually wrested
+    the poker from the man, had his bands burned. An official named Kelly also received
+    cterrible blow on the head.
+  image_id: '3200807881'
+  metrics:
+    corrected:
+      CER: 0.03151100987091875
+      SS: 0.9736882448196411
+      WER: 0.02335456475583864
+    noise:
+      CER: 0.0231586940015186
+      SS: 0.9780387878417969
+      WER: 0.055201698513800426
+  typed_text: 'THE DUKE OF CAMBRIDGE AND THE REPORTER.
+
+
+    IN the Queen''s Bench Division, on Friday, before the Lord Chief Justice
+
+    and Mr. Justice Hawkins, Mr. Abinger moved for an order, calling upon
+
+    Mr. Bridge, the Bow-street magistrate, to show cause why he should not
+
+    hear and determine an application for a summons applied for by Mr.
+
+    Simms, described as a reporter, against the Duke of Cambridge, for an
+
+    assault committed on May 25th, on the occasion of the Prince and
+
+    Princess of Wales inspecting the Metropolitan Fire Brigade. On the 28th
+
+    Mr. Bridge suggested that the case was one for the County Court, but the
+
+    complainant did not accept the suggestion, and went on to make his
+
+    complaint. The information was read, but not sworn, the learned
+
+    magistrate refusing to allow it to be sworn, and he declined to grant a
+
+    summons. In the information the applicant stated the details of the
+
+    alleged assault, which took place at the Horse Guards, Whitehall. An
+
+    affidavit to a similar effect was also read by the learned counsel, who
+
+    contended that all the elements of an assault which it was possible to
+
+    bring were present. After arguments, Lord Chief Justice Coleridge said
+
+    that it was of the greatest importance that the public should be
+
+    satisfied that before the law all subjects of the Queen are equal. He
+
+    had not a shadow of opinion as to what might be the issue of the case,
+
+    but it was clear to his mind that Mr. Bridge had not exercised his
+
+    discretion, which he was bound to exercise judicially, and therefore the
+
+    rule must be granted. Mr. Justice Hawkins concurred. Mr. Abinger asked
+
+    whether the rule would be nisi or absolute. Their lordships pointed out
+
+    that at present they had only heard Mr. Abinger, and the magistrate
+
+    might have an explanation. Rule nisi granted.
+
+
+    ________________________________
+
+
+    AT the West Bromwich Police court, on Friday, a man named Thomas Francis
+
+    Sinclair was remanded on a charge of attempting to murder George
+
+    Williams. The men slept together, and on Wednesday the accused is
+
+    alleged to have jumped out of bed, and to have fetched a knife and
+
+    stabbed Williams. It has been stated that both men were in love with the
+
+    same girl, and that the deed arose out of jealousy, but the girl
+
+    indicated denies the story.
+
+
+    A LUNATIC patient, named Harris, in the Royal Naval Hospital at Great
+
+    Yarmouth, made a violent attack on Friday morning upon two other
+
+    patients, named Miller and Parkes, with a red-hot poker. Both lie in a
+
+    very dangerous state. Dr. Browne, one of the hospital doctors, had his
+
+    head and arm injured in trying to disarm Harris, and Mr. Cummins, who
+
+    eventually wrested the poker from the man, had his hands burned. An
+
+    official named Kelly also received a terrible blow on the liead.'
+- handwritten_text_corrected: 'Here is the fully corrected text:
+
+
+    "A GANG OF YOUTHFUL BURGLARS. AT the Dalston Police-court, Frederick Bnshell,
+    15, boot finisher, of Crozier-terrace, Hackney; James Arnold, 14, errand boy,
+    of Oswald-street, Hackney-wick; and Noah Dunkley, 12, schoolboy, of Overberry-road,
+    Hackney-wick, were charged on remand with being in a disused oilcloth factory
+    in Glyn-road, Clapton-park, supposed for the purpose of committing a felony. The
+    boys were found in the building at ten o''clock on the previous Saturday morning.
+    They had evidently made the place their home. The elder boy was armed with a catapult,
+    and in his possession were a number of lead pellets, which he had obtained by
+    melting down the lead from the building''s piping. The extensive building had
+    been almost stripped of its piping, and there were evidences that the lead had
+    been melted down to make pellets for the catapults, which were used to shoot the
+    numerous birds nested in the roof of the building. The birds were afterwards cooked
+    and eaten. On the house where Arnold resided being searched, a chisel fashioned
+    like a burglar''s tool was found, as well as a silver-plated teapot and cream
+    jug, and several plated spoons, which had been stolen from a house in Percy-terrace,
+    Mandeville-street, Clapton. The owner was not present, and Constable 208 J said
+    there was no further evidence to connect the prisoners with the robbery at that
+    house. A solicitor representing the owner, who is away in Russia, said that during
+    the past few years, £700 worth of damage had been done to the buildings by boys.
+    A wall eight feet high surrounded the building, and as the inner staircase had
+    long since disappeared, he was at a loss to know how the boys got to the top floor.
+    Arnold said they got over the outer wall from some gardens at the back, and, having
+    forced the windows, they climbed up the beams to the top floor. The solicitor
+    added that great danger might arise to adjoining property by the boys indulging
+    in fires on the floor. The boys seemed to have been neglected by their parents,
+    one mother admitting that she had taken a situation as a housekeeper and left
+    the boy to shift for himself. Mr. Corser said Bushell appeared to be the ringleader,
+    and he probably had led the other boys away. He would have ten days imprisonment
+    and be detained for five years in a reformatory. The younger boys would go to
+    the workhouse for a week, and Mr. Hiscocks, the School Board officer, would find
+    industrial schools for them."'
+  handwritten_text_raw: A GANG OF YOUTHFUL BURGLARS. AT the Dalston Police-court Frederickl
+    Bnshell, rc . fifteen, boot finisher, of Crozier-terrace, Hackney ; cc James Arnold,
+    fourteen, errand boy, of Oswald-street, o H Hackney-wick; and Noah Dunkley, twelve,
+    school- ol boy, of Overberry-road, Hackney-wick, were charged sc on remand with
+    being in a disused oilcloth factory in rt Glyn-road, Clapton-park, supposed for
+    the purpose tr - of committing a felony. The boys were found in the building at
+    ten o'clock on the previous Saturday pi morning. They had evidently made the place
+    their m nhome. The elder boy was armed with a catapult, a, and in his' 'possession
+    were a number of lead pellets, at The extenwive building had been almost stripped
+    of c its piping, and there were evidences that the lead so re - obtained had been
+    melted down to make pellets bi L for the catapults, which were used to shoot the
+    m 3 numerous birds nested in the roof of the building, bh which were afterwards
+    cooked and eaten, On the I house where Arnold resided bheing searched a chisel
+    fashioned like a blurglar's "jenimly" was found, P 3 together with a silver-plated
+    teapot and cream jug, tc 7 and several plated spoons, which it was ascertained
+    I had been stolen from a house in Percy-terrace, Mande- y ville-strect, Clapton.
+    The owner was not present, t and Constable 208 J said there was no further D evidence
+    to connect the prisoners with the robbery El 7 at that house. A solicitor representing
+    the owner, fi, who is away in Russia, said that during the past I few years �700
+    worth of damage had beer, done to t the buildings by boys. A wall eight feet high
+    turol rounded the building, and as the inner staircase bad ti long since disappeared
+    he was at a loss to know how 1t the boys got to the top floor. Arnold said they
+    got l over the outer wall from some gardens at the back, So . and, having forced
+    the windows, they climbed up the beams to the top floor. The solicitor added that
+    tl 3 great daneer might arise to adjoining property by so the boys Iinidling fires
+    on the floor. Time boys seemed t) to have been neglected by their parents, one
+    mother e admitting that she had taken a situation as a house- X keeper and left
+    the boy to shift for himself Mr. 0. Corser said Bushell appeared to be the ringleader,
+    h and he probably had led the other boys away. He e would have ten days' imprisonment
+    and be detained .for five years in a reformatory. The younger boys Q would go
+    to the workhouse for a week, and Mr.r f Hiscocks, the School Board officer, would
+    find t] e indiustrial schools for them.
+  image_id: '3200807886'
+  metrics:
+    corrected:
+      CER: 0.08116189662537378
+      SS: 0.9234983325004578
+      WER: 0.09268292682926829
+    noise:
+      CER: 0.061512174284493806
+      SS: 0.9060009717941284
+      WER: 0.17073170731707318
+  typed_text: 'A GANG OF YOUTHFUL BURGLARS.
+
+
+    AT the Dalston Police-court Frederick Bushell, fifteen, boot finisher,
+
+    of Crozier-terrace, Hackney; James Arnold, fourteen, errand boy, of
+
+    Oswald-street, Hackney-wick; and Noah Dunkley, twelve, school-boy, of
+
+    Overberry-road, Hackney-wick, were charged on remand with being in a
+
+    disused oilcloth factory in Glyn-road, Clapton-park, supposed for the
+
+    purpose of committing a felony. The boys were found in the building at
+
+    ten o''clock on the previous Saturday morning. They had evidently made
+
+    the place their home. The elder boy was armed with a catapult, and in
+
+    his possession were a number of lead pellets. The extensive building had
+
+    been almost stripped of its piping, and there were evidences that the
+
+    lead so obtained had been melted down to make pellets for the catapults,
+
+    which were used to shoot the numerous birds nested in the roof of the
+
+    building, which were afterwards cooked and eaten. On the house where
+
+    Arnold resided being searched a chisel fashioned like a burglar''s
+
+    "jemmy" was found, together with a silver-plated teapot and cream jug,
+
+    and several plated spoons, which it was ascertained had been stolen from
+
+    a house in Percy-terrace, Mandeville-street, Clapton. The owner was not
+
+    present, and Constable 208 J said there was no further evidence to
+
+    connect the prisoners with the robbery at that house. A solicitor
+
+    representing the owner, who is away in Russia, said that during the past
+
+    few years £700 worth of damage had been done to the buildings by boys. A
+
+    wall eight feet high surrounded the building, and as the inner staircase
+
+    had long since disappeared he was at a loss to know how the boys got to
+
+    the top floor. Arnold said they got over the outer wall from some
+
+    gardens at the back, and, having forced the windows, they climbed up the
+
+    beams to the top floor. The solicitor added that great danger might
+
+    arise to adjoining property by the boys kindling fires on the floor. The
+
+    boys seemed to have been neglected by their parents, one mother
+
+    admitting that she had taken a situation as a house keeper and left the
+
+    boy to shift for himself. Mr. Corser said Bushell appeared to be the
+
+    ringleader, and he probably had led the other boys away. He would have
+
+    ten days'' imprisonment and be detained for five years in a reformatory.
+
+    The younger boys would go to the workhouse for a week, and Mr. Hiscocks,
+
+    the School Board officer, would find industrial schools for them.'

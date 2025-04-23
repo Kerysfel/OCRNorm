@@ -1,0 +1,1022 @@
+- handwritten_text_corrected: '"don''t know about me, without you having read a book
+    by the name of The Adventures of Tom Sawyer, but that isn''t necessary. That book
+    was written by Mr. Mark Twain, and he told the truth, mainly. There were things
+    which he stretched, but mainly he told the truth. That is nothing. I never saw
+    anyone but lied, one time or another, without it being Aunt Polly, or the widow,
+    or maybe Mary. Aunt Polly, Tom''s Aunt Polly, she is and Mary, and the Widow Douglas,
+    is all told about in that book which is mostly a true book; with some stretches,
+    as I said before. Now the way that the book winds up, is this: Tom and I found
+    the money that the robbers hid in the cave, and it made us rich. We got six thousand
+    dollars apiece, all gold. It was an awful sight of money when it was piled up.
+    Well, Judge Thatcher, he took it and put it out at interest, and it fetched us
+    a dollar a day apiece, all year round, more than a body could tell what to do
+    with. The Widow Douglas, she took me for her son, and promised she would civilize
+    me; but it was rough living in the house all the time, considering how dismal
+    regular and decent the widow was in all her ways; and so when I couldn''t stand
+    it anymore, I lit out. I got into my old rags, and my sugar-hogshhead again, and
+    was free and satisfied. But THE widows. 18 THE ADVENTURES OF HUCKLEBERRY FINN.
+    Tom Sawyer, he hunted me up and said he was going to start a band of robbers,
+    and I might join if I would go back to the widow and be respectable. So I went
+    back. The widow she cried over me, and called me a poor lost lamb, and she called
+    me a lot of other names, too, but she never meant no harm by it. She put me in
+    those new clothes again, and I couldn''t do nothing but sweat and sweat."'
+  handwritten_text_raw: 'don''t know about me, without you
+
+    have re;ad a book by the name of " The
+
+    Adventures of Tom Sawyer, " but that
+
+    ain''t n0o matter. That book was made
+
+    by Mr. Mark Twain, and he told the
+
+    truth, mainly. There was things
+
+    which he stretched, but mainly he
+
+    told the tru;th. That is nothing. I
+
+    never seen anybody but lied, one time
+
+    or another, without it was Aunt Polly,
+
+    or the widow, or maybe Mary. Aunt
+
+    Pol5ly Tom''s Aunt Pol;ly, she is and
+
+    Mary, and the Widow Douglas, is all
+
+    told abo6ut in that book which is
+
+    mostly a true book ; with some stretch
+
+    ers, as I said before.
+
+    Now t;he way that the book winds
+
+    up, is this : Tom and me found the mo;ney that the robbers hid in the ca;ve,
+
+    and it made us rich. We got six thousand dollars api;ece all gold. It was an
+
+    awful sight of money when it was pi;led up. Well, Judge Thatcher, he t;ook it
+
+    and put it out at inte7rest, and it fetc;hed us a dollar a day apiece, all the
+    year
+
+    round more than a body could tell what to do with. The Widow Dougl;as, she
+
+    took me foi her s;on, and allowed she would sivilize me ; but it was rough living
+
+    in th;e ho;uue all the time, considering how dismal regular and decent the widow
+
+    was in all her ways ; and so when I couldn''t stand it no lon;ger, I lit out.
+    I got
+
+    into my old rags, and my sugar-hogsh8ead again, and was free and satisfied. Bu*
+
+    THE wrnow''s.
+
+    18
+
+    THE ADVENTURES OF HUCKLEBERRY FINN.
+
+    Tom Sawyer, he hunted me up and said he was going to start a band of robbers,
+
+    and I mig;ht join if I would go back to the widow and be respectable. So I went
+
+    back.
+
+    The widow she cried over me, and cal;led me a poor lost lamb, and she called
+
+    me a lot of other names, too, but she never meant no harm by it. She put me
+
+    in them new clothes again, and I couldn''t do nothing but sweat
+
+    and sweat'
+  image_id: chapter_GT_01_chunk_1
+  metrics:
+    corrected:
+      CER: 0.07063197026022305
+      SS: 0.9400107860565186
+      WER: 0.09734513274336283
+    noise:
+      CER: 0.03903345724907063
+      SS: 0.9081277251243591
+      WER: 0.07079646017699115
+  typed_text: 'YOU don''t know about me without you have read a book by the name of
+    The
+
+    Adventures of Tom Sawyer; but that ain''t no matter.  That book was made
+
+    by Mr. Mark Twain, and he told the truth, mainly.  There was things which
+
+    he stretched, but mainly he told the truth.  That is nothing.  I never
+
+    seen anybody but lied one time or another, without it was Aunt Polly, or
+
+    the widow, or maybe Mary.  Aunt Polly--Tom''s Aunt Polly, she is--and
+
+    Mary, and the Widow Douglas is all told about in that book, which is
+
+    mostly a true book, with some stretchers, as I said before.
+
+
+    Now the way that the book winds up is this:  Tom and me found the money
+
+    that the robbers hid in the cave, and it made us rich.  We got six
+
+    thousand dollars apiece--all gold.  It was an awful sight of money when
+
+    it was piled up.  Well, Judge Thatcher he took it and put it out at
+
+    interest, and it fetched us a dollar a day apiece all the year round
+
+    --more than a body could tell what to do with.  The Widow Douglas she took
+
+    me for her son, and allowed she would sivilize me; but it was rough
+
+    living in the house all the time, considering how dismal regular and
+
+    decent the widow was in all her ways; and so when I couldn''t stand it no
+
+    longer I lit out.  I got into my old rags and my sugar-hogshead again,
+
+    and was free and satisfied.  But Tom Sawyer he hunted me up and said he
+
+    was going to start a band of robbers, and I might join if I would go back
+
+    to the widow and be respectable.  So I went back.
+
+
+    The widow she cried over me, and called me a poor lost lamb, and she
+
+    called me a lot of other names, too, but she never meant no harm by it.
+
+    She put me in them new clothes again, and I couldn''t do nothing but sweat
+
+    and sweat'
+- handwritten_text_corrected: '"and feel all cramped up. Well, then, the old thing
+    commenced again. The widow rang a bell for supper, and you had to come to the
+    table. When you got to the table you couldn''t go right to eating, but you had
+    to wait for the widow to tuck down her head and grumble a little over the victuals,
+    though there wasn''t really anything wrong with them. That is, nothing only everything
+    was cooked by itself. In a barrel of odds and ends it is different; things get
+    mixed up, and the juice kind of swaps around, and the things go better. After
+    supper she got out her book and taught me about Moses and the Bush-rangers? ;
+    and I was in a sweat to find out all about him ; but by-and-by she let it out
+    that Moses had been dead a considerable long time ; so then I didn''t care no
+    more about him ; because I don''t take no stock in dead people. Pretty soon I
+    wanted to smoke, and asked the widow to let me. But she wouldn''t. She said it
+    was a mean practice and wasn''t clean, and I must try to not do it any more. That
+    is just the way with some people. They learn about Moses and the Eulrusheus. Miss
+    Waters. 19 get down on a thing when they don''t know nothing about it. Here she
+    was bothering about Moses, which was no kin to her, and no use to anybody, being
+    gone, you see, yet finding a power of fault with me for doing a thing that had
+    some good in it. And she took snuff too; of course that was all right, because
+    she did it herself. Her sister, Miss Watson, a tolerable slim old maid, with goggles
+    on, had just come to live with her, and took a set at me now, with a spelling-book.
+    She worked me middling hard for about an hour, and then the widow made her ease
+    up"'
+  handwritten_text_raw: 'and feel all cramped up. Well, then, the old thing commen;ced
+    again. The widow
+
+    rung a bell for supper, and you had to come to 7time. When you got to the table
+
+    you coul;dn''t go right to eat
+
+    ing, but yo;u had to wait fr
+
+    the widow to tuck down her
+
+    head and grum5ble a little
+
+    over the victuals, though
+
+    there warn''t really anything
+
+    the matter with them. That
+
+    is, nothing o7nly everything
+
+    was cooked by itself. In a
+
+    barrel of odds and ends it is
+
+    different ; things get mixed
+
+    up, and the juice kind of
+
+    swaps around, and the things
+
+    go better.
+
+    After supper she got out
+
+    her book and lea0rned me
+
+    about Moses and the Bui-
+
+    rushers? ; and I was in a sweat
+
+    to find out all about him ;
+
+    but by-a;nd-by she let it out that Moses had be;en dead a considerable long time
+    ;
+
+    so then I didn''t care no more about him ; because I don''t take no stock in dead
+
+    people.
+
+    Pretty soon I want;ed to smoke, and as;ked the widow to l4et me. But she
+
+    wouldn''t. She said it was a mean pra;ctice and wasn''t clean, and I must
+
+    try to not do it any more. That is just the way with some people. They
+
+
+    LEARNING ABOUT MOSES AND THE " EULRUSHEUS. "
+
+    MISS WATS01T.
+
+    19
+
+    get do;wn on a thing when they don''t know noth;ing about it. Here she
+
+    was a bothering about Moses, which was no kin to her, and no use to any
+
+    body, being gone, you see, yet fi;nding a power of fault wi8th me for doing
+
+    a thing that had some good in it. And she took snuff too; of course
+
+    that was all right, because she done it herself.
+
+    Her sister, Mis;s Watson, a toler3able sl;im old maid, with goggles on, had
+
+    just come to live with her, and took
+
+    a set at me now, with a spelling-book.
+
+    She wo;rked me mi2d;dling hard for abo1ut
+
+    an hour, and then the widow made her
+
+    ease up'
+  image_id: chapter_GT_01_chunk_2
+  metrics:
+    corrected:
+      CER: 0.057679844458846406
+      SS: 0.9288328289985657
+      WER: 0.07476635514018691
+    noise:
+      CER: 0.04795852235904083
+      SS: 0.8515790700912476
+      WER: 0.09968847352024922
+  typed_text: 'and feel all cramped up.  Well, then, the old thing commenced
+
+    again.  The widow rung a bell for supper, and you had to come to time.
+
+    When you got to the table you couldn''t go right to eating, but you had to
+
+    wait for the widow to tuck down her head and grumble a little over the
+
+    victuals, though there warn''t really anything the matter with them,--that
+
+    is, nothing only everything was cooked by itself.  In a barrel of odds
+
+    and ends it is different; things get mixed up, and the juice kind of
+
+    swaps around, and the things go better.
+
+
+    After supper she got out her book and learned me about Moses and the
+
+    Bulrushers, and I was in a sweat to find out all about him; but by and by
+
+    she let it out that Moses had been dead a considerable long time; so then
+
+    I didn''t care no more about him, because I don''t take no stock in dead
+
+    people.
+
+
+    Pretty soon I wanted to smoke, and asked the widow to let me.  But she
+
+    wouldn''t.  She said it was a mean practice and wasn''t clean, and I must
+
+    try to not do it any more.  That is just the way with some people.  They
+
+    get down on a thing when they don''t know nothing about it.  Here she was
+
+    a-bothering about Moses, which was no kin to her, and no use to anybody,
+
+    being gone, you see, yet finding a power of fault with me for doing a
+
+    thing that had some good in it.  And she took snuff, too; of course that
+
+    was all right, because she done it herself.
+
+
+    Her sister, Miss Watson, a tolerable slim old maid, with goggles on,
+
+    had just come to live with her, and took a set at me now with a
+
+    spelling-book. She worked me middling hard for about an hour, and then
+
+    the widow made her ease up.'
+- handwritten_text_corrected: '"Miss Watson would say, ''Don''t put your feet up there,
+    Huckleberry; and don''t scrunch up like that, Huckleberry set up straight; and
+    pretty soon she would say, ''Don''t gap and stretch like that, Huckleberry why
+    don''t you try to behave?'' Then she told me all about the bad place, and I said
+    I wished I was there. She got mad, then, but I did not mean no harm. All I wanted
+    was to go somewhere; all I wanted was a change, I wasn''t particular. She said
+    it was wicked to say what I said; she said she would not say it for the whole
+    world; she was going to live so as to go to the good place. Well, I could not
+    see no advantage in going where she was going, so I made up my mind I would not
+    try for it. But I never said so, because it would only make trouble, and would
+    not do any good. Now she had got a start, and she went on and told me all about
+    the good place. She said all a body would have to do there was to go around all
+    day long with a harp and sing, forever and ever. So I did not think much of it.
+    But I never said so. I asked her if she reckoned Tom Sawyer would go there, and,
+    she said, not by a considerable sight. I was glad about that, because I wanted
+    him and me to be together. Miss Watson she kept pegging at me, and it got tiresome
+    and lonely. By-and-by they fetched the niggers in and had prayers, and then everybody
+    was off to bed. I went up to my room with a piece of candle and put it on the
+    table. Then I set down in a chair by the window and tried to think of something
+    cheerful, but it wasn''t no use. I felt"'
+  handwritten_text_raw: 'Miss Watson would
+
+    say, " Dont put your feet up there,
+
+    Huckl0eberry; " and " dont scrunch up
+
+    like that, Huckleberry set up straight; "
+
+    and pretty soon she would say, " Do;n''t
+
+    gap and stretch like th;at, Huckleberry
+
+    why don''t yo;u try to behave? " Then
+
+    she told me all abou0t the bad place,
+
+    and I said I wished I was there. She
+
+    got mad, then, but I didn''t mean no
+
+    harm. All I wanted was to go some-
+
+    wher;es; ; all I wanted was a change, I
+
+    warn''t particular.; She said it was
+
+    wicked to ;say what I said ; said she
+
+    wouldn''t say it for the whole worl9d ; she was going to live so as to go to
+
+    the good place. Well, I ;couldn''t see no advantage in going where she
+
+    was going,; so I made up my mind I wouldn''t try for it. But I never said
+
+    so, because it would only make tr;ouble, and wouldn''t do no good.
+
+    Now she; had got 2a start, and she went on and told me all abou;t the
+
+    good place. She sa;id all a 4body would have to do t6here was to go around
+
+    all day lo2ng with a harp and sing, forever and ever. So I didn''t think
+
+
+    20 THE ADVENTURES OF HUCKLEBERRY FINN.
+
+    much of it. But I never said so. I asked her if she reckoned Tom
+
+    Sawyer w;ould go there, and, she said, not by a considerable sight. I was
+
+    glad about that, because I wanted him and me to be t1ogether.
+
+    Miss Watson she kept peckin;g at ;me, and it got ti;resome and lonesome.
+
+    By-and-by they fetched t2he niggers in and had prayers, and then everybody
+
+    was off3 to bed. ;I went up t5o my room with a; 4piece of candle and put
+
+    it on the ta;ble. Then I set down in a chair by the window and tried to
+
+    think of something cheerful, but it warn''t no use. I felt'
+  image_id: chapter_GT_01_chunk_3
+  metrics:
+    corrected:
+      CER: 0.021247429746401644
+      SS: 0.9295594096183777
+      WER: 0.08333333333333333
+    noise:
+      CER: 0.03769705277587389
+      SS: 0.9208658933639526
+      WER: 0.08653846153846154
+  typed_text: 'Miss Watson would say,
+
+    "Don''t put your feet up there, Huckleberry;" and "Don''t scrunch up like
+
+    that, Huckleberry--set up straight;" and pretty soon she would say,
+
+    "Don''t gap and stretch like that, Huckleberry--why don''t you try to
+
+    behave?"  Then she told me all about the bad place, and I said I wished I
+
+    was there. She got mad then, but I didn''t mean no harm.  All I wanted was
+
+    to go somewheres; all I wanted was a change, I warn''t particular.  She
+
+    said it was wicked to say what I said; said she wouldn''t say it for the
+
+    whole world; she was going to live so as to go to the good place.  Well,
+
+    I couldn''t see no advantage in going where she was going, so I made up my
+
+    mind I wouldn''t try for it.  But I never said so, because it would only
+
+    make trouble, and wouldn''t do no good.
+
+
+    Now she had got a start, and she went on and told me all about the good
+
+    place.  She said all a body would have to do there was to go around all
+
+    day long with a harp and sing, forever and ever.  So I didn''t think much
+
+    of it. But I never said so.  I asked her if she reckoned Tom Sawyer would
+
+    go there, and she said not by a considerable sight.  I was glad about
+
+    that, because I wanted him and me to be together.
+
+
+    Miss Watson she kept pecking at me, and it got tiresome and lonesome.  By
+
+    and by they fetched the niggers in and had prayers, and then everybody
+
+    was off to bed.  I went up to my room with a piece of candle, and put it
+
+    on the table.  Then I set down in a chair by the window and tried to
+
+    think of something cheerful, but it warn''t no use.  I felt'
+- handwritten_text_corrected: '"heard an owl, away off, hooting about somebody that
+    was dead, and a whip-poor-will and a dog crying about somebody that was going
+    to die; and the wind was trying to whisper something to me and I could not make
+    out what it was, so it made the cold shivers run over me. Then away out in the
+    woods I heard that kind of a sound that a ghost makes when it wants to tell about
+    something that''s on its mind and can''t make itself understood, and so can''t
+    rest easy in its grave and has to go about that way every night grieving. I got
+    so downhearted and scared, I did wish I had some company. Pretty soon a spider
+    went crawling up my shoulder, and I flicked it off and it landed in the candle;
+    before I could budge it was all shriveled up. I didn''t need anyone to tell me
+    that that was an awful bad sign and would fetch me some bad luck, so I was scared
+    and most shook the clothes off of me. I got up and turned around in my tracks
+    three times and crossed my breast every time; then I tied up a little lock of
+    my hair with a thread to keep witches away. But I had no confidence. You do that
+    when you''ve lost a horseshoe that you''ve found, instead of nailing it up over
+    the door, but I hadn''t ever heard anyone say it was any way to keep off bad luck
+    when you''d killed a spider. I set down again, shaking all over, and got out my
+    pipe for a smoke; for the house was all as still as death, now, and so the widow
+    wouldn''t know. Well, after a long time I heard the clock away off in the town
+    go boom boom boom twelve"'
+  handwritten_text_raw: 'heard an owl, away off, who-whooing
+
+    about someb7ody that was dead, and a whipp;owill and a dog crying about
+
+    som5ebody4 that was going to die; and the wind was trying to whisper some
+
+    thi;ng to me and I couldn''t make out what it 8was, and so it m5ade the cold
+
+    shive;rs run over me. Then away out in the woods I heard that kind of a
+
+    sound that a ghost makes when it wants6 to tell ab7out ;somet;hing that''s on
+    its
+
+    mind and can''t make i56tself understood, and so can''t rest easy in its grave
+
+    and has to go about that way every night grieving. I got so down-hearted
+
+    and scared, I did wish I had some company. Pretty soon a spider went
+
+    crawling up my shoulder, and I flipped it off and it lit in the candle ; and
+
+    before I could budge it was al3l shriveled up. I didn''t need any;body to tell
+
+    me that th;at w1as an awful bad sig;n and would fetch me some bad luck, so
+
+    I was scared and most shook the clo;;thes off of me. I got up and turned
+
+    around in my tracks three times and crossed my breast every time8; and
+
+    then I tied up a little lock of my hair with a thread to keep witches
+
+    away. But I hadn''t no confidence. You d1o that when you''ve lost a
+
+    horse-shoe that4 you''ve found, instead of nailing it up over the door, but I
+
+    had;n''t ever heard anyb;ody say it was any way to ke;ep off bad luck when
+
+    you''d killed a spider.
+
+    I set down again, a shaking all over, and got out my pipe for a smoke ;
+
+    for the house was all as still as death, now, and so the widow wouldn''t
+
+    know. Well, after a long time I heard the cl;ock away off in the town
+
+    go boom boom boom twelve'
+  image_id: chapter_GT_01_chunk_4
+  metrics:
+    corrected:
+      CER: 0.03038487508440243
+      SS: 0.9755614399909973
+      WER: 0.05519480519480519
+    noise:
+      CER: 0.01688048615800135
+      SS: 0.7595146894454956
+      WER: 0.06493506493506493
+  typed_text: 'heard an owl, away off, who-whooing
+
+    about somebody that was dead, and a whippowill and a dog crying about
+
+    somebody that was going to die; and the wind was trying to whisper
+
+    something to me, and I couldn''t make out what it was, and so it made the
+
+    cold shivers run over me. Then away out in the woods I heard that kind of
+
+    a sound that a ghost makes when it wants to tell about something that''s
+
+    on its mind and can''t make itself understood, and so can''t rest easy in
+
+    its grave, and has to go about that way every night grieving.  I got so
+
+    down-hearted and scared I did wish I had some company.  Pretty soon a
+
+    spider went crawling up my shoulder, and I flipped it off and it lit in
+
+    the candle; and before I could budge it was all shriveled up.  I didn''t
+
+    need anybody to tell me that that was an awful bad sign and would fetch
+
+    me some bad luck, so I was scared and most shook the clothes off of me.
+
+    I got up and turned around in my tracks three times and crossed my breast
+
+    every time; and then I tied up a little lock of my hair with a thread to
+
+    keep witches away.  But I hadn''t no confidence.  You do that when you''ve
+
+    lost a horseshoe that you''ve found, instead of nailing it up over the
+
+    door, but I hadn''t ever heard anybody say it was any way to keep off bad
+
+    luck when you''d killed a spider.
+
+
+    I set down again, a-shaking all over, and got out my pipe for a smoke;
+
+    for the house was all as still as death now, and so the widow wouldn''t
+
+    know. Well, after a long time I heard the clock away off in the town go
+
+    boom--boom--boom--twelve licks'
+- handwritten_text_corrected: '"went tip-toeing along a path amongst the trees, heading
+    back towards the end of the widow''s garden, stooping down so as the branches
+    wouldn''t scrape our heads. When we were passing by the kitchen, I fell over a
+    root and made a noise. We scrunched down and lay still. Miss Watson''s big nigger,
+    named Jim, was sitting in the kitchen door; we could see him pretty clearly because
+    there was a light behind him. He got up and stretched his neck out for about a
+    minute, listening. Then he asked, "Who''s that?" He listened some more; then he
+    came tip-toeing down and stood right between us; we could almost touch him. Well,
+    likely it was minutes and minutes that there wasn''t a sound, and we all there
+    so close together. There was a place on my ankle that got to itching; but I didn''t
+    scratch it; and then my ear began to itch; and next my back, right between my
+    shoulders. Seemed like I would die if I couldn''t scratch. Well, I''ve noticed
+    that thing plenty of times since. If you are with the quality, or at a funeral,
+    or trying to go to sleep when you aren''t sleepy, if you are anywhere THEY TIP-TOE
+    along tee boys escape Jim. 23 sphere it won''t do for you to scratch, why you
+    will itch all over in upwards of a thousand places. Pretty soon Jim says: "Who
+    is that? Where are you?" Dog my cats, if I didn''t hear something. Well, I know
+    what I''m going to do. I''m going to sit down here and listen until I hear it
+    again. So he sat down on the ground between me and Tom. He leaned his back up
+    against a tree, and stretched his legs out till one of them most touched one of
+    mine. My nose began to itch. It itched till the tears came into my eyes. But I
+    didn''t scratch. Then it began to itch on the inside. Next I got to itching."'
+  handwritten_text_raw: 'went tip-toeing along a path amongst
+
+    the trees back towards the end of the
+
+    widow''s garden, stooping down so as
+
+    the branches wouldn''t scrape our heads.
+
+    When we was passing by the kitchen
+
+    I fell over a root and made a noise.
+
+    We scrouched down and laid stilL
+
+    Miss Watson''s big nigger, named
+
+    Jim, was setting in the kitchen door 5 *
+
+    we could see him pretty clear, because
+
+    there was a light behind him. He
+
+    got up and stretched his neck out
+
+    about a minute, listening. Then he
+
+    ''''< Who dab? "
+
+    He listened some more; then he
+
+    come tip-toeing down and stood
+
+    right between us; we could a touched
+
+    him, nearly. Well, likely it was min
+
+    utes and minutes that there warn''t a
+
+    sound, and we all there so close
+
+    together. There was a place on my
+
+    ankle that got to itching ; but I
+
+    dasn''t scratch it; and then my ear begun to itch; and next my back, right be
+
+    tween my shoulders. Seemed like I''d die if I couldn''t scratch. Well, I''ve
+
+    noticed that thing plenty of times since. If you are with the quality, or at a
+
+    funeral, or trying to go to sleep when you ain''t sleepy if you are anywheres
+
+    THEY TIP-TOE^ ALONG
+
+    TEE BOYS ESCAPE JIM. 23
+
+    sphere it won''t do for you to scratch, why you will itch all over in upwards
+    of a
+
+    thousand places. Pretty soon Jim says:
+
+    " Say who is you? Whar is you? Dog my cats ef I didn''hear sumf n. Well,
+
+    I knows what Ps gwyne to do. Ps gwyne to set down here and listen tell I hears
+
+    it agin. "
+
+    So he set down on the ground betwixt me and Tom. He leaned his back up
+
+    against a tree, and stretched his legs out till one of them most touched one of
+
+    mine. My nose begun to itch. It itched till the tears come into my eyes. But
+
+    I dasn''t scratch. Then it begun to itch on the inside. Next I got to itching'
+  image_id: chapter_GT_02_chunk_1
+  metrics:
+    corrected:
+      CER: 0.10113065326633165
+      SS: 0.9825839400291443
+      WER: 0.1723076923076923
+    noise:
+      CER: 0.04773869346733668
+      SS: 0.9759272933006287
+      WER: 0.08307692307692308
+  typed_text: 'WE went tiptoeing along a path amongst the trees back towards the end
+    of
+
+    the widow''s garden, stooping down so as the branches wouldn''t scrape our
+
+    heads. When we was passing by the kitchen I fell over a root and made a
+
+    noise.  We scrouched down and laid still.  Miss Watson''s big nigger,
+
+    named Jim, was setting in the kitchen door; we could see him pretty
+
+    clear, because there was a light behind him.  He got up and stretched his
+
+    neck out about a minute, listening.  Then he says:
+
+
+    "Who dah?"
+
+
+    He listened some more; then he come tiptoeing down and stood right
+
+    between us; we could a touched him, nearly.  Well, likely it was minutes
+
+    and minutes that there warn''t a sound, and we all there so close
+
+    together.  There was a place on my ankle that got to itching, but I
+
+    dasn''t scratch it; and then my ear begun to itch; and next my back, right
+
+    between my shoulders.  Seemed like I''d die if I couldn''t scratch.  Well,
+
+    I''ve noticed that thing plenty times since.  If you are with the quality,
+
+    or at a funeral, or trying to go to sleep when you ain''t sleepy--if you
+
+    are anywheres where it won''t do for you to scratch, why you will itch all
+
+    over in upwards of a thousand places. Pretty soon Jim says:
+
+
+    "Say, who is you?  Whar is you?  Dog my cats ef I didn'' hear sumf''n.
+
+    Well, I know what I''s gwyne to do:  I''s gwyne to set down here and listen
+
+    tell I hears it agin."
+
+
+    So he set down on the ground betwixt me and Tom.  He leaned his back up
+
+    against a tree, and stretched his legs out till one of them most touched
+
+    one of mine.  My nose begun to itch.  It itched till the tears come into
+
+    my eyes.  But I dasn''t scratch.  Then it begun to itch on the inside.
+
+    Next I got to itching underneath.'
+- handwritten_text_corrected: '"to stay still. This miserableness went on as much
+    as six or seven minutes; but it seemed a sight longer than that. I was itching
+    in eleven different places now. I reckoned I couldn''t stand it more than a minute
+    longer, but I set my teeth hard and got ready to try. Just then Jim began to breathe
+    heavily; next he began to snore, and then I was pretty soon comfortable again.
+    Tom made a sign to me with a kind of little noise from his mouth, and we went
+    creeping away on our hands and knees. When we were ten feet off, Tom whispered
+    to me and wanted to tie Jim to the tree for fun; but I said no – he might wake
+    and make a disturbance, and then they''d find out I wasn''t there. Then Tom said
+    he didn''t have candles enough, and he would slip into the kitchen and get some
+    more. I didn''t want him to try. I said Jim might wake up and come. But Tom insisted
+    on trying; so we slid in there and got three candles, and Tom laid five cents
+    on the table for pay. Then we got out, and I was in a sweat to get away; but nothing
+    would do Tom but he must crawl to where Jim was, on his hands and knees, and play
+    something on him. I waited, and it seemed a good while, everything was so still
+    and lonesome. As soon as Tom was back, we cut along the path, around the garden
+    fence, and by-and-by fetched up on the steep top of the hill the other side of
+    the house. Tom said he slipped Jim''s hat off of his head and hung it on a limb
+    right over him, and Jim stirred a little, but he didn''t wake. Afterwards Jim
+    said the witches bewitched him and put him in a trance, and rode him all over
+    the State, and then set him under the trees"'
+  handwritten_text_raw: 'to set still. This miserableness
+
+    went on as much as six or seven minutes; but it seemed a sight longer than that.
+
+    I was itching in eleven different places now. I reckoned I couldn''t stand it
+
+    more''n a minute longer, but I set my teeth hard and got ready to try. Just then
+
+    Jim begun to breathe heavy; next he begun to snore and then I was pretty soon
+
+    comfortable again.
+
+    Tom he made a sign to me kind of a little noise with his mouth and we went
+
+    creeping away on our hands and knees. When we was ten foot off, Tom whis
+
+    pered to me and wanted to tie Jim to the tree for fun; but I said no ; he might
+
+    wake and make a disturbance, and then they''d find out I warn''t in. Then Tom
+
+    said he hadn''t got candles enough, and he would slip in the kitchen and get
+
+    some more. I didn''t want him to try. I said Jim might wake up and come.
+
+    But Tom wanted to resk it; so we slid in there and got three candles, and Tom
+
+    laid five cents on the table for pay. Then we got out, and I was in a sweat to
+
+    get away; but nothing would do Tom but he must crawl to where Jim was, on
+
+    his hands and knees, and play something on him. I waited, and it seemed a good
+
+    while, everything was so still and lonesome.
+
+    As soon as Tom was back, we cut along the path, around the garden fence,
+
+    and by-and-by fetched up on the steep top of the hill the other side of the house.
+
+    Tom said he slipped Jim''s hat off of his head and hung it on a limb right over
+
+    him, and Jim stirred a little, but he didn''t wake. Afterwards Jim said the
+
+    witches bewitched him and put him in a trance, and rode him all over the State,
+
+    and then set him under the trees'
+  image_id: chapter_GT_02_chunk_2
+  metrics:
+    corrected:
+      CER: 0.0463618802318094
+      SS: 0.938875675201416
+      WER: 0.09969788519637462
+    noise:
+      CER: 0.008370895041854474
+      SS: 0.9868528842926025
+      WER: 0.04229607250755287
+  typed_text: 'to set
+
+    still. This miserableness went on as much as six or seven minutes; but it
+
+    seemed a sight longer than that.  I was itching in eleven different
+
+    places now.  I reckoned I couldn''t stand it more''n a minute longer, but I
+
+    set my teeth hard and got ready to try.  Just then Jim begun to breathe
+
+    heavy; next he begun to snore--and then I was pretty soon comfortable
+
+    again.
+
+
+    Tom he made a sign to me--kind of a little noise with his mouth--and we
+
+    went creeping away on our hands and knees.  When we was ten foot off Tom
+
+    whispered to me, and wanted to tie Jim to the tree for fun.  But I said
+
+    no; he might wake and make a disturbance, and then they''d find out I
+
+    warn''t in. Then Tom said he hadn''t got candles enough, and he would slip
+
+    in the kitchen and get some more.  I didn''t want him to try.  I said Jim
+
+    might wake up and come.  But Tom wanted to resk it; so we slid in there
+
+    and got three candles, and Tom laid five cents on the table for pay.
+
+    Then we got out, and I was in a sweat to get away; but nothing would do
+
+    Tom but he must crawl to where Jim was, on his hands and knees, and play
+
+    something on him.  I waited, and it seemed a good while, everything was
+
+    so still and lonesome.
+
+
+    As soon as Tom was back we cut along the path, around the garden fence,
+
+    and by and by fetched up on the steep top of the hill the other side of
+
+    the house.  Tom said he slipped Jim''s hat off of his head and hung it on
+
+    a limb right over him, and Jim stirred a little, but he didn''t wake.
+
+    Afterwards Jim said the witches be witched him and put him in a trance,
+
+    and rode him all over the State, and then set him under the trees again'
+- handwritten_text_corrected: '"show who did it. And next time Jim told it he said
+    they rode him down to New Orleans: 24 THE ADVENTURES OF HUCKLEBERRY FINN. And
+    after that, every time he told it he spread it more and more, till by-and-by he
+    said they rode him all over the world, and tired him most to death, and his back
+    was all over saddle-boils. Jim was monstrous proud about it, and he got so he
+    would not hardly notice the other negroes. Negros would come miles to hear Jim
+    tell about it, and he was more looked up to than any negro in that country. Strange
+    negros would stand with their mouths open and look him all over, same as if he
+    was a wonder. Negros are always talking about witches in the dark by the kitchen
+    fire; but whenever one was talking and letting on to know all about such things,
+    Jim would happen in and say, Hm! What you know about witches? And that negro was
+    corked up and had to take a back seat. Jim always kept that five-cent piece around
+    his neck with a string and said it was a charm the devil gave to him with his
+    own hands and told him he could cure anybody with it and fetch witches whenever
+    he wanted to, just by saying something to it; but he never told what it was he
+    said to it. Negros would come from all around there and give Jim anything they
+    had, just for a sight of that five-cent piece; but they would not touch it, because
+    the devil had had his hands on it. Jim, JIM, was most ruined, for a servant, because
+    he got so stuck up on account of having seen the devil and been rode by witches.
+    Well, when Tom and I got to the edge of the hill-top, we looked away down into
+    the village and could see three or four lights twinkling, where there was sick
+    folks, maybe ; and the"'
+  handwritten_text_raw: 'show who
+
+    done it. And next time Jim told it he said they rode him down to New Orleans:
+
+    24
+
+    THE ADVENTURES OF HUGKLEBERRY FINN.
+
+    and after that, every time he told it he spread it more and more, till by-and-by
+
+    he said they rode him all over the world, and tired him most to death, and his
+
+    back was all over saddle-boils. Jim was monstrous proud about it, and he got so
+    he
+
+    wouldn''t hardly notice the other niggers. Niggers would come miles to hear Jim
+
+    tell about it, and he was more looked up to than any nigger in that country.
+
+    Strange niggers would stand with their mouths
+
+    open and look him all over, same as if he was
+
+    a wonder. Niggers is always talking about
+
+    witches in the dark by the kitchen fire; but
+
+    whenever one was talking and letting on to
+
+    know all about such things, Jim would happen
+
+    in and say, " Hm ! What you know''bout
+
+    witches ? " and that nigger was corked up and
+
+    had to take a back seat. Jim always kept that
+
+    five-center piece around his neck with a string
+
+    and said it was a charm the devil give to him
+
+    with his own hands and told him he could cure
+
+    anybody with it and fetch witches whenever he
+
+    wanted to, just by saying something to it; but
+
+    he never told what it was he said to it. Niggers
+
+    would come from all around there and give ! Jim
+
+    anything they had, just for a sight of that five-
+
+    center piece ; but they wouldn''t touch it, be
+
+    cause the devil had had his hands on it. Jim
+
+    JIM.
+
+    was most ruined, for a servant, because he got
+
+    so stuck up on account of having seen the devil and been rode by witches.
+
+
+    Well, when Tom and me got to the edge of the hill-top, we looked away
+
+    down into the village and could see three or four lights twinkling, where there
+
+    was sick folks, may be ; and the'
+  image_id: chapter_GT_02_chunk_3
+  metrics:
+    corrected:
+      CER: 0.06517690875232775
+      SS: 0.828315019607544
+      WER: 0.09785932721712538
+    noise:
+      CER: 0.03910614525139665
+      SS: 0.9727649092674255
+      WER: 0.0672782874617737
+  typed_text: 'show who done it.  And next time Jim told
+
+    it he said they rode him down to New Orleans; and, after that, every time
+
+    he told it he spread it more and more, till by and by he said they rode
+
+    him all over the world, and tired him most to death, and his back was all
+
+    over saddle-boils.  Jim was monstrous proud about it, and he got so he
+
+    wouldn''t hardly notice the other niggers.  Niggers would come miles to
+
+    hear Jim tell about it, and he was more looked up to than any nigger in
+
+    that country.  Strange niggers would stand with their mouths open and
+
+    look him all over, same as if he was a wonder.  Niggers is always talking
+
+    about witches in the dark by the kitchen fire; but whenever one was
+
+    talking and letting on to know all about such things, Jim would happen in
+
+    and say, "Hm!  What you know ''bout witches?" and that nigger was corked
+
+    up and had to take a back seat.  Jim always kept that five-center piece
+
+    round his neck with a string, and said it was a charm the devil give to
+
+    him with his own hands, and told him he could cure anybody with it and
+
+    fetch witches whenever he wanted to just by saying something to it; but
+
+    he never told what it was he said to it.  Niggers would come from all
+
+    around there and give Jim anything they had, just for a sight of that
+
+    five-center piece; but they wouldn''t touch it, because the devil had had
+
+    his hands on it.  Jim was most ruined for a servant, because he got stuck
+
+    up on account of having seen the devil and been rode by witches.
+
+
+    Well, when Tom and me got to the edge of the hilltop we looked away down
+
+    into the village and could see three or four lights twinkling, where
+
+    there was sick folks, maybe; and the stars over'

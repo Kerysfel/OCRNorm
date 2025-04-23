@@ -1,32 +1,36 @@
 import argparse
 import yaml
 import os
-import glob
-import re
 from src.evaluation import compute_wer, compute_cer, compute_semantic_similarity
 from src.normalization_pipeline import NormalizationPipeline
+from typing import List, Tuple
+from pathlib import Path
 
 
-def load_bln600_data(bln_base_path: str):
-    image_dir = os.path.join(bln_base_path, "Images")
-    ocr_dir = os.path.join(bln_base_path, "OCR Text")
-    gt_dir = os.path.join(bln_base_path, "Ground Truth")
+def load_text_pairs(
+    base_path: str, ocr_subdir: str = "OCR Text", gt_subdir: str = "Ground Truth"
+) -> List[Tuple[str, str, str]]:
+    """
+    Сканирует base_path/ocr_subdir и base_path/gt_subdir,
+    находит пары .txt файлов по общему имени (stem) и
+    возвращает список кортежей (doc_id, ocr_text, gt_text).
+    """
+    base = Path(base_path)
+    ocr_dir = base / ocr_subdir
+    gt_dir = base / gt_subdir
 
-    image_paths = sorted(glob.glob(os.path.join(image_dir, "*.tif")))
+    samples: List[Tuple[str, str, str]] = []
+    for ocr_file in sorted(ocr_dir.glob("*.txt")):
+        doc_id = ocr_file.stem
+        gt_file = gt_dir / f"{doc_id}.txt"
 
-    samples = []
-    for img_path in image_paths:
-        base = os.path.splitext(os.path.basename(img_path))[0]  # e.g., 3200797029
-        ocr_path = os.path.join(ocr_dir, base + ".txt")
-        gt_path = os.path.join(gt_dir, base + ".txt")
+        if not gt_file.exists():
+            print(f'Пропущен: {doc_id} (нет файла в "{gt_subdir}")')
+            continue
 
-        with open(ocr_path, "r", encoding="utf-8") as f:
-            ocr_text = f.read().strip()
-
-        with open(gt_path, "r", encoding="utf-8") as f:
-            gt_text = f.read().strip()
-
-        samples.append((base, ocr_text, gt_text))
+        ocr_text = ocr_file.read_text(encoding="utf-8").strip()
+        gt_text = gt_file.read_text(encoding="utf-8").strip()
+        samples.append((doc_id, ocr_text, gt_text))
 
     return samples
 
@@ -36,15 +40,18 @@ def main(config_path: str):
         config = yaml.safe_load(f)
 
     dataset_path = config["dataset"]["path"]
-    output_path = config["experiment"].get("output_path", "results/bln600_results.yaml")
-    debug = config["experiment"].get("debug", False)
+    output_path = config["experiment"].get(
+        "output_path", f"results/{config['dataset']['name']}_results.yaml"
+    )
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
     normalization_pipeline = NormalizationPipeline(config["llm"])
 
-    samples = load_bln600_data(dataset_path)
-    print(f"[INFO] Loaded BLN600 dataset. Found {len(samples)} samples.")
+    samples = load_text_pairs(dataset_path)
+    print(
+        f"[INFO] Loaded {config['dataset']['name']} dataset. Found {len(samples)} samples."
+    )
 
     results = []
 
