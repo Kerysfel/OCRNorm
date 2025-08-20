@@ -1,31 +1,31 @@
+# pyright: reportMissingTypeStubs=false
 import argparse
 import yaml
 import os
 from src.evaluation import compute_wer, compute_cer, compute_semantic_similarity
 from src.normalization_pipeline import NormalizationPipeline
-from typing import List, Tuple
 from pathlib import Path
 
 
 def load_text_pairs(
     base_path: str, ocr_subdir: str = "OCR Text", gt_subdir: str = "Ground Truth"
-) -> List[Tuple[str, str, str]]:
+) -> list[tuple[str, str, str]]:
     """
-    Сканирует base_path/ocr_subdir и base_path/gt_subdir,
-    находит пары .txt файлов по общему имени (stem) и
-    возвращает список кортежей (doc_id, ocr_text, gt_text).
+    Scans base_path/ocr_subdir and base_path/gt_subdir,
+    finds matching .txt files by common stem, and returns
+    a list of tuples (doc_id, ocr_text, gt_text).
     """
     base = Path(base_path)
     ocr_dir = base / ocr_subdir
     gt_dir = base / gt_subdir
 
-    samples: List[Tuple[str, str, str]] = []
+    samples: list[tuple[str, str, str]] = []
     for ocr_file in sorted(ocr_dir.glob("*.txt")):
         doc_id = ocr_file.stem
         gt_file = gt_dir / f"{doc_id}.txt"
 
         if not gt_file.exists():
-            print(f'Пропущен: {doc_id} (нет файла в "{gt_subdir}")')
+            print(f'Skipped: {doc_id} (no file in "{gt_subdir}")')
             continue
 
         ocr_text = ocr_file.read_text(encoding="utf-8").strip()

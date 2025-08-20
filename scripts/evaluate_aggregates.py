@@ -7,16 +7,13 @@ import statistics
 
 
 def main(results_path: str):
-    # 1) Считываем YAML
     with open(results_path, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f)
 
-    # Если data не список, значит формат неправильный
     if not isinstance(data, list):
         print(f"[ERROR] The file {results_path} does not contain a list.")
         return
 
-    # 2) Будем хранить все метрики в списках
     noise_wer = []
     noise_cer = []
     noise_ss = []
@@ -25,11 +22,9 @@ def main(results_path: str):
     corr_cer = []
     corr_ss = []
 
-    # 3) Пробегаем по записям в файле
     for item in data:
         metrics = item.get("metrics")
         if not metrics:
-            # Если нет метрик, пропускаем
             continue
 
         noise = metrics.get("noise")
@@ -51,7 +46,6 @@ def main(results_path: str):
             if "SS" in corrected:
                 corr_ss.append(corrected["SS"])
 
-    # 4) Средние (mean) метрики
     def safe_mean(values):
         return statistics.mean(values) if values else 0.0
 
@@ -63,7 +57,6 @@ def main(results_path: str):
     avg_corr_cer = safe_mean(corr_cer)
     avg_corr_ss = safe_mean(corr_ss)
 
-    # 5) Выводим
     print("==== AVERAGE METRICS ====")
     print(
         f"Noise (raw)   => WER={avg_noise_wer:.4f}, CER={avg_noise_cer:.4f}, SS={avg_noise_ss:.4f}"
