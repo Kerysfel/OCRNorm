@@ -30,7 +30,7 @@ def preprocess_text(s: str) -> str:
     return s
 
 
-def tokenize_words(s: str) -> list[str]:
+def tokenize_words(s: str, normalize: bool = True) -> list[str]:
     """
     Tokenize into words separated by spaces after preprocessing.
     Args:
@@ -38,11 +38,15 @@ def tokenize_words(s: str) -> list[str]:
     Returns:
         list[str]: The list of words.
     """
-    p = preprocess_text(s)
-    return p.split()
+    if normalize:
+        s = preprocess_text(s)
+    else:
+        # Collapse whitespace only, keep case and punctuation
+        s = re.sub(r"\s+", " ", s).strip()
+    return s.split()
 
 
-def tokenize_chars(s: str) -> list[str]:
+def tokenize_chars(s: str, normalize: bool = True) -> list[str]:
     """
     Tokenize into characters after preprocessing.
     Args:
@@ -50,8 +54,11 @@ def tokenize_chars(s: str) -> list[str]:
     Returns:
         list[str]: The list of characters.
     """
-    p = preprocess_text(s)
-    return list(p)
+    if normalize:
+        s = preprocess_text(s)
+    else:
+        s = re.sub(r"\s+", " ", s).strip()
+    return list(s)
 
 
 def levenshtein_distance(seq1: list[str], seq2: list[str]) -> int:
@@ -113,7 +120,7 @@ def levenshtein_distance(seq1: list[str], seq2: list[str]) -> int:
     return previous_row[m]
 
 
-def compute_wer(ground_truth: str, recognized: str) -> float:
+def compute_wer(ground_truth: str, recognized: str, normalize: bool = True) -> float:
     """
     Word Error Rate based on word-level Levenshtein distance.
     Args:
@@ -122,8 +129,8 @@ def compute_wer(ground_truth: str, recognized: str) -> float:
     Returns:
         float: The Word Error Rate.
     """
-    gt_tokens = tokenize_words(ground_truth)
-    rec_tokens = tokenize_words(recognized)
+    gt_tokens = tokenize_words(ground_truth, normalize=normalize)
+    rec_tokens = tokenize_words(recognized, normalize=normalize)
 
     if len(gt_tokens) == 0:
         return 0.0
@@ -132,7 +139,7 @@ def compute_wer(ground_truth: str, recognized: str) -> float:
     return dist / len(gt_tokens)
 
 
-def compute_cer(ground_truth: str, recognized: str) -> float:
+def compute_cer(ground_truth: str, recognized: str, normalize: bool = True) -> float:
     """
     Character Error Rate based on character-level Levenshtein distance.
     Args:
@@ -141,8 +148,8 @@ def compute_cer(ground_truth: str, recognized: str) -> float:
     Returns:
         float: The Character Error Rate.
     """
-    gt_chars = tokenize_chars(ground_truth)
-    rec_chars = tokenize_chars(recognized)
+    gt_chars = tokenize_chars(ground_truth, normalize=normalize)
+    rec_chars = tokenize_chars(recognized, normalize=normalize)
 
     if len(gt_chars) == 0:
         return 0.0

@@ -167,6 +167,9 @@ def main(config_path: str):
     output_path: str = config["experiment"].get(
         "output_path", f"results/{config['dataset']['name']}_results.yaml"
     )
+    normalize_before_eval: bool = bool(
+        config.get("experiment", {}).get("normalize_before_eval", True)
+    )
 
     out_dir_path = Path(output_path).parent
     if str(out_dir_path) not in ("", "."):
@@ -218,11 +221,19 @@ def main(config_path: str):
         corrected_text: str = normalization_pipeline.process(
             ocr_text, custom_prompt=strategy
         )
-        noise_wer: float = compute_wer(gt_text, ocr_text)
-        noise_cer: float = compute_cer(gt_text, ocr_text)
+        noise_wer: float = compute_wer(
+            gt_text, ocr_text, normalize=normalize_before_eval
+        )
+        noise_cer: float = compute_cer(
+            gt_text, ocr_text, normalize=normalize_before_eval
+        )
         noise_ss: float = compute_semantic_similarity(gt_text, ocr_text)
-        corr_wer: float = compute_wer(gt_text, corrected_text)
-        corr_cer: float = compute_cer(gt_text, corrected_text)
+        corr_wer: float = compute_wer(
+            gt_text, corrected_text, normalize=normalize_before_eval
+        )
+        corr_cer: float = compute_cer(
+            gt_text, corrected_text, normalize=normalize_before_eval
+        )
         corr_ss: float = compute_semantic_similarity(gt_text, corrected_text)
 
         result_item: dict[str, str | dict[str, dict[str, float]]] = {

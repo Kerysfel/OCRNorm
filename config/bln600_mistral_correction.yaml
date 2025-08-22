@@ -25,4 +25,5 @@ llm:
 experiment:
   output_path: results/bln600_mistral_correction.yaml
   debug: true
+  normalize_before_eval: true
   checkpoint_every: 5

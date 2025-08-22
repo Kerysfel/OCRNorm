@@ -1,5 +1,6 @@
 # src/normalization_pipeline.py
 import re
+import unicodedata
 
 from src.prompt_strategies import get_prompt_for_llm
 from scripts.llm_inference import call_local_llm
@@ -116,6 +117,34 @@ class NormalizationPipeline:
         return corrected_text.strip()
 
     def _regex_cleanup(self, text: str) -> str:
-        text = re.sub(r"[\(\)\[\]\"\']", "", text)
-        text = re.sub(r"\s+", " ", text)
+        # 1) Unicode-normalization and removal of invisible characters
+        text = unicodedata.normalize("NFKC", text)
+        text = re.sub(r"[\uFEFF\u200B-\u200F\u202A-\u202E]", "", text)
+
+        # 2) Normalize line breaks and remove line breaks with hyphens (OCR artifact)
+        text = text.replace("\r\n", "\n").replace("\r", "\n")
+        text = re.sub(r"(?<=\w)-\s*\n\s*(?=\w)", "", text, flags=re.UNICODE)
+
+        # 3) Collapse spaces/tabs (but not line breaks)
+        text = re.sub(r"[ \t\u00A0]+", " ", text)
+
+        # 4) Spaces around punctuation: remove before, ensure after
+        text = re.sub(r"\s+([,.:;!?])", r"\1", text)  # before punctuation
+        text = re.sub(r"([,.:;!?])(?!\s|\n|$)", r"\1 ", text)  # one space after
+
+        # 5) Careful parentheses/square/curly braces
+        text = re.sub(r"\(\s+", "(", text)
+        text = re.sub(r"\s+\)", ")", text)
+        text = re.sub(r"\[\s+", "[", text)
+        text = re.sub(r"\s+\]", "]", text)
+        text = re.sub(r"\{\s+", "{", text)
+        text = re.sub(r"\s+\}", "}", text)
+
+        # 6) Multiple spaces and "ragged" line breaks
+        text = re.sub(r"[ \t]{2,}", " ", text)
+        text = re.sub(r"\n{3,}", "\n\n", text)
+
+        # 7) Normalize ellipsis (optional)
+        text = re.sub(r"\.\s*\.\s*\.", "…", text)
+
         return text.strip()
