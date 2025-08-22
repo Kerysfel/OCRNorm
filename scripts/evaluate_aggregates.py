@@ -1,9 +1,9 @@
-#!/usr/bin/env python
 # scripts/evaluate_aggregates.py
 
 import argparse
-import yaml
+import yaml  # type: ignore
 import statistics
+import logging
 
 
 def main(results_path: str):
@@ -11,7 +11,7 @@ def main(results_path: str):
         data = yaml.safe_load(f)
 
     if not isinstance(data, list):
-        print(f"[ERROR] The file {results_path} does not contain a list.")
+        logging.error("The file %s does not contain a list.", results_path)
         return
 
     noise_wer = []
@@ -57,12 +57,18 @@ def main(results_path: str):
     avg_corr_cer = safe_mean(corr_cer)
     avg_corr_ss = safe_mean(corr_ss)
 
-    print("==== AVERAGE METRICS ====")
-    print(
-        f"Noise (raw)   => WER={avg_noise_wer:.4f}, CER={avg_noise_cer:.4f}, SS={avg_noise_ss:.4f}"
+    logging.info("==== AVERAGE METRICS ====")
+    logging.info(
+        "Noise (raw)   => WER=%.4f, CER=%.4f, SS=%.4f",
+        avg_noise_wer,
+        avg_noise_cer,
+        avg_noise_ss,
     )
-    print(
-        f"Corrected     => WER={avg_corr_wer:.4f}, CER={avg_corr_cer:.4f}, SS={avg_corr_ss:.4f}"
+    logging.info(
+        "Corrected     => WER=%.4f, CER=%.4f, SS=%.4f",
+        avg_corr_wer,
+        avg_corr_cer,
+        avg_corr_ss,
     )
 
 
@@ -71,5 +77,15 @@ if __name__ == "__main__":
     parser.add_argument(
         "--results", required=True, help="Path to the results YAML file"
     )
+    parser.add_argument(
+        "--log-level",
+        default="INFO",
+        choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
+        help="Logging level",
+    )
     args = parser.parse_args()
+    logging.basicConfig(
+        level=getattr(logging, args.log_level.upper(), logging.INFO),
+        format="%(asctime)s %(levelname)s %(message)s",
+    )
     main(args.results)

@@ -1,19 +1,28 @@
 dataset:
   name: BLN600
   path: TMP/bln600
+  ocr_subdir: "OCR Text"
+  gt_subdir: "Ground Truth"
 
 llm:
   use_llm: true
   model_name: "yandexgpt-5-lite-8b-instruct"
   provider: local
-  host: http://localhost:1234/v1/chat/completions
+  host: http://localhost:1234/v1/chat/completions # can be overridden by env LLM_ENDPOINT_URL
   model: yandexgpt-5-lite-8b-instruct
   temperature: 0.2
+  timeout_seconds: 30
+  seed: 42
   max_tokens: 4096
   top_p: 0.7
   top_k: 50
-  strategy: correction
+  # Strategy controls LLM stages:
+  # - cleanup        -> single-pass cleanup only
+  # - correction     -> single-pass correction only
+  # - full -> two-stage: cleanup then correction
+  strategy: full
 
 experiment:
   output_path: results/bln600_yandex_correction.yaml
   debug: true
+  checkpoint_every: 5

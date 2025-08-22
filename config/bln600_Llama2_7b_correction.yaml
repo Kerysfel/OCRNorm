@@ -1,13 +1,15 @@
 dataset:
   name: BLN600
   path: TMP/bln600
+  ocr_subdir: "OCR Text"
+  gt_subdir: "Ground Truth"
 
 llm:
   use_llm: true
-  model_name: "llama-2-7b-chat"
+  model_name: "llama-2-7b"
   provider: local
   host: http://localhost:1234/v1/chat/completions
-  model: llama-2-7b-chat
+  model: llama-2-7b
   temperature: 0.2
   max_tokens: 4096
   top_p: 0.7
@@ -17,3 +19,4 @@ llm:
 experiment:
   output_path: results/bln600_llama_2_7b_correction.yaml
   debug: true
+  checkpoint_every: 5

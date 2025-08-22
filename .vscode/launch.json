@@ -1,0 +1,90 @@
+{
+  "version": "0.2.0",
+  
+  "configurations": [
+    {
+      "name": "BLN600 - Mistral Correction",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/run_inference.py",
+      "args": [
+        "--config",
+        "${workspaceFolder}/config/bln600_mistral_correction.yaml"
+      ],
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+      },
+    },
+    {
+      "name": "BLN600 - Yandex Correction",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/run_inference.py",
+      "args": [
+        "--config",
+        "${workspaceFolder}/config/bln600_yandex_correction.yaml"
+      ],
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+      },
+    },
+    {
+      "name": "BLN600 - Llama-2 7B Correction",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/run_inference.py",
+      "args": [
+        "--config",
+        "${workspaceFolder}/config/bln600_Llama2_7b_correction.yaml"
+      ],
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+      },
+    },
+    {
+      "name": "BLN600 - Llama-2 13B Correction",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/run_inference.py",
+      "args": [
+        "--config",
+        "${workspaceFolder}/config/bln600_Llama2_13b_correction.yaml"
+      ],
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+      },
+    },
+    {
+      "name": "RETAS - Yandex Correction",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/run_inference.py",
+      "args": [
+        "--config",
+        "${workspaceFolder}/config/retas_yandex_correction.yaml"
+      ],
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+      },
+    },
+    {
+      "name": "RETAS - Mistral Correction",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/run_inference.py",
+      "args": [
+        "--config",
+        "${workspaceFolder}/config/retas_mistral_correction.yaml"
+      ],
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+      },
+    },
+  ]
+}
