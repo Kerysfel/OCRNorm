@@ -13,7 +13,7 @@ Where:
 - **I** = Insertions (extra words)
 - **N** = Total words in ground truth
 
-**Implementation**: [`src/evaluation.py:74-90`](https://github.com/your-repo/ORCNorm/blob/main/src/evaluation.py#L74-L90)
+**Implementation**: [`src/evaluation.py:74-90`](../src/evaluation.py#L74-L90)
 
 **Preprocessing**:
 
@@ -43,7 +43,7 @@ Where:
 - **I** = Character insertions
 - **N** = Total characters in ground truth
 
-**Implementation**: [`src/evaluation.py:93-109`](https://github.com/your-repo/ORCNorm/blob/main/src/evaluation.py#L93-L109)
+**Implementation**: [`src/evaluation.py:93-109`](../src/evaluation.py#L93-L109)
 
 **Preprocessing**: Same as WER - configurable normalization via `normalize` parameter
 
@@ -65,7 +65,7 @@ Where:
 - **θ** = Angle between embedding vectors
 - **Range**: 0.0 (completely different) to 1.0 (identical meaning)
 
-**Implementation**: [`src/evaluation.py:115-130`](https://github.com/your-repo/ORCNorm/blob/main/src/evaluation.py#L115-L130)
+**Implementation**: [`src/evaluation.py:115-130`](../src/evaluation.py#L115-L130)
 
 **Model**: Uses `sentence-transformers/all-MiniLM-L6-v2` for embedding generation
 
